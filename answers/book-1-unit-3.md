@@ -21,7 +21,7 @@
 
 ## 3. Complete using hacer in the question and ir in the answer
 
-The destinations are sample answers; any *al / a la* + place is correct.
+The destinations are sample answers.
 
 1. ¿Qué **haces** tú los viernes? Los viernes yo **voy al cine**.
 2. ¿Qué **hacen** ellos los domingos? Los domingos ellos **van al parque**.
@@ -30,7 +30,7 @@ The destinations are sample answers; any *al / a la* + place is correct.
 5. ¿Qué **hacen** ustedes los martes? Los martes nosotros **vamos al mercado**.
 6. ¿Qué **hacen** ellos los jueves? Los jueves ellos **van al restaurante**.
 7. ¿Qué **hace** usted los sábados? Los sábados yo **voy a la iglesia**.
-8. ¿Qué **haces** tú los viernes? Los viernes yo **voy al concierto**.
+8. ¿Qué **haces** tú los viernes? Los viernes yo **voy al club**.
 
 ## 4. Translate
 
@@ -61,7 +61,7 @@ The first blank is a sample answer; the rest are fixed.
 
 ## 6. Complete the sentences using ir
 
-Sample answers — any place introduced with *a/al/a la* is acceptable.
+Sample answers.
 
 1. Los lunes por la mañana yo **voy al gimnasio**.
 2. Los martes por la tarde yo **voy al trabajo**.

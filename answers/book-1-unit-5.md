@@ -13,8 +13,8 @@
 9. Yo trabajo en una tienda y mi hermana trabaja en una oficina.
 10. ¿Trabajas en un restaurante?
 11. A veces trabajo con Peter, a veces con Maria.
-12. Siempre canto y bailo en mi cuarto.
-13. Los viernes por la noche siempre cocino pasta en mi apartamento.
+12. Siempre canto y bailo en mi cuarto. 
+13. Siempre cocino pasta en mi apartamento los viernes por la noche.
 
 ## 2. Write a conversation using regular -ar verbs
 
@@ -34,7 +34,7 @@ This is an open-ended exercise. A model conversation:
 
 ## 3. Translate
 
-1. Los lunes por la noche siempre bebo agua.
+1. Siempre bebo agua los lunes por la noche.
 2. Mi amigo nunca bebe agua.
 3. Siempre como pizza en Arturo's.
 4. A veces leo el New Yorker.
@@ -45,14 +45,14 @@ This is an open-ended exercise. A model conversation:
 
 ## 4. Answer the questions
 
-Sample answers — full sentences using the same verb in the question.
+Sample answers.
 
-1. Sí, bebo mucha Coca Cola. *(or* No, no bebo mucha Coca Cola.*)*
+1. Sí, bebo mucha Coca Cola.
 2. No, no como pizza casi cada día. Como pizza los viernes.
 3. Sí, a veces como en McDonald's.
 4. Sí, comprendo español.
 5. No, no leo People o Life cada semana.
-6. No, no leo Vogue. *(or* Sí, a veces leo Vogue.*)*
+6. No, no leo Vogue.
 7. Sí, escribo mucho en mi computadora.
 8. Sí, a veces hablo por teléfono con mi amiga.
 
@@ -60,7 +60,7 @@ Sample answers — full sentences using the same verb in the question.
 
 Open-ended. A model answer:
 
-> Sí, tengo una hermana y un hermano. Mi hermana vive en Boston y mi hermano vive en Chicago. Mis padres viven en Nueva Jersey. Tengo dos tíos en España y muchos primos en Madrid. No tengo hijos.
+> Tengo una hermana y un hermano. Mi hermana vive en Boston y mi hermano vive en Chicago. Mis padres viven en Nueva Jersey. Tengo dos tíos en España y muchos primos en Madrid. No tengo hijos.
 
 ## 6. Conjugate
 
@@ -170,4 +170,4 @@ When *mucho/poco* qualifies a noun it is an adjective and matches gender + numbe
 5. Ana escribe muy bien.
 6. Ustedes estudian mucho.
 7. Nuestro tío cocina muy mal.
-8. Casablanca es una buena película. *(or* una película buena*)*
+8. Casablanca es una película buena.

@@ -4,14 +4,14 @@
 
 Open-ended. Sample answers:
 
-1. Tengo diez zapatos. *(cinco pares)*
+1. Tengo diez zapatos.
 2. Tengo seis pantalones.
-3. Sí, a veces llevo traje. *(or* No, nunca llevo traje.*)*
+3. Sí, a veces llevo traje.
 4. En mi casa hay treinta camisetas.
 5. Tengo tres abrigos.
-6. No, no tengo muchos vestidos. *(or* Sí, tengo muchos vestidos.*)*
+6. No, no tengo muchos vestidos.
 7. Mi camiseta favorita es azul.
-8. No, no llevo falda. *(or* Sí, a veces llevo falda.*)*
+8. Sí, a veces llevo falda.
 
 ## 2. Translate
 
@@ -37,16 +37,16 @@ After a preposition, *yo* becomes *mí* and *tú* becomes *ti*.
 
 Open-ended. Sample answers:
 
-1. Sí, me gusta bailar. *(or* No, no me gusta bailar.*)*
+1. Sí, me gusta bailar.
 2. Sí, me gustan las fresas.
 3. Sí, me gusta leer libros.
-4. A mi amigo le gusta ir al gimnasio. A mí también me gusta. *(or* A mí no me gusta.*)*
+4. A mi amigo le gusta ir al gimnasio. A mí también me gusta ir al gimnasio.
 5. Sí, me gusta el café.
 6. Sí, me gusta cocinar. A mi amiga también le gusta cocinar.
 
 ## 5. Translate
 
-Generic / uncountable nouns require a definite article with *gustar*.
+Generic nouns require a definite article with *gustar*.
 
 1. ¿Te gusta estudiar español?
 2. ¿A Mary le gusta el chocolate?

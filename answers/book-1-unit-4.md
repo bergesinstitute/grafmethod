@@ -24,14 +24,14 @@
 
 This is an open-ended writing exercise. A model answer:
 
-> En mi casa hay dos cuartos, tres ventanas, una televisión, una sala pequeña, una cocina blanca, una mesa marrón, cuatro sillas negras, un sofá verde y muchos libros. No tengo piano, pero tengo una guitarra.
+> En mi casa hay dos cuartos, tres ventanas, una televisión, una sala pequeña, una cocina blanca, una mesa marrón, cuatro sillas negras, un sofá verde y muchos libros. No tengo un piano, pero tengo una guitarra.
 
 ## 3. Translate
 
 1. Mi madre tiene un sofá verde y su sala es grande.
 2. Su padre es de Nueva York pero ella es de Uruguay.
 3. Mi apartamento es pequeño pero mi cuarto es grande.
-4. Nuestra cocina es amarilla y su cocina es morada. *(or* púrpura*)*
+4. Nuestra cocina es amarilla y su cocina es morada.
 5. Ustedes tienen un baño grande.
 6. Tenemos un armario rosa en el baño.
 7. Nuestro apartamento tiene una sala grande pero una cocina pequeña.

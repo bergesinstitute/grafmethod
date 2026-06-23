@@ -68,5 +68,5 @@ Open-ended. Sample answers:
 2. Me acuesto a las once de la noche.
 3. Sí, me peino por la mañana.
 4. Normalmente me ducho a las siete y media de la mañana.
-5. No, no me miro mucho en el espejo. *(or* Sí, me miro mucho en el espejo.*)*
+5. No, no me miro mucho en el espejo.
 6. Sí, me lavo la cara cada día.

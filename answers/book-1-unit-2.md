@@ -85,7 +85,6 @@ Either gender is acceptable; the masculine form is shown.
 ## 7. Fill in the blanks using ser or estar
 
 Yo **soy** de España, pero mis hermanos **son** de Francia. Mi madre **es** de Madrid y mi padre **es** de Barcelona. Mi madre **es** alta y mi padre **es** bajo. Mis hermanos **son** altos y grandes.
-
 La casa de mis padres **es** grande. La casa **está** en Ibiza. El carro de mi padre **es** negro.
 
 ## 8. Translate

@@ -10,7 +10,7 @@ Open-ended. Sample answers (full sentences):
 4. Estudio los lunes y los miércoles.
 5. Yo vivo en Nueva York. Mi familia vive en California.
 6. Camino al trabajo.
-7. No, no ceno con mis amigos en un restaurante cada sábado. Ceno con ellos los viernes.
+7. No, no ceno con mis amigos en un restaurante cada sábado. Ceno con mis amigos los viernes.
 8. No, no como pizza los martes por la tarde.
 9. No, no compro muchos zapatos normalmente.
 10. Sí, cocino los domingos por la noche.
@@ -36,16 +36,16 @@ Open-ended. Sample answers (full sentences):
 
 ## 3. Draw a monster
 
-This is a drawing exercise — there is no written answer. The Spanish vocabulary used in the prompt:
+This is a drawing exercise. There is no written answer. The Spanish vocabulary used in the prompt:
 
-- *Cabeza* — head
-- *Ojos* — eyes
-- *Orejas* — ears
-- *Brazos* — arms
-- *Pelo* — hair
-- *Piernas* — legs
-- *Bocas* — mouths
-- *Dientes afilados* — sharp teeth
+- *Cabeza* - head
+- *Ojos* - eyes
+- *Orejas* - ears
+- *Brazos* - arms
+- *Pelo* - hair
+- *Piernas* - legs
+- *Bocas* - mouths
+- *Dientes afilados* - sharp teeth
 
 ## 4. Spell the numbers
 
@@ -71,14 +71,12 @@ This is a drawing exercise — there is no written answer. The Spanish vocabular
 
 ## 5. ¿Qué hora es?
 
-Two acceptable styles for half/quarter are shown where applicable.
-
-- 2:45 — Son las dos y cuarenta y cinco. *(or* Son las tres menos cuarto.*)*
+- 2:45 — Son las dos y cuarenta y cinco.
 - 5:24 — Son las cinco y veinticuatro.
 - 9:05 — Son las nueve y cinco.
 - 11:40 — Son las once y cuarenta.
 - 6:00 — Son las seis.
-- 7:15 — Son las siete y cuarto. *(or* Son las siete y quince.*)*
+- 7:15 — Son las siete y cuarto.
 - 8:58 — Son las ocho y cincuenta y ocho.
 - 10:00 PM — Son las diez de la noche.
 - 10:00 AM — Son las diez de la mañana.
@@ -89,4 +87,4 @@ Two acceptable styles for half/quarter are shown where applicable.
 - 6:10 AM — Son las seis y diez de la mañana.
 - 6:50 AM — Son las seis y cincuenta de la mañana.
 - 1:44 PM — Es la una y cuarenta y cuatro de la tarde.
-- 2:30 — Son las dos y media. *(or* Son las dos y treinta.*)*
+- 2:30 — Son las dos y media.
