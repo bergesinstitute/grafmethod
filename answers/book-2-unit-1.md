@@ -12,7 +12,7 @@ Use *ser* with professions and don't use the article *un/una* with them.
 6. Los contables están muy ocupados.
 7. Yo soy psicólogo y mi esposa es economista.
 8. Alicia Keys es mi cantante favorita. Ella canta muy bien.
-9. Mi amigo es camarero en un restaurante. *(or* mesero*)*
+9. Mi amigo es camarero / mesero en un restaurante.
 10. ¿Quién es tu actor favorito y por qué?
 11. Alicia es periodista en el New York Times.
 12. Los políticos hablan mucho.
@@ -20,7 +20,7 @@ Use *ser* with professions and don't use the article *un/una* with them.
 14. Mi padre es taxista en Bogotá.
 15. James es enfermero y su esposa Norah es doctora.
 16. Los recepcionistas en mi oficina siempre están muy felices.
-17. A mi perro Milú le gusta mucho su veterinario.
+17. A mi perro Milú le gusta mucho su veterinario. / Mi perro Milú ama a su veterinario.
 18. ¿Ella es piloto, modelo, arquitecta o científica?
 19. Salvador Dalí es mi pintor favorito de España y Frida Kahlo es mi pintora favorita de México.
 20. Tu amigo Peter es cocinero en un restaurante en Brooklyn.
@@ -32,7 +32,7 @@ Use *ser* with professions and don't use the article *un/una* with them.
 
 Open-ended. A model answer about a sister:
 
-> Mi hermana se llama Lucía. Ella vive en Boston, en un apartamento pequeño cerca del centro. Es estudiante en la universidad y también trabaja en una cafetería los fines de semana. Lucía es alta y delgada. Tiene la piel clara, el pelo largo y rizado, y los ojos verdes. Es muy simpática, inteligente y alegre, pero a veces es un poco antipática cuando está muy cansada. Le gusta mucho leer y bailar.
+> Mi hermana se llama Lucía. Ella vive en Boston, en un apartamento pequeño. Es estudiante en la universidad y también trabaja en una cafetería los fines de semana. Lucía es alta y delgada. Tiene la piel clara, el pelo largo y rizado, y los ojos verdes. Es muy simpática, inteligente y alegre, pero a veces es un poco antipática cuando está muy cansada. Le gusta mucho leer y bailar.
 
 ## 3. Translate
 
@@ -44,8 +44,8 @@ Open-ended. A model answer about a sister:
 6. Mi hermana está en Corea.
 7. Yo soy abogado.
 8. Yo estoy muy preocupado.
-9. Juan tiene los ojos azules. *(or* Los ojos de Juan son azules.*)*
-10. Maria tiene el pelo largo. *(or* El pelo de Maria es largo.*)*
+9. Los ojos de Juan son azules. 
+10. El pelo de Maria es largo.
 11. Maria tiene el pelo largo.
 
 ## 4. Fill in the blanks using ser or estar
@@ -69,11 +69,11 @@ Open-ended. Sample answers:
 
 1. Los lunes yo estoy muy **cansado** porque **trabajo mucho**.
 2. Los martes yo estoy muy **emocionado** porque **voy al gimnasio por la noche**.
-3. Los miércoles yo estoy muy **ocupado** porque **tengo muchas reuniones**.
-4. Los jueves yo estoy muy **nervioso** porque **tengo un examen de español**.
-5. Los viernes yo estoy muy **feliz** porque **es el fin de semana**.
+3. Los miércoles yo estoy muy **ocupado** porque **trabajo en la oficina**.
+4. Los jueves yo estoy muy **nervioso** porque **voy a la escuela**.
+5. Los viernes yo estoy muy **feliz** porque **voy al club**.
 6. Los sábados yo estoy muy **relajado** porque **descanso en mi casa**.
-7. Los domingos yo estoy un poco **aburrido** porque **no tengo planes**.
+7. Los domingos yo estoy un poco **aburrido** porque **estoy en mi casa y no trabajo**.
 8. Yo soy muy **alto** y muy **simpático** y un poco **tímido**.
 
 ## 6. Write a conversation using the present tense
@@ -84,7 +84,7 @@ Open-ended. A model conversation:
 >
 > CARLOS: Hola Ana, estoy muy bien, gracias. ¿Tú cómo estás?
 >
-> A: Estoy un poco cansada porque trabajo mucho. ¿En qué trabajas?
+> A: Estoy un poco cansada porque trabajo mucho. ¿Tú dónde trabajas?
 >
 > C: Soy ingeniero. Trabajo en una oficina en Manhattan. ¿Y tú?
 >
@@ -94,4 +94,4 @@ Open-ended. A model conversation:
 >
 > A: No, vivo en Queens con mi hermana. Ella es enfermera.
 >
-> C: Mi hermano también es enfermero. ¡Qué interesante!
+> C: Mi hermano también es enfermero.

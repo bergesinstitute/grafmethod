@@ -1,7 +1,5 @@
 # Answer key — Book 1, Unit 9
 
-The unit 9 homework is an open-ended writing exercise. Below is a model essay that uses the grammar and vocabulary from units 1–8.
-
 ## Model essay
 
 > Hola, me llamo Daniel y tengo treinta y cinco años. Yo soy de Nueva York, pero ahora vivo en Brooklyn. Soy profesor de español. Trabajo en una escuela en Manhattan de lunes a viernes, de nueve de la mañana a cuatro de la tarde.

@@ -13,12 +13,12 @@
 Open-ended. Sample answers:
 
 1. Sí, quiero beber agua.
-2. No, no quiero tomar un café ahora.
+2. No, no quiero tomar un café.
 3. Sí, puedo ir a la cena esta noche.
 4. Sí, necesito unas vacaciones.
 5. No, no debo trabajar los fines de semana.
-6. Sí, tengo que ir al mercado el sábado.
-7. Sí, tengo que hacer la tarea de español esta noche.
+6. Sí, tengo que ir al mercado.
+7. Sí, tengo que hacer la tarea de español.
 8. Sí, quiero hacer más ejercicio.
 9. No, no puedo correr 5 millas en menos de 40 minutos.
 10. Sí, necesito tomar café por la mañana.
@@ -50,9 +50,9 @@ Open-ended. Sample answers:
 
 Open-ended. A model answer:
 
-> Yo puedo hablar inglés y español, yo puedo cocinar una sopa de pollo deliciosa, yo puedo nadar, yo puedo escribir bien y yo puedo correr cinco millas.
+> Yo puedo cocinar una sopa de pollo deliciosa, yo puedo nadar, yo puedo escribir bien y yo puedo correr cinco millas.
 >
-> Yo no puedo tocar el piano, yo no puedo bailar tango, yo no puedo hablar francés, yo no puedo cantar bien y yo no puedo levantarme antes de las siete.
+> Yo no puedo tocar el piano, yo no puedo bailar tango, yo no puedo hablar francés, yo no puedo cantar bien.
 
 ## 6. Translate
 

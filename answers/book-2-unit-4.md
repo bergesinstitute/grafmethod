@@ -89,11 +89,11 @@ Open-ended. Model sentences:
 
 Open-ended. A model answer using *antes* and *después*:
 
-> El sábado pasado me levanté a las nueve de la mañana. Antes de desayunar, me duché. Después de ducharme, desayuné un café y unas tostadas. Después del desayuno, fui al supermercado. Después de ir al supermercado, cociné un pollo con verduras. Antes del almuerzo, llamé a mi madre. Después del almuerzo, descansé en el sofá. Por la noche fui a un restaurante con mi amigo Carlos. Después de cenar, fuimos a un bar. Después del bar, llegué a casa muy tarde y me acosté.
+> El sábado pasado, antes de desayunar, me duché. Desayuné un café y unas tostadas. Después del desayuno, fui al supermercado. Después de ir al supermercado, cociné pollo con verduras. Después de comer, descansé en el sofá. Por la noche fui a un restaurante con mi amigo Carlos. Después de cenar, fuimos a un bar.
 
 ## 3 (translate). Translate
 
-For *that*, either *ese* or *aquel* is acceptable; the key uses *ese* by default.
+For *that*, either *ese* or *aquel* is acceptable.
 
 1. Me gustan estas manzanas.
 2. ¿Fuiste a ese teatro con Mary?
@@ -107,5 +107,5 @@ For *that*, either *ese* or *aquel* is acceptable; the key uses *ese* by default
 10. No comprendiste este problema.
 11. Mary fue de esa casa a ese restaurante.
 12. Vendí estos libros por cuarenta dólares.
-13. Tengo esta mesita. Está en mi sala.
+13. Tengo esta mesa pequeña. Está en mi sala.
 14. Sarah llegó a este gimnasio a las siete.

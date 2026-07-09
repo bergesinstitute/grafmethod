@@ -72,4 +72,4 @@ Open-ended. Model sentences:
 
 ## 5. Translate
 
-> El lunes fui al mercado. El martes, fui a Central Park. El miércoles, fui a un restaurante. El jueves, fui a Boston. El viernes fui a la casa de mi amigo. El sábado, fui al gimnasio.
+> Fui al mercado el lunes. El martes, fui a Central Park. El miércoles, fui a un restaurante. El jueves, fui a Boston. Fui a la casa de mi amigo el viernes. El sábado, fui al gimnasio.

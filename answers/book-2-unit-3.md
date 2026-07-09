@@ -6,10 +6,10 @@ Destinations are sample answers.
 
 1. ¿Qué **hiciste** tú el viernes pasado? El viernes pasado yo **fui al cine**.
 2. ¿Qué **hicieron** ellos el jueves pasado? El jueves pasado ellos **fueron al parque**.
-3. ¿Qué **hizo** usted el miércoles pasado por la noche? El miércoles pasado por la noche yo **fui al restaurante**.
+3. ¿Qué **hizo** usted el miércoles pasado por la noche? El miércoles pasado por la noche yo **fui a un restaurante**.
 4. ¿Qué **hizo** María el domingo pasado? El domingo pasado María **fue a la iglesia**.
 5. ¿Qué **hicimos** nosotros el lunes pasado? El lunes pasado nosotros **fuimos al gimnasio**.
-6. ¿Qué **hicieron** ustedes el 23 de marzo? El 23 de marzo nosotros **fuimos al concierto**.
+6. ¿Qué **hicieron** ustedes el 23 de marzo? El 23 de marzo nosotros **fuimos al club**.
 
 ## 2. Complete using ir in the pretérito perfecto tense
 
@@ -19,7 +19,7 @@ Sample answers.
 2. El miércoles pasado por la noche ella **fue al cine**.
 3. El viernes pasado a las cinco nosotros **fuimos al gimnasio**.
 4. El domingo pasado mi amigo Antonio **fue a la iglesia**.
-5. El martes pasado por la mañana usted **fue al trabajo**.
+5. El martes pasado por la mañana usted **fue al parque**.
 
 ## 3. Complete using ir in the pretérito perfecto tense
 
@@ -162,4 +162,4 @@ Open-ended. Sample answers:
 
 Open-ended. A model answer:
 
-> En mis últimas vacaciones, fui a Italia con mi esposa. Llegamos a Roma el 5 de julio. Estuvimos en Roma por cuatro días. Visitamos el Coliseo, el Vaticano y muchos museos. Comimos mucha pasta y mucha pizza. Después fuimos a Florencia en tren. Caminamos mucho en la ciudad y compramos regalos para nuestra familia. El último día fuimos a Venecia. Tomamos un barco en el Gran Canal. Fue un viaje fantástico.
+> En mis últimas vacaciones, fui a Italia con mi esposa. Llegamos a Roma el 5 de julio. Estuvimos en Roma por cuatro días. Visitamos el Coliseo, el Vaticano y muchos museos. Comimos mucha pasta y mucha pizza. Después fuimos a Florencia. Caminamos mucho en la ciudad y compramos regalos para nuestra familia.

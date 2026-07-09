@@ -20,7 +20,7 @@ Ayer...
 Open-ended. Model sentences:
 
 1. Ayer me levanté a las siete de la mañana.
-2. El sábado pasado mi hermana se maquilló para la fiesta.
+2. El sábado pasado mi hermana se maquilló.
 3. Anoche nos acostamos muy tarde.
 4. El domingo me lavé el pelo dos veces.
 5. Esta mañana mi padre se duchó antes del desayuno.
@@ -90,8 +90,8 @@ Open-ended. Model sentences:
 
 **Saber**
 
-1. Yo sé hablar español e inglés.
-2. ¿Sabes a qué hora abre el supermercado?
+1. Yo sé hablar francés.
+2. ¿Sabes que Juan vive en Queens?
 3. Mi padre sabe que tengo un examen mañana.
 
 ## 8. Translate
@@ -106,12 +106,12 @@ Open-ended. Model sentences:
 
 ## 9. Answer using yo también or yo tampoco
 
-1. Yo no tengo un perro azul. — **Yo tampoco.**
-2. Pedro no come en su cama. — **Yo tampoco.**
-3. Yo no fui a la Luna. — **Yo tampoco.**
-4. María bebe agua cada día. — **Yo también.**
-5. Juan necesita comer cada día. — **Yo también.**
-6. Mi prima tiene una computadora. — **Yo también.**
-7. Ella se ducha cada día. — **Yo también.**
-8. Yo no puedo correr 30 millas. — **Yo tampoco.**
-9. Él no tiene una casa en Vermont. — **Yo tampoco.**
+1. Yo no tengo un perro azul. — **Yo tampoco tengo un perro azul.**
+2. Pedro no come en su cama. — **Yo tampoco como en mi cama.**
+3. Yo no fui a la Luna. — **Yo tampoco fui a la Luna.**
+4. María bebe agua cada día. — **Yo también bebo agua cada día.**
+5. Juan necesita comer cada día. — **Yo también necesito comer cada día.**
+6. Mi prima tiene una computadora. — **Yo también tengo una computadora.**
+7. Ella se ducha cada día. — **Yo también me ducho cada día.**
+8. Yo no puedo correr 30 millas. — **Yo tampoco puedo correr 30 millas.**
+9. Él no tiene una casa en Vermont. — **Yo tampoco tengo una casa en Vermont.**

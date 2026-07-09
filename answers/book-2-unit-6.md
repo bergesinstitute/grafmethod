@@ -4,14 +4,14 @@
 
 Open-ended. A model story:
 
-> El viernes pasado, mi amiga Carla y yo fuimos a Madrid. Llegamos al aeropuerto a las dos de la tarde. Tomamos un taxi al hotel. Por la noche, cenamos en un restaurante en el centro y bebimos vino. El sábado por la mañana, visitamos el museo del Prado. Caminamos mucho y comimos tapas en una taberna. El domingo, fuimos al parque del Retiro. Después, compramos regalos para nuestras familias. Llegamos a Nueva York el lunes por la mañana. Fue un viaje fantástico.
+> El viernes pasado, mi amiga Carla y yo fuimos a Madrid. Llegamos a las dos de la tarde. Por la noche, cenamos en un restaurante en el centro y bebimos vino. El sábado por la mañana, visitamos el museo del Prado. Caminamos mucho y comimos tapas en una taberna. El domingo, fuimos al parque del Retiro. Después de ir al parque, compramos regalos para nuestras familias. Llegamos a Nueva York el lunes por la mañana.
 
 ## 2. Translate
 
 1. Siempre miro la televisión después de ir al gimnasio.
-2. Siempre me acuesto después de cenar. *(or* después de la cena*)*
+2. Siempre me acuesto después de cenar / de la cena.
 3. Llamé a Mary durante los anuncios.
-4. Antes del desayuno, miro la televisión.
+4. Antes del desayuno / de desayunar, miro televisión / miro la televisión.
 5. El lunes pasado, comí pizza después de mi clase de español.
 
 ## 3. Fill in the blanks
