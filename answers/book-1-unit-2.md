@@ -3,7 +3,7 @@
 ## 1. Translate
 
 1. El hijo está cansado.
-2. Yo estoy cansado. *(or* cansada *if you are female)*
+2. Yo estoy cansado. (*or* cansada *if you are female*)
 3. La gata es roja.
 4. El perro es negro.
 5. Tú eres baja.
@@ -64,7 +64,7 @@ Either gender is acceptable; the masculine form is shown.
 ## 5. Translate
 
 1. Mi tío y mi hermano son altos.
-2. Tú y tu hermana son amigos. *(In Spain:* sois amigos.*)*
+2. Tú y tu hermana son amigos. (*In Spain:* sois amigos.)
 3. Mike y Sarah son de Madrid.
 4. Tus perras y mis gatas son amigas.
 5. Mi perro y tu perro son altos.

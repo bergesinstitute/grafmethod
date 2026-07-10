@@ -74,7 +74,7 @@ Sample answers.
 ## 7. Translate
 
 1. ¿Cuál es tu película favorita?
-2. ¿Dónde vas los domingos por la mañana? *(or* ¿Adónde vas…?*)*
+2. ¿Dónde vas los domingos por la mañana? (*or* ¿Adónde vas…?)
 3. ¿Qué haces los martes por la noche?
 4. Los domingos por la mañana voy a la iglesia.
 5. Nuestra gata está feliz pero tu perro está triste.

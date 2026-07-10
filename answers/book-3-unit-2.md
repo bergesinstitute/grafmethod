@@ -35,9 +35,9 @@ Open-ended. Sample answers (full sentences in the imperfect):
 1. Sí, cuando era pequeño comía mucho chocolate.
 2. No, cuando era pequeño no nadaba cada domingo en la playa.
 3. Sí, me gustaba comer fruta.
-4. Sí, me gustaba la escuela. *(or* No, no me gustaba la escuela.*)*
+4. Sí, me gustaba la escuela.
 5. No, no montaba en bicicleta todos los días.
-6. Sí, tocaba el piano. *(or* No, no tocaba un instrumento.*)*
+6. Sí, tocaba el piano.
 7. Sí, por las noches mi madre me leía cuentos.
 8. Sí, hacía mucho deporte. Jugaba al fútbol y al baloncesto.
 9. No, no me gustaban las verduras.
@@ -46,4 +46,4 @@ Open-ended. Sample answers (full sentences in the imperfect):
 
 Open-ended. A model essay using the imperfect:
 
-> Cuando era pequeño vivía en una casa grande en Boston con mis padres y mi hermana. Tenía un perro que se llamaba Toby. Cada mañana me levantaba a las siete y media e iba a la escuela en autobús. Las clases empezaban a las ocho y media y terminaban a las tres. Después de la escuela, jugaba al fútbol con mis amigos en el parque. Por las tardes, hacía la tarea y miraba la televisión. Mi programa favorito era Sesame Street. Los sábados, mi madre cocinaba pizza casera y los domingos íbamos a casa de mis abuelos. Mi abuela siempre preparaba un postre de chocolate delicioso. Era una vida muy bonita.
+> Cuando era pequeño vivía en una casa grande en Boston con mis padres y mi hermana. Tenía un perro que se llamaba Toby. Cada mañana me levantaba a las siete y media. Iba a la escuela en autobús. Las clases empezaban a las ocho y media y terminaban a las tres. Después de la escuela, jugaba al fútbol con mis amigos en el parque. Por las tardes, hacía la tarea y miraba la televisión. Mi programa favorito era Sesame Street. Los sábados, mi madre cocinaba pizza casera y los domingos íbamos a casa de mis abuelos. Mi abuela siempre preparaba un postre de chocolate delicioso.

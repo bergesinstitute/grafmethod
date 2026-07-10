@@ -17,7 +17,7 @@ Open-ended. Model sentences:
 2. Mi hermana habla muy rápidamente cuando está nerviosa.
 3. Finalmente, terminé la tarea de español.
 4. Tristemente, mi abuelo murió el año pasado.
-5. Completamente comprendo tu situación.
+5. El proyecto está totalmente terminado.
 6. Sorprendentemente, llegué temprano a la oficina hoy.
 
 ## 3. Traducir
@@ -34,9 +34,9 @@ Next week...
 8. Voy a comprar un tenedor para comer arroz.
 9. Él va a llevar una camisa negra.
 10. Ella va a comprar un carro nuevo.
-11. Julia se va a levantar a las siete cada día. *(or* Julia va a levantarse…*)*
-12. Voy a lavarme las manos. *(or* Me voy a lavar las manos.*)*
-13. Peter se va a duchar esta noche. *(or* Peter va a ducharse esta noche.*)*
+11. Julia se va a levantar a las siete cada día. (*or* Julia va a levantarse…)
+12. Voy a lavarme las manos. (*or* Me voy a lavar las manos.)
+13. Peter se va a duchar esta noche. (*or* Peter va a ducharse esta noche.)
 
 ## 4. Responder
 
@@ -65,22 +65,22 @@ Open-ended. Sample answers:
 6. En Texas **había** muchos granjeros.
 7. El martes pasado yo **me fui** del hotel a las dos de la tarde.
 8. Cada día yo **me peino** rápidamente.
-9. Mañana yo **me voy a ir** de la ciudad. *(or* voy a irme*)*
+9. Mañana yo **me voy a ir** de la ciudad. (*or* voy a irme)
 
 ## 6. Traducir, escribiendo el pronombre reflexivo antes y después de los verbos
 
-1. No me puedo levantar a las seis. / No puedo levantarme a las seis.
+1. No me puedo levantar a las seis de la mañana. / No puedo levantarme a las seis de la mañana.
 2. Mi madre se debe peinar cada día. / Mi madre debe peinarse cada día.
 3. No se quieren duchar. / No quieren ducharse.
-4. Nos tenemos que ir de la fiesta a las diez. / Tenemos que irnos de la fiesta a las diez.
+4. Nos tenemos que ir de la fiesta a las diez de la noche. / Tenemos que irnos de la fiesta a las diez de la noche.
 5. Ustedes se necesitan maquillar por la mañana. / Ustedes necesitan maquillarse por la mañana.
 6. Ella se quiere acostar a las diez. / Ella quiere acostarse a las diez.
 
 ## 7. Comentario de texto — Cuando vivía en Madrid
 
-1. En Madrid no trabajaba — estudiaba. No tenía mucho dinero, pero tampoco tenía las responsabilidades que tiene ahora. La vida era muy diferente de la vida en Estados Unidos.
+1. En Madrid no trabajaba. Estudiaba. No tenía mucho dinero, pero tampoco tenía las responsabilidades que tiene ahora. La vida era muy diferente de la vida en Estados Unidos.
 2. Iban a bares baratos porque no tenían dinero para ir a restaurantes finos y elegantes.
 3. No, tenía clase de lunes a jueves; los viernes nunca tenía clase.
-4. En casa de Jaime se reunían con amigos y jugaban en la Play Station — su videojuego favorito era Crash Bandicoot.
+4. En casa de Jaime se reunían con amigos y jugaban en la Play Station. Su videojuego favorito era Crash Bandicoot.
 5. Sí, tocaba el bajo eléctrico en una banda de post punk. Ensayaban en un estudio en Atocha cada domingo y a veces tocaban en bares y clubs del barrio de Tribunal.
 6. Elena vivía en la Plaza de Lavapiés con otras dos amigas y estudiaba filología inglesa en la misma universidad que la persona del texto.

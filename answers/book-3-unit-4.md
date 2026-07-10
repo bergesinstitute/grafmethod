@@ -49,7 +49,7 @@ Open-ended. A model conversation:
 
 ## 3. Completar
 
-Sample answers — geography is what it is, but a few are debatable.
+Sample answers. Geography is what it is, but a few are debatable.
 
 1. Estados Unidos está **cerca** de México.
 2. Japón está **lejos** de Argentina.
@@ -85,7 +85,7 @@ Open-ended. Model sentences:
 
 Open-ended. Model sentences:
 
-1. Estudio español para hablar con mi familia en Argentina.
+1. Estudio español para poder hablar con mi familia en Argentina.
 2. Compré este libro por veinte dólares.
 3. Mañana voy a comprar un regalo para mi madre.
-4. La oficina está cerrada por una reunión importante.
+4. Mbappé no juega esta temporada por una lesión de rodilla.

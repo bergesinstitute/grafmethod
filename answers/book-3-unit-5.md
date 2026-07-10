@@ -6,16 +6,16 @@
 2. Siempre se duermen en el metro.
 3. No recuerdo dónde están mis llaves.
 4. Javier viene a la ciudad cada semana.
-5. Ayer, nuestro hermano durmió por diez horas.
+5. Ayer, nuestro hermano durmió (por) diez horas.
 6. Ella quiere viajar a Uruguay.
 7. Usted se siente triste.
-8. Anoche, ellos quisieron ir al cine.
+8. Anoche, ellos quisieron/querían ir al cine.
 9. ¿Ustedes prefieren té o café?
 10. No comprendo a James.
 11. Ana normalmente se va de su oficina a las siete de la tarde.
 12. Los estudiantes siempre mienten al profesor.
 13. Siempre encuentro cosas hermosas en esa tienda.
-14. Los domingos, siempre almorzamos en el mismo restaurante.
+14. Los domingos, siempre comemos en el mismo restaurante.
 15. Nuestra madre prefiere quedarse en casa.
 16. Perdiste tu chaqueta el domingo.
 17. Pienso que tienes que estudiar más.
@@ -25,7 +25,7 @@
 
 Open-ended exaggeration exercise. A model answer:
 
-> Mi amigo Carlos es altísimo, guapísimo e inteligentísimo. Vive en una casa grandísima en una calle elegantísima. Tiene un carro carísimo y rapidísimo. Cocina muy bien — su pasta es buenísima, y su pizza es deliciosísima. Trabaja muchísimo, pero también descansa muchísimo los fines de semana. Sus hijos son simpatiquísimos y su esposa es educadísima. Carlos es un hombre felicísimo.
+> Mi amigo Carlos es altísimo, guapísimo e inteligentísimo. Vive en una casa grandísima en una calle elegantísima. Tiene un carro carísimo y rapidísimo. Cocina muy bien. Su pasta es buenísima, y su pizza es deliciosísima. Trabaja muchísimo, pero también descansa muchísimo los fines de semana.
 
 ## 3. Traducir
 
@@ -74,7 +74,7 @@ Open-ended exaggeration exercise. A model answer:
 ## 6. Comentario de texto — Mis abuelos
 
 1. El abuelo se levantaba a las cuatro de la mañana.
-2. Se levantaba tan temprano para ir a regar las tierras, porque el suministro de agua era limitado y la Diputación de Guipúzcoa solo abría el canal por un par de horas cada mañana.
+2. Se levantaba tan temprano para ir a regar las tierras, porque el suministro de agua era limitado y la Diputación de Guipúzcoa solo abría el canal un par de horas cada mañana.
 3. Los viernes la abuela preparaba habichuelas con carne.
 4. La abuela no trabajaba porque eran otros tiempos: ninguna de sus amigas trabajaba tampoco, a excepción de doña Matilde, que tenía una tienda.
 5. Cada domingo iban a la iglesia, porque eran muy religiosos (católicos). A veces el cura don Ramón comía en su casa después.

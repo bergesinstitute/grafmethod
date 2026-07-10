@@ -27,7 +27,7 @@
 
 Open-ended. A model answer:
 
-> El lunes fui al trabajo y por la noche cené con mi amiga Sara. El martes me quedé en casa, miré la televisión y leí un libro. El miércoles llegué tarde a la oficina porque el metro no funcionaba. El jueves fui al gimnasio. El viernes salí con mis amigos a un restaurante italiano. El sábado limpié mi apartamento y compré comida en el supermercado. El domingo descansé todo el día.
+> El lunes fui al trabajo y por la noche cené con mi amiga Sara. El martes miré la televisión y leí un libro. El miércoles llegué tarde a la oficina. El jueves fui al gimnasio. El viernes fui con mis amigos a un restaurante italiano. El sábado limpié mi apartamento y compré comida en el supermercado. El domingo descansé.
 
 ## 3. Cambia el verbo en presente por progresivo
 
