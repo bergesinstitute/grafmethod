@@ -104,7 +104,7 @@
 4. Estamos mirando la televisión.
 5. Van a visitar a Mary el domingo.
 6. Cuando vivía en España, siempre cenaba en el apartamento de mi vecino.
-7. Antes eran muy simpáticos.
+7. Eran muy simpáticos.
 8. Ella vive en Brooklyn con James.
 9. Están estudiando en la biblioteca.
 10. ¿Qué estás haciendo ahora?

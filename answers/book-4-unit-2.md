@@ -41,12 +41,12 @@
 3. La perdí en Memphis.
 4. Siempre los encontraba en el parque.
 5. Me llamaste anoche a las 9.
-6. ¿Me visitarás en Chicago?
-7. Nunca la olvidaré.
+6. ¿Me vas a visitar en Chicago?
+7. Nunca la voy a olvidar.
 8. La conocí en el apartamento de Alice.
 9. ¿Nos amas?
 10. Lo visité el domingo pasado.
-11. Me ayudaron el año pasado. Los ayudaré el próximo año.
+11. Me ayudaron el año pasado. Los voy a ayudar el próximo año.
 12. Los compré y los comí.
 
 ## 4. Traducir
@@ -55,17 +55,17 @@
 2. Le regalé un libro.
 3. Me hicieron una pregunta.
 4. Les mostré el apartamento.
-5. Ella me lo contó. *(or* Ella me contó eso.*)*
+5. Ella me lo contó.
 6. ¿Les enseñamos los nuevos conceptos?
 7. Me explicaron el plan.
 8. Sarah les vendió un carro.
 9. Mary les contó todo.
-10. Le regalé un anillo para su cumpleaños.
+10. Le regalé un anillo por su cumpleaños.
 11. Les explicamos la idea.
 
 ## 5. Explicar en español qué es un objeto directo y qué es un objeto indirecto
 
-Un **objeto directo** es la persona o cosa que recibe la acción del verbo directamente. Un **objeto indirecto** es la persona (normalmente) que recibe la acción del verbo indirectamente — la persona a quien hacemos algo, o para quien hacemos algo.
+Un **objeto directo** es la persona o cosa que recibe la acción del verbo directamente. Un **objeto indirecto** es la persona que recibe la acción del verbo indirectamente.
 
 **Verbos que no admiten objeto** (intransitivos): *dormir, ir, nadar, correr, llegar, trabajar.* No podemos "dormir una manzana" o "ir una manzana." La oración tiene un sentido completo sin objeto.
 

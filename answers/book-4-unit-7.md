@@ -13,7 +13,7 @@
 9. Ya había vendido mi carro. Ya lo había vendido.
 10. Habían roto la ventana. La habían roto.
 11. ¿La has llamado?
-12. La hemos estado ayudando. *(or* Hemos estado ayudándola.*)*
+12. La hemos estado ayudando. (*or* Hemos estado ayudándola.)
 
 ## 2. Repaso de pronombres de OI + OD
 
@@ -28,8 +28,8 @@
 
 ## 3. Traducir
 
-1. Te he estado contando historias. Te las he estado contando. *(or* He estado contándotelas.*)*
-2. Le he estado explicando la idea. Se la he estado explicando. *(or* He estado explicándosela.*)*
-3. Le ha estado mostrando el nuevo apartamento. Se lo ha estado mostrando. *(or* Ha estado mostrándoselo.*)*
-4. Les ha estado dando excusas todo el tiempo. Se las ha estado dando. *(or* Ha estado dándoselas.*)*
-5. He estado enseñando inglés a los niños todo este tiempo. Les he estado enseñando inglés.
+1. Te he estado contando historias. Te las he estado contando. (*or* He estado contándotelas.)
+2. Le he estado explicando la idea. Se la he estado explicando. (*or* He estado explicándosela.)
+3. Le ha estado mostrando el nuevo apartamento. Se lo ha estado mostrando. (*or* Ha estado mostrándoselo.)
+4. Le han estado dando excusas todo el tiempo. Se las han estado dando. (*or* Han estado dándoselas.)
+5. He estado enseñando inglés a los niños todo este tiempo. Les he estado enseñando inglés. (*or* He estado enseñándoles inglés.)

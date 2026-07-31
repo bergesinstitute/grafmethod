@@ -12,7 +12,7 @@ A. No hay objeto. B. Hay OD. C. Hay OD + OI.
 6. No sé. — **A**
 7. No lo sé. — **B** *(OD: lo)*
 8. Siempre me dices la verdad. — **C** *(OD: la verdad; OI: me)*
-9. Nunca nos duchamos por la noche. — **A** *(verbo reflexivo, sin objeto adicional)*
+9. Nunca nos duchamos por la noche. — **B** *(OD: nos, reflexivo)*
 10. A veces Juan nos regalaba flores. — **C** *(OD: flores; OI: nos)*
 11. Caminé muy lentamente en la avenida. — **A**
 
@@ -26,7 +26,7 @@ A. No hay objeto. B. Hay OD. C. Hay OD + OI.
 6. Nosotros **lo** teníamos muy fácil. — OD: lo
 7. El artista nunca **le** dedicaba **las canciones**. — OD: las canciones; OI: le
 8. El compositor Max P **me** compuso **una cavatina** para mi debut en la ópera. — OD: una cavatina; OI: me
-9. ¿**Te** rompiste **una pierna** en la montaña? — OD: una pierna; reflexivo/dativo: te
+9. ¿**Te** rompiste **una pierna** en la montaña? — OD: una pierna; OI: te (reflexivo)
 10. Perdimos **a nuestro compañero** en la expedición en la Antártida. — OD: a nuestro compañero
 11. Nunca **me** **lo** explicaste. — OD: lo; OI: me
 
@@ -35,12 +35,12 @@ A. No hay objeto. B. Hay OD. C. Hay OD + OI.
 1. Tú me enseñaste la lección. Tú me la enseñaste.
 2. Tú no les contaste el secreto. ¿Nos lo contaste?
 3. Le vendí una rosa. No se la di.
-4. Te compraré una casa en South Carolina.
+4. Te voy a comprar una casa en South Carolina.
 5. Los lunes me dices esto, los martes me dices eso.
-6. ¿Me lo puedes decir? *(or* ¿Puedes decírmelo?*)*
-7. Estoy enviando este paquete a Sarah. Se lo estoy enviando. *(or* Estoy enviándoselo.*)*
-8. Te lo daré. *(or* Voy a dártelo.*)*
-9. ¿Me lo puedes dar? *(or* ¿Puedes dármelo?*)*
+6. ¿Me lo puedes decir? (*or* ¿Puedes decírmelo?)
+7. Estoy enviando este paquete a Sarah. Se lo estoy enviando. (*or* Estoy enviándoselo.)
+8. Te lo voy a dar. (*or* Voy a dártelo.)
+9. ¿Me lo puedes dar? (*or* ¿Puedes dármelo?)
 10. Te prometí un carro. ¿Lo quieres?
 11. Le hice una pregunta.
 
@@ -74,7 +74,7 @@ Open-ended. Model sentences:
 **Con OD + OI**
 
 1. Yo doy un regalo a María. Yo le doy un regalo. Yo se lo doy.
-2. Mi madre me cuenta una historia. Mi madre me la cuenta.
+2. Mi madre cuenta una historia a mis primos. Mi madre les cuenta una historia. Mi madre se la cuenta.
 3. El profesor enseñó la lección a los estudiantes. El profesor les enseñó la lección. El profesor se la enseñó.
-4. Te enviaré un email mañana. Te lo enviaré mañana.
-5. Pedro le explicó el problema a Sara. Pedro se lo explicó.
+4. Voy a enviar un email a mi jefe mañana. Le voy a enviar un email mañana. Se lo voy a enviar mañana.
+5. Pedro explicó el problema a Sara. Pedro le explicó el problema. Pedro se lo explicó.

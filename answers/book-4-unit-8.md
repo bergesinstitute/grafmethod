@@ -11,7 +11,7 @@ The verb *pedir* never uses a preposition.
 5. ¿Le preguntaste a Google?
 6. Mi hermano pequeño siempre me pide consejo.
 7. Ella te preguntó: "¿Dónde está el baño en esta casa grande?"
-8. Les pregunté a los árboles, pero solo me respondieron con silencio.
+8. Les pregunté a los árboles, pero solo respondieron con silencio.
 
 ## 2. Identificar el OI en las oraciones anteriores
 
@@ -22,7 +22,7 @@ The verb *pedir* never uses a preposition.
 5. **le** *(= a Google)*
 6. **me** *(= a mí)*
 7. **te** *(= a ti)*
-8. **les** *(= a los trees)* y también **me** en *me respondieron*
+8. **les** *(= a los árboles)*
 
 ## 3. Seleccionar la opción correcta
 
@@ -86,4 +86,4 @@ Open-ended. Model sentences:
 4. Sí, había mucha luz en la casa. Las luces estaban siempre encendidas (fúnebremente encendidas) en el cuarto y en la sala.
 5. El animal de la almohada bebía la sangre de Alicia: cada noche aplicaba sigilosamente su boca al cuello de ella.
 6. La historia termina muy mal: Alicia muere, completamente sin sangre, por un parásito monstruoso que vivía dentro de su almohada de plumas.
-7. Open-ended opinion. A model answer: *Es un cuento gótico clásico de horror. Más que una moraleja, transmite la idea de que el peligro puede estar en los lugares más íntimos y cotidianos — incluso en la cama donde dormimos. También muestra la impotencia de la medicina ante lo desconocido.*
+7. ...

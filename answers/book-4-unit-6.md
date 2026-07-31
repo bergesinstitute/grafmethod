@@ -2,7 +2,7 @@
 
 ## 1. Traducir
 
-1. He estado bailando por dos horas.
+1. He estado bailando dos horas.
 2. Ya me has dicho esto.
 3. He estado estudiando español por más de dos meses.
 4. Han ido muy lejos esta vez.
@@ -24,11 +24,11 @@ Open-ended (true/false in your case). Sample answers:
 3. Verdad — nunca he llegado más de una hora tarde a una reunión importante.
 4. Verdad — nunca me he duchado tres veces en un día.
 5. Mentira — una vez me mareé en un barco en el Caribe.
-6. Mentira — he conocido a un par de personas famosas.
-7. Mentira — alguna vez he mentido a mis amigos.
+6. Mentira — he conocido a dos personas famosas.
+7. Mentira — he mentido a mis amigos.
 8. Verdad — nunca he pagado tarde mi alquiler.
 9. Verdad — nunca he olvidado llamar a mi hermana en su cumpleaños.
-10. Verdad — nunca he tomado un taxi solo porque no quería caminar.
+10. Verdad — nunca he tomado un taxi porque no quería caminar.
 11. Mentira — he comido un Big Mac muchas veces.
 12. Mentira — he estado en Europa.
 
@@ -37,7 +37,7 @@ Open-ended (true/false in your case). Sample answers:
 Open-ended. Model sentences:
 
 1. He visitado Madrid tres veces.
-2. Mi hermana ha vivido en Boston por cinco años.
+2. Mi hermana ha vivido en Boston cinco años.
 3. Hemos aprendido mucho español este año.
 4. Nunca he comido sushi.
 5. ¿Has terminado el libro?
@@ -87,9 +87,9 @@ Open-ended. Model sentences:
 ## 7. Comentario de texto — Los pasteles y el diente
 
 1. El campesino pensaba que el rey era un hombre muy importante porque era el rey.
-2. En realidad el rey era un hombre normal, igual que el campesino.
-3. El campesino tenía tres problemas: le dolía un diente, tenía hambre, y casi no le quedaba dinero (solamente un real).
+2. En realidad el rey era un hombre normal.
+3. El campesino tenía tres problemas: le dolía un diente, tenía hambre, y tenía poco dinero.
 4. La apuesta fue que si el campesino podía comer mil pasteles, ganaba; si no, los hombres arrogantes podían sacarle el diente que le dolía. El campesino "perdió" intencionalmente.
-5. Aparentemente los hombres arrogantes ganaron la apuesta, pero en realidad el ganador fue el campesino: comió muchos pasteles gratis y consiguió que un barbero le sacara el diente que le dolía sin pagar nada.
+5. Técnicamente los hombres arrogantes ganaron la apuesta, pero en realidad el ganador fue el campesino: comió muchos pasteles gratis y un barbero le sacó el diente que le dolía sin pagar nada.
 6. La historia termina bien para el campesino y mal para los hombres arrogantes, que pagaron los pasteles y se fueron humillados.
-7. Open-ended opinion. A model answer: *La moraleja es que la inteligencia y el ingenio son más valiosos que el dinero o la apariencia de superioridad. Los hombres arrogantes se burlaban del campesino, pero al final él los engañó y consiguió lo que necesitaba.*
+7. La inteligencia y el ingenio son más valiosos que el dinero. Los hombres arrogantes se burlaban del campesino, pero finalmente él ganó.

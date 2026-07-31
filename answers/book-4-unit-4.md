@@ -14,7 +14,7 @@
 10. ¿Piensas que tendrás que ir?
 11. No llegaré a tiempo esta noche.
 12. ¿Me llamarán?
-13. Te diré el plan mañana. Finalmente te lo diré.
+13. Te contaré el plan mañana. Finalmente te lo contaré.
 
 ## 2. Escritura creativa
 
@@ -41,7 +41,7 @@ Open-ended. A model "milk bottle" story using the future tense:
 1. El cura vivía en Santiago.
 2. La idea (el plan) del cura era aprender magia con don Illán, el mago de Toledo.
 3. El mago se llamaba don Illán.
-4. Mientras hablaban de cómo empezar los estudios de magia, dos hombres entraron con una carta diciendo que su tío arzobispo había muerto y que querían nombrarlo arzobispo a él. Aceptó el nombramiento.
+4. Mientras hablaban de cómo empezar los estudios de magia, dos hombres entraron con una carta diciendo que su tío el arzobispo había muerto y que querían nombrarlo arzobispo a él. Aceptó el nombramiento.
 5. Necesitaban un lugar especial. Don Illán explicó que para aprender magia tenían que ir a un lugar solitario y oscuro con muchos libros (no podían aprender en la sala).
 6. La historia termina mal para el cura: cuando rechaza con arrogancia el último favor para el hijo de don Illán, todo resulta ser una ilusión mágica y el cura se encuentra de nuevo en Toledo, sin haber aprendido magia y sin la cena. Termina bien para don Illán, que descubre la falta de gratitud del cura antes de enseñarle nada.
-7. Open-ended opinion. A model answer: *La moraleja de la historia es importante. A veces, cuando una persona se hace muy importante, olvida sus promesas a las personas que fueron amables con ella en el pasado. Don Juan Manuel nos enseña que la gratitud y el cumplimiento de las promesas son virtudes esenciales.*
+7. A veces, cuando una persona se hace muy importante, olvida sus promesas a las personas que fueron amables con ella en el pasado. Don Juan Manuel nos enseña que la gratitud y el cumplimiento de las promesas son virtudes esenciales.
