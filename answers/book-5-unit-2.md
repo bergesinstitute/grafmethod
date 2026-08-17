@@ -9,18 +9,18 @@
 5. Me dijiste que estabas enfermo.
 6. Me pidió un martillo, pero solo tenía un destornillador.
 7. Le mostré el apartamento.
-8. El señor Parker me enseñó todo.
+8. Mr. Parker me enseñó todo.
 9. Le enviamos la carta.
 
 ## 2. Responder
 
 Open-ended. Sample answers:
 
-1. Sí, he estado en Australia una vez. *(or* No, nunca he estado en Australia.*)*
-2. No, nunca he escrito un libro. *(or* Sí, he escrito un libro.*)*
-3. No, nunca me han publicado un artículo. *(or* Sí, me han publicado un artículo en un blog.*)*
-4. Sí, he comido en un restaurante etíope. *(or* No, nunca he comido en uno.*)*
-5. Sí, he estado en Europa varias veces.
+1. No, nunca he estado en Australia.
+2. No, nunca he escrito un libro.
+3. No, nunca me han publicado un artículo.
+4. Sí, he comido en un restaurante etíope.
+5. Sí, he estado en Europa muchas veces.
 6. Sí, he comprado ropa en internet muchas veces.
 
 ## 3. Por / para
@@ -53,7 +53,7 @@ Open-ended. Sample answers:
 14. A veces creo que Arturo **es** muy inteligente, a veces no.
 15. Dudo que Sara **lleve** su vestido rojo esta noche.
 16. Mi hermana **está** embarazada. Cuando **tenga** a su bebé, haremos una fiesta.
-17. Aunque yo **tenga** un carro, prefiero tomar el metro al trabajo. *(also acceptable:* tengo*, since* aunque *can take indicative or subjunctive)*
+17. Aunque yo **tenga** un carro, prefiero tomar el metro al trabajo. (Also acceptable: *tengo*, since *aunque* can take indicative or subjunctive.)
 18. Solo quiero que usted **hable** conmigo.
 
 ## 5. Responder
@@ -64,7 +64,7 @@ Open-ended. Sample answers:
 2. No, no creo que las playas más hermosas del mundo estén en los Estados Unidos. Las mejores están en el Caribe.
 3. Sí, quiero que los Estados Unidos ganen la próxima Copa del Mundo.
 4. Sí, quiero que el congreso legisle leyes más estrictas sobre armas.
-5. Sí, a veces les pido a mis vecinos que bajen el volumen.
+5. Sí, a veces (les) pido a mis vecinos que bajen el volumen.
 
 ## 6. Conjugar, en presente de subjuntivo (regulares -ar)
 

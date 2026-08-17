@@ -8,7 +8,7 @@
 4. Ella bailaba. El cielo estaba hermoso.
 5. Ya sabía la historia.
 6. ¿Fuiste al supermercado?
-7. Cuando tenía diez años, comía chocolate todo el tiempo.
+7. Cuando tenía diez años, comía chocolate todo el tiempo / todo el rato / continuamente.
 8. Cuando vivía en España, a veces iba a la casa de mi amigo los viernes por la noche.
 9. Siempre le pido favores.
 10. Mi primo tiene una casa en el bosque.
@@ -21,8 +21,8 @@
 
 ## 2. Traducir, usando reflexivos / gustar
 
-1. Antes me levantaba temprano en la universidad. Ahora, nunca me levanto temprano porque me acuesto tarde.
-2. George se duchó y salió de su casa.
+1. Me levantaba temprano en la universidad. Ahora, nunca me levanto temprano porque me acuesto tarde.
+2. George se duchó y salió / se fue de su casa.
 3. Siempre nos lavamos las manos por la mañana.
 4. ¿Te cepillaste los dientes?
 5. Siempre se miran en el espejo.
@@ -38,7 +38,7 @@ Open-ended. Model sentences:
 **Presente**
 
 1. Normalmente desayuno a las siete de la mañana.
-2. Cada lunes voy al gimnasio por la noche.
+2. Los lunes voy al gimnasio por la noche.
 3. Mi hermana siempre habla por teléfono con su novio.
 
 **Pretérito perfecto**
@@ -51,7 +51,7 @@ Open-ended. Model sentences:
 
 1. Cuando era niña, jugaba al fútbol cada domingo.
 2. Antes siempre cocinaba pasta los viernes.
-3. En la universidad, estudiaba mucho por las noches.
+3. En la universidad, estudiaba mucho.
 
 ## 4. Traducir, usando pronombres de objeto directo
 
@@ -60,23 +60,21 @@ Open-ended. Model sentences:
 1. Lo tenía.
 2. La compré.
 3. ¿La cantas frecuentemente?
-4. Siempre los llevo en el verano.
+4. Siempre los llevo en verano.
 5. Lo vendí.
 6. Las comía.
 
 **B. Personas**
 
 1. La visité.
-2. Antes me amabas.
+2. Me amabas.
 3. Te conozco.
 4. Te llamé anoche.
 5. ¿Me invitaste a la cena de Frank?
-6. Me ayudó.
+6. Ella me ayudó.
 
 ## 5. Write a short essay
 
 Open-ended. A model "mystery object" essay:
 
-> Lo compré en una tienda en Madrid en 1995. Desde entonces, siempre lo tengo en la cartera. A veces lo llevo a mi trabajo, a veces lo dejo en casa. Lo miro frecuentemente, especialmente cuando estoy nervioso. Lo uso casi cada día, pero también lo guardo en un lugar seguro porque tiene mucho valor sentimental para mí. Mi madre me lo regaló para mi cumpleaños, y ella ya no está con nosotros. No puedo imaginar mi vida sin él.
->
-> *(El objeto era un pequeño reloj de bolsillo de mi madre.)*
+> Lo compré en una tienda en Madrid en 1995. Desde entonces, siempre lo tengo en la cartera. A veces lo llevo a mi trabajo, a veces lo dejo en casa. Lo miro frecuentemente, especialmente cuando estoy nervioso. Lo uso casi cada día, pero también lo guardo en un lugar seguro porque tiene mucho valor sentimental para mí. Mi madre me lo regaló, y ella ya no está con nosotros. No puedo imaginar mi vida sin él.

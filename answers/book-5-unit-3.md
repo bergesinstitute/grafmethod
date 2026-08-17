@@ -24,7 +24,7 @@
 1. Espero que mi primo me visite el próximo año.
 2. Espero que estén bien.
 3. Dudo que mi hermana esté trabajando ahora mismo.
-4. Sabía que ella estaba cocinando pasta.
+4. Sabía que ella estaba cocinando / cocinaba pasta.
 5. Ella deseaba que él fuera más simpático y más guapo.
 6. Siempre dudé que mi primo fuera abogado de verdad.
 7. Me pidieron que les ayudara con su problema.
@@ -34,8 +34,6 @@
 11. Espero que mis zapatos lleguen pronto.
 
 ## 3. Conjugar, en imperfecto de subjuntivo
-
-Lists shown in the standard order (yo, tú, él/ella/usted, nosotros, vosotros, ellos/ellas/ustedes).
 
 ### Desayunar
 
