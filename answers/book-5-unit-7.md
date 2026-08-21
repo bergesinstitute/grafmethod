@@ -2,7 +2,7 @@
 
 ## 1. Traducir
 
-1. Todo está bien. Ve a casa, mira una película y vete a dormir; mañana será un día nuevo.
+1. Todo está bien. Ve a casa, mira una película y acuéstate; mañana será un día nuevo.
 2. Peter, por favor explícale cómo hacemos las cosas aquí.
 3. No me digas cómo bailar, soy el mejor bailarín de la ciudad.
 4. Por favor no me digas que no me amas. Por favor dime que me amas.
@@ -24,13 +24,13 @@ Open-ended. A model recipe (gazpacho):
 
 > Para hacer un gazpacho, necesitas seis tomates maduros, un pepino, un pimiento verde, un diente de ajo, aceite de oliva, vinagre y sal.
 >
-> Primero, pela los tomates y el pepino. Trocea las verduras en pedazos pequeños. Pon todo en la licuadora con el ajo, dos cucharadas de aceite de oliva, una de vinagre y un poco de sal. Mezcla todo hasta que quede líquido. Si está muy espeso, añade un poco de agua. Pon el gazpacho en la nevera por una hora antes de servir. ¡Disfrútalo bien frío!
+> Primero, pela los tomates y el pepino. Trocea las verduras en pedazos pequeños. Pon todo en la licuadora con el ajo, dos cucharadas de aceite de oliva, una de vinagre y un poco de sal. Mezcla todo. Si está muy espeso, añade un poco de agua. Pon el gazpacho en la nevera por una hora antes de servir.
 
 ## 4. Anuncio
 
 Open-ended. A model ad:
 
-> ¡Visite la cafetería La Esquina! Tome el mejor café de la ciudad, pruebe nuestros pasteles caseros y disfrute del Wi-Fi gratuito. Ven a trabajar con nosotros, ven a estudiar con nosotros, ven a relajarse con nosotros. ¡No se quede en casa! Abrimos cada día desde las siete de la mañana hasta las once de la noche. Estamos en la calle Mayor, número 25, esquina con la Avenida del Sol. ¡No olvide pedir nuestra famosa tarta de chocolate!
+> ¡Visite la cafetería La Esquina! Tome el mejor café de la ciudad, pruebe nuestros pasteles caseros y disfrute del Wi-Fi gratuito.
 
 ## 5. Completar, usando imperativo
 
@@ -63,10 +63,10 @@ Open-ended. A model ad:
 
 ## 6. Comentario de texto — Alí Babá y los cuarenta ladrones
 
-1. Alí Babá era leñador, trabajador, bueno y honesto, pero pobre. Su hermano Kassim era todo lo contrario: deshonesto, perezoso y malo, pero rico, porque se había casado con una mujer rica.
+1. Alí Babá era leñador, trabajador, bueno y honesto, pero pobre. Su hermano Kassim era deshonesto, perezoso y malo.
 2. Abrían y cerraban la entrada de la cueva con palabras mágicas: "Ábrete, Sésamo" para abrir la roca, "Ciérrate, Sésamo" para cerrarla.
-3. Kassim quedó atrapado dentro de la cueva porque, después de llenar muchas bolsas de oro, olvidó la palabra "Sésamo" y probó con muchos otros granos y plantas (cebada, trigo, maíz, menta…), pero ninguno funcionó. Cuando llegaron los cuarenta ladrones, lo asesinaron y cortaron su cuerpo en cuatro cuartos como advertencia.
-4. Los ladrones descubrieron la dirección porque hablaron con Mustafá, el zapatero, que con orgullo les explicó que había cosido el cuerpo de un hombre dividido en cuatro cuartos. Le pagaron y le pidieron que los guiara a la casa. Uno de los ladrones marcó la puerta con una X.
+3. Kassim quedó atrapado dentro de la cueva porque olvidó la palabra "Sésamo".
+4. Los ladrones descubrieron la dirección porque hablaron con Mustafá, el zapatero.
 5. El plan era que un ladrón se disfrazaría de comerciante de aceite y llegaría a la casa de Alí Babá con cuarenta barriles: uno con aceite y treinta y nueve con ladrones escondidos dentro. Por la noche, el ladrón disfrazado avisaría a los otros, que saldrían y asesinarían a Alí Babá.
-6. Morgiana, la criada, descubrió a los ladrones cuando fue a buscar aceite para una lámpara. Calentó el aceite del único barril que realmente tenía aceite y echó aceite hirviendo en los treinta y nueve barriles donde estaban escondidos los ladrones, matándolos a todos. Cuando el ladrón disfrazado fue a avisarlos, los encontró muertos y huyó aterrorizado.
-7. Open-ended opinion. A model answer: *El final de la historia es satisfactorio: Alí Babá, que era un hombre bueno y honesto, sobrevive gracias a la inteligencia y valentía de Morgiana. Los ladrones y el avaricioso Kassim reciben su merecido. La moraleja es clara: la avaricia tiene consecuencias graves, mientras que la honestidad y el ingenio son recompensados.*
+6. Morgiana, la criada, descubrió a los ladrones cuando fue a buscar aceite para una lámpara. Calentó el aceite del único barril que realmente tenía aceite y echó aceite hirviendo en los treinta y nueve barriles donde estaban escondidos los ladrones.
+7. El final de la historia es satisfactorio, pero es también un poco violento.
