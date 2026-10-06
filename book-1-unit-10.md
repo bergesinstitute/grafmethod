@@ -168,9 +168,9 @@ The most common way is to say what you want, followed by *por favor*:
 
     Unas ostras y un agua, por favor.
 
-# Encantar (to love something)
+# Encantar (to charm)
 
-*Encantar* works exactly like *gustar,* and it means *to like a lot*:
+*Encantar* works exactly like *gustar,* and we use it to say that we like something a lot:
 
     Me encanta la pizza. (I love pizza.)
 
