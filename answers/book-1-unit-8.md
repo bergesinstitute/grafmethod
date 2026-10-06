@@ -1,4 +1,4 @@
-# Answer key — Book 1, Unit 8
+# Answer key - Book 1, Unit 8
 
 ## 1. Answer using full sentences
 
@@ -25,7 +25,7 @@ Use *para* for purpose / destination and *por* for duration or exchange.
 
 ## 3. Translate
 
-After a preposition, *yo* becomes *mí* and *tú* becomes *ti*.
+After a preposition, *yo* becomes *mí* and *tú* becomes *ti.*
 
 1. ¿El libro es para mí?
 2. La canción es para ti.
@@ -40,13 +40,13 @@ Open-ended. Sample answers:
 1. Sí, me gusta bailar.
 2. Sí, me gustan las fresas.
 3. Sí, me gusta leer libros.
-4. A mi amigo le gusta ir al gimnasio. A mí también me gusta ir al gimnasio.
+4. A mi amigo le gusta ir al gimnasio. A mí me gusta ir al gimnasio.
 5. Sí, me gusta el café.
-6. Sí, me gusta cocinar. A mi amiga también le gusta cocinar.
+6. Sí, me gusta cocinar. A mi amiga le gusta cocinar.
 
 ## 5. Translate
 
-Generic nouns require a definite article with *gustar*.
+Generic nouns require a definite article with *gustar.*
 
 1. ¿Te gusta estudiar español?
 2. ¿A Mary le gusta el chocolate?

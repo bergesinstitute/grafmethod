@@ -1,4 +1,4 @@
-# Answer key — Book 1, Unit 7
+# Answer key - Book 1, Unit 7
 
 ## 1. Translate
 

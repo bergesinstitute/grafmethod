@@ -20,10 +20,10 @@
 
 # Subject and object
 
-The subject is the person or the thing doing the action of the verb. The object is the person 
+The subject is the person or the thing doing the action of the verb. The object is the person
 or the thing receiving it.
 
-    Juan compra una manzana (an apple). Subject: Juan. Object: una manzana.  
+    Juan compra una manzana (an apple). Subject: Juan. Object: una manzana.
 
     Laura ama a Juan. Subject: Laura. Object: Juan.
 
@@ -33,12 +33,12 @@ or the thing receiving it.
 
 # Spanish personal A
 
-Whenever the object of the action (the one receiving it) is a person or a pet, we must use 
+Whenever the object of the action (the one receiving it) is a person or a pet, we must use
 the preposition *a* right after the verb:
 
-    Amo Madrid. VS Amo a María.
+    Amo Madrid. vs. Amo a María.
 
-    Odio la canción. VS Odio a Pedro. 
+    Odio la canción. vs. Odio a Pedro.
 
 # Spanish prepositions con and sin
 
@@ -46,9 +46,9 @@ the preposition *a* right after the verb:
 
     sin - without
 
-*María está con Juan. Hay una mesa sin sillas.* (María is with Juan. There is a table without chairs.) 
+*María está con Juan. Hay una mesa sin sillas.* (María is with Juan. There is a table without chairs.)
 
-# Spanish adverbs mucho and poco
+# Mucho and poco
 
     mucho - a lot
 
@@ -56,13 +56,15 @@ the preposition *a* right after the verb:
 
 *Eva canta mucho. Yo canto poco.* (Eva sings a lot. I sing a little.)
 
-*Mucho* and *poco* can work as adjectives. In that case they mean *many/a lot of* or 
-*few/not many* (for countable nouns) or *much/a lot of* or *little* (for uncountable nouns) 
-respectively. When they are adjectives, they need to match the noun's gender and number.
+After a verb, as above, *mucho* and *poco* are adverbs. Before a noun, they are determiners. In that case they mean *many/a lot of* or
+*few/not many* (for countable nouns) or *much/a lot of* or *little* (for uncountable nouns)
+respectively, and they need to match the noun's gender and number.
 
 *Hay muchas ventanas en mi sala.* (There are many windows in my living room.)
 
 *Hay pocos supermercados en Midtown.* (There are few/not many supermarkets in Midtown.)
+
+> Words that express quantity, like *mucho* and *poco*, are called quantifiers. Quantifiers can belong to different word classes: *mucho* and *poco*, for example, can be adverbs or determiners.
 
 # Habit time expressions
 
@@ -96,9 +98,9 @@ We use the present tense for habits or facts:
 
 ## Conversación
 
-ALBERTO: Hola Nuria. ¿Dónde trabajas?
+Alberto: Hola, Nuria. ¿Dónde trabajas?
 
-NURIA: Hola Alberto, yo trabajo en una oficina en el centro (downtown).
+Nuria: Hola, Alberto. Yo trabajo en una oficina en el centro (downtown).
 
 A: ¿Cómo vas a la oficina cada día?
 
@@ -112,9 +114,9 @@ A: Mi escuela está en Midtown.
 
 ****
 
-CARMEN: Luis, normalmente, ¿dónde desayunas?
+Carmen: Luis, normalmente, ¿dónde desayunas?
 
-LUIS: Normalmente desayuno en mi casa, pero a veces desayuno en una cafetería.
+Luis: Normalmente desayuno en mi casa, pero a veces desayuno en una cafetería.
 
 C: ¿Tú cocinas mucho?
 
@@ -138,6 +140,20 @@ C: Yo nunca cocino. Yo desayuno en mi oficina y siempre ceno en un restaurante.
 
     ellos / ellas / ustedes comen
 
+## Endings for -er verbs
+
+    -o
+
+    -es
+
+    -e
+
+    -emos
+
+    (-éis)
+
+    -en
+
 ## List of common -er verbs
 
     aprender - to learn
@@ -156,7 +172,7 @@ C: Yo nunca cocino. Yo desayuno en mi oficina y siempre ceno en un restaurante.
 
 ## How to conjugate -er verbs
 
-To conjugate these verbs, we will apply the same procedure we used with *-ar* verbs: we drop 
+To conjugate these verbs, we will apply the same procedure we used with *-ar* verbs: we drop
 the *-er* ending, and we add the corresponding ending for each person.
 
     aprender:
@@ -185,6 +201,20 @@ the *-er* ending, and we add the corresponding ending for each person.
 
     ellos / ellas / ustedes viven
 
+## Endings for -ir verbs
+
+    -o
+
+    -es
+
+    -e
+
+    -imos
+
+    (-ís)
+
+    -en
+
 ## List of common -ir verbs
 
     abrir - to open
@@ -197,7 +227,7 @@ the *-er* ending, and we add the corresponding ending for each person.
 
 ## How to conjugate -ir verbs
 
-To conjugate these verbs, we will apply the same procedure we used with *-ar* verbs: 
+To conjugate these verbs, we will apply the same procedure we used with *-ar* verbs:
 we drop the *-ir* ending, and we add the corresponding ending for each person.
 
     escribir:
@@ -232,7 +262,7 @@ we drop the *-ir* ending, and we add the corresponding ending for each person.
 
     mal - badly (adverb)
 
-*Bueno* and *malo* can only be used with nouns. They must match the noun's gender and number (*buenos, mala,* etc.)
+*Bueno* and *malo* can only be used with nouns. They must match the noun's gender and number (*buenos, mala,* etc.).
 
 *Bien* and *mal* can only be used with verbs. They define how well or how badly you perform an action.
 
@@ -240,9 +270,9 @@ we drop the *-ir* ending, and we add the corresponding ending for each person.
 
 # Más conversación
 
-MAX: ¿Lees muchos libros?
+Max: ¿Lees muchos libros?
 
-PAULINA: Yo amo leer. ¿Y tú?
+Paulina: Yo amo leer. ¿Y tú?
 
 M: Yo no leo mucho. Yo miro muchas películas. Mi director (filmmaker) favorito es Clint Eastwood.
 
@@ -250,17 +280,17 @@ P: Yo no tengo televisión en mi casa, pero miro películas en mi computadora (c
 
 ****
 
-LUISA: Tomás, ¿tú envías y recibes muchos emails cada día?
+Luisa: Tomás, ¿tú envías y recibes muchos emails cada día?
 
-TOMÁS: Sí, recibo muchos, pero envío pocos. Odio escribir emails. ¿Tú recibes muchos?
+Tomás: Sí, recibo muchos, pero envío pocos. Odio escribir emails. ¿Tú recibes muchos?
 
 L: Yo recibo mucho spam.
 
 ****
 
-FRAN: Vicente, ¿hablas muchos idiomas?
+Fran: Vicente, ¿hablas muchos idiomas?
 
-VICENTE: No, yo hablo inglés y español, pero no hablo otros (other) idiomas.
+Vicente: No, yo hablo inglés y español, pero no hablo otros (other) idiomas.
 
 F: Yo hablo inglés y estudio español en la escuela.
 
@@ -268,7 +298,7 @@ F: Yo hablo inglés y estudio español en la escuela.
 
 ## 1. Translate
 
-1. My father sings at Blue Note on Saturdays.
+1. My father sings at a club on Saturdays.
 2. I walk in the park every day.
 3. You dance with Rita.
 4. We work at a store.
@@ -282,7 +312,7 @@ F: Yo hablo inglés y estudio español en la escuela.
 12. I always sing and dance in my bedroom.
 13. I always cook pasta in my apartment on Friday nights.
 
-## 2. Write a conversation using regular verbs with -ar ending
+## 2. Write a conversation using regular -ar verbs
 
 ## 3. Translate
 
@@ -297,36 +327,38 @@ F: Yo hablo inglés y estudio español en la escuela.
 
 ## 4. Answer the questions
 
-1. ¿Bebes mucha Coca Cola?
+1. ¿Bebes mucha Coca-Cola?
 2. ¿Comes pizza casi cada día?
 3. ¿A veces comes en McDonald's?
 4. ¿Comprendes español?
-5. ¿Lees People o Life cada semana?
+5. ¿Lees People o Time cada semana?
 6. ¿A veces lees Vogue?
 7. ¿Escribes mucho en tu computadora?
 8. ¿A veces hablas por teléfono con tu amiga?
 
 ## 5. About me and my family. Answer the questions.
 
-Yo vivo en Nueva York. Yo tengo una hermana. Mi hermana vive en Madrid y mis padres viven en Maryland. 
-Mi abuelo vive en Miami. Yo no tengo hijos, pero mi hermana tiene tres hijos. Tengo cinco tíos y muchos primos. 
-Mis tíos viven en España. Mi primo Carlos vive en Nueva York. Los sábados yo toco la guitarra con mi primo. 
+Yo vivo en Nueva York. Yo tengo una hermana. Mi hermana vive en Madrid y mis padres viven en Maryland.
+Mi abuelo vive en Miami. Yo no tengo hijos, pero mi hermana tiene tres hijos. Tengo cinco tíos y muchos primos.
+Mis tíos viven en España. Mi primo Carlos vive en Nueva York. Los sábados yo toco la guitarra con mi primo.
 Los domingos como en el restaurante y voy al cine con mis amigos y miro películas.
 
 ¿Tienes hermanos, hijos, tíos, primos, etc.? ¿Dónde vive tu familia?
 
 ## 6. Conjugate
 
-- Comer (to eat) 
-- Beber (to drink) 
+- Comer (to eat)
+- Beber (to drink)
 - Vender (to sell)
 - Comprender (to understand)
 - Vivir (to live)
-- Escribir (to write) 
+- Escribir (to write)
 - Abrir (to open)
 - Recibir (to receive)
 
 ## 7. Write 5 questions and 5 answers using regular verbs (-ar, -er or -ir)
+
+Example: *¿Dónde vives? Vivo en Brooklyn.*
 
 ## 8. Fill in the blanks with the correct form of mucho or poco
 

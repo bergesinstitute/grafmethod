@@ -2,7 +2,7 @@
 
 ## Colors
 
-Here are some basic adjectives: the colors. Some of them remain neutral (N) when they are used 
+Here are some basic adjectives: the colors. Some of them remain neutral (N) when they are used
 with masculine and feminine nouns (but they still have plural):
 
     rojo - red
@@ -55,11 +55,11 @@ N = neutral
 
     cansado - tired
 
-## How they work with *ser* and *estar*
+## How they work with ser and estar
 
-Examples using *ser* (with permanent attributes): *Yo soy alto, ella es pequeña, ellos son grandes.*
+Examples using *ser* (defining traits): *Yo soy alto, ella es pequeña, ellos son grandes.*
 
-Examples using *estar* (with non-permanent attributes): *Yo estoy enojado, Juan está triste, 
+Examples using *estar* (states or conditions): *Yo estoy enojado, Juan está triste,
 nosotros estamos cansados.*
 
 # Spanish prepositions
@@ -70,9 +70,9 @@ Prepositions are words that express relationships between two words (usually spa
 
     en - in / on / at
 
-*El abuelo es de España. El abuelo está en Nueva York.* (The grandfather is from Spain. 
-The grandfather is in New York.) Notice the use of *ser* and *estar*. Since *de* implies origin, 
-we will always use it with *ser*. Since *en* implies location, we will always use it with *estar*.
+*El abuelo es de España. El abuelo está en Nueva York.* (The grandfather is from Spain.
+The grandfather is in New York.) Notice the use of *ser* and *estar.* Since *de* implies origin,
+we will always use it with *ser.* Since *en* implies location, we will always use it with *estar.*
 
 # Spanish adverbs
 
@@ -80,7 +80,7 @@ Adverbs are words that describe verbs or adjectives. They don't have gender or n
 
     muy - very
 
-*Yo estoy muy cansado.* (I am very tired.) 
+*Yo estoy muy cansado.* (I am very tired.)
 
 # Basic words and expressions in Spanish
 
@@ -138,44 +138,44 @@ Conjunctions are words used to connect words or sentences together.
 
     pero - but
 
-*Yo soy de Madrid y Laura es de Barcelona. Juan está enojado o cansado. Yo estoy en Nueva York, 
-pero Pedro está en Londres.* (I am from Madrid and Laura is from Barcelona. Juan is either angry 
+*Yo soy de Madrid y Laura es de Barcelona. Juan está enojado o cansado. Yo estoy en Nueva York,
+pero Pedro está en Londres.* (I am from Madrid and Laura is from Barcelona. Juan is either angry
 or tired. I am in New York, but Pedro is in London.)
 
-# Possessive adjectives in Spanish
+# Possessive determiners in Spanish
 
-## Possessive adjectives
+## Possessive determiners
 
-Possessive adjectives show possession. In Spanish, we have different ones for one thing possessed 
+Possessive determiners go before the noun and show possession. In Spanish, we have different ones for one thing possessed
 or more than one thing possessed.
 
 ## One thing possessed
 
-    First-person singular: mi (my)
+    First person singular: mi (my)
 
-    Second-person singular: tu (your, singular)
+    Second person singular: tu (your, singular)
 
-    Third-person singular: su (his / her)
+    Third person singular: su (his / her / your, formal)
 
-    First-person plural: nuestro / nuestra (our)
+    First person plural: nuestro / nuestra (our)
 
-    Second-person plural: vuestro / vuestra (your, plural)
+    Second person plural: vuestro / vuestra (your, plural)
 
-    Third-person plural: su (their)
+    Third person plural: su (their / your, formal plural)
 
 ## More than one thing possessed
 
-    First-person singular: mis (my)
+    First person singular: mis (my)
 
-    Second-person singular: tus (your, singular)
+    Second person singular: tus (your, singular)
 
-    Third-person singular: sus (his / her)
+    Third person singular: sus (his / her / your, formal)
 
-    First-person plural: nuestros / nuestras (our)
+    First person plural: nuestros / nuestras (our)
 
-    Second-person plural: vuestros / vuestras (your, plural)
+    Second person plural: vuestros / vuestras (your, plural)
 
-    Third-person plural: sus (their)
+    Third person plural: sus (their / your, formal plural)
 
 Some examples: *mi casa, mis carros, sus tíos, nuestras casas, tus abuelos.*
 
@@ -184,7 +184,7 @@ Some examples: *mi casa, mis carros, sus tíos, nuestras casas, tus abuelos.*
 
 ## Full way of expressing possession
 
-When we are not using possessives and saying who the person is, in Spanish we cannot use *'s* 
+When we name the possessor instead of using a possessive, we cannot use *'s* in Spanish
 (as in *Juan's house*). We have to say *la casa de Juan* (the house of Juan).
 
 # Introducing yourself in Spanish
@@ -198,12 +198,12 @@ Here's an easy formula:
     Mi nombre es Juan. - My name is Juan.
 
     Mucho gusto. - Nice to meet you.
- 
+
 > Notice we use an opening inverted question mark: ¿...? Same for ¡...!
 
 # Asking questions in Spanish
 
-## Interrogative pronouns
+## Interrogative words
 
     qué - what
 
@@ -223,16 +223,17 @@ Here's an easy formula:
 
 They all have an accent (´) on their strong syllable.
 
-> *Cuál* is usually used before *es* (and other forms of *ser*) instead of *qué* when not seeking a definition:
-*What's your phone number? ¿Cuál es tu número de teléfono?*
-*What is your address? ¿Cuál es tu dirección?*
+> Before *es* (and other forms of *ser*), we use *cuál* (plural: *cuáles*) instead of *qué* when we are asking for
+> a piece of information: *What's your phone number? ¿Cuál es tu número de teléfono? What is your address?
+> ¿Cuál es tu dirección?* We only use *qué* with *ser* when we are asking for a definition: *What is a piano?
+> ¿Qué es un piano?*
 
 ## Example
 
-> When we speak, we frequently omit the personal pronoun, since it's implied in the conjugation of the verb: 
-we say *estoy triste* instead of *yo estoy triste*, or *eres alto* instead of *tú eres alto*.
+> When we speak, we frequently omit the personal pronoun, since it's implied in the conjugation of the verb:
+we say *estoy triste* instead of *yo estoy triste,* or *eres alto* instead of *tú eres alto.*
 
-    ¿De dónde eres? - Where are you from? (Lit. “From where are you?”)
+    ¿De dónde eres? - Where are you from? (Lit. "From where are you?")
 
     Soy de Madrid. - I am from Madrid.
 
@@ -242,7 +243,7 @@ we say *estoy triste* instead of *yo estoy triste*, or *eres alto* instead of *t
 
 # Talking about your favorite things in Spanish
 
-For asking *what is your favorite _____?* we use *cuál*. We literally ask *which is your favorite _____?*
+For asking *what is your favorite _____?* we use *cuál.* We literally ask *which is your favorite _____?*
 
 Here are some examples:
 
@@ -253,6 +254,10 @@ Here are some examples:
     ¿Cuál es tu animal favorito? (Lit. Which is your favorite animal?)
 
     Mi animal favorito es el gato. (My favorite animal is the cat.)
+
+    ¿Cuáles son tus colores favoritos? (Lit. Which are your favorite colors?)
+
+    Mis colores favoritos son rojo y azul. (My favorite colors are red and blue.)
 
 Some more nouns:
 
@@ -304,10 +309,10 @@ If there is no translation shown, the name in Spanish is the same as in English 
 4. The mother is in Cuba.
 5. Madrid is in Spain.
 6. New York is in the USA (Estados Unidos).
-7. Paris is in France (Francia).
+7. Paris (París) is in France (Francia).
 8. The uncle is sad.
 9. The aunt is happy.
-10. I am from Pakistan.
+10. I am from Pakistan (Pakistán).
 11. We are friends (amigos; we use *ser*!).
 12. You (form., pl.) are friends.
 13. The grandfather is from Nevada.
@@ -329,7 +334,7 @@ If there is no translation shown, the name in Spanish is the same as in English 
 7. You are not from China.
 8. You (form., sing.) are not happy.
 9. The mother is not tired.
-10. The girl is not from Canada.
+10. The girl is not from Canada (Canadá).
 11. You (form., pl.) are not angry.
 12. They (f) are not angry.
 
@@ -360,7 +365,7 @@ If there is no translation shown, the name in Spanish is the same as in English 
    Yo ________ de España, pero mis hermanos ________ de Francia. Mi madre ________ de Madrid
    y mi padre ________ de Barcelona. Mi madre ________ alta y mi padre ________ bajo. Mis
    hermanos ________ altos y grandes.
-   La casa de mis padres _________ grande. La casa ________ en Ibiza. El carro de mi padre ________ negro.
+   La casa de mis padres ________ grande. La casa ________ en Ibiza. El carro de mi padre ________ negro.
 
 ## 8. Translate
 
@@ -373,5 +378,5 @@ If there is no translation shown, the name in Spanish is the same as in English 
 7. Your house is white and my house is red.
 8. Your dogs are happy.
 9. Her sister and my daughter are friends.
-10. My (m) cousin is from Peru.
+10. My (m) cousin is from Peru (Perú).
 11. My (f) cousin is in Chile.

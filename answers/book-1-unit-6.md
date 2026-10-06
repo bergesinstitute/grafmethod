@@ -1,4 +1,4 @@
-# Answer key — Book 1, Unit 6
+# Answer key - Book 1, Unit 6
 
 ## 1. Answer the questions
 
@@ -49,42 +49,42 @@ This is a drawing exercise. There is no written answer. The Spanish vocabulary u
 
 ## 4. Spell the numbers
 
-    5  — cinco
-    13 — trece
-    17 — diecisiete
-    32 — treinta y dos
-    28 — veintiocho
-    22 — veintidós
-    53 — cincuenta y tres
-    68 — sesenta y ocho
-    51 — cincuenta y uno
-    80 — ochenta
-    93 — noventa y tres
-    11 — once
-    24 — veinticuatro
-    48 — cuarenta y ocho
-    59 — cincuenta y nueve
-    67 — sesenta y siete
-    76 — setenta y seis
-    79 — setenta y nueve
-    72 — setenta y dos
+    5  - cinco
+    13 - trece
+    17 - diecisiete
+    32 - treinta y dos
+    28 - veintiocho
+    22 - veintidós
+    53 - cincuenta y tres
+    68 - sesenta y ocho
+    51 - cincuenta y uno
+    80 - ochenta
+    93 - noventa y tres
+    11 - once
+    24 - veinticuatro
+    48 - cuarenta y ocho
+    59 - cincuenta y nueve
+    67 - sesenta y siete
+    76 - setenta y seis
+    79 - setenta y nueve
+    72 - setenta y dos
 
 ## 5. ¿Qué hora es?
 
-- 2:45 — Son las dos y cuarenta y cinco.
-- 5:24 — Son las cinco y veinticuatro.
-- 9:05 — Son las nueve y cinco.
-- 11:40 — Son las once y cuarenta.
-- 6:00 — Son las seis.
-- 7:15 — Son las siete y cuarto.
-- 8:58 — Son las ocho y cincuenta y ocho.
-- 10:00 PM — Son las diez de la noche.
-- 10:00 AM — Son las diez de la mañana.
-- 1:17 AM — Es la una y diecisiete de la mañana.
-- 1:59 — Es la una y cincuenta y nueve.
-- 4:32 — Son las cuatro y treinta y dos.
-- 2:08 — Son las dos y ocho.
-- 6:10 AM — Son las seis y diez de la mañana.
-- 6:50 AM — Son las seis y cincuenta de la mañana.
-- 1:44 PM — Es la una y cuarenta y cuatro de la tarde.
-- 2:30 — Son las dos y media.
+- 2:45 - Son las dos y cuarenta y cinco.
+- 5:24 - Son las cinco y veinticuatro.
+- 9:05 - Son las nueve y cinco.
+- 11:40 - Son las once y cuarenta.
+- 6:00 - Son las seis.
+- 7:15 - Son las siete y cuarto.
+- 8:58 - Son las ocho y cincuenta y ocho.
+- 10:00 pm - Son las diez de la noche.
+- 10:00 am - Son las diez de la mañana.
+- 1:17 am - Es la una y diecisiete de la mañana.
+- 1:59 - Es la una y cincuenta y nueve.
+- 4:32 - Son las cuatro y treinta y dos.
+- 2:08 - Son las dos y ocho.
+- 6:10 am - Son las seis y diez de la mañana.
+- 6:50 am - Son las seis y cincuenta de la mañana.
+- 1:44 pm - Es la una y cuarenta y cuatro de la tarde.
+- 2:30 - Son las dos y media.

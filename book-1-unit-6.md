@@ -34,7 +34,7 @@
 
 # Numbers from 0 to 100 in Spanish
 
-## 1 through 30
+## 0 through 30
 
     0 - cero
 
@@ -100,9 +100,9 @@
 
 ## 31 through 100
 
-    31 - treinta y uno 
+    31 - treinta y uno
 
-    32 - treinta y dos 
+    32 - treinta y dos
 
     33 - treinta y tres
 
@@ -110,17 +110,17 @@
 
     Same for 40, 50, etc.
 
-    40 - cuarenta 
+    40 - cuarenta
 
-    50 - cincuenta 
+    50 - cincuenta
 
-    60 - sesenta 
+    60 - sesenta
 
     70 - setenta
 
-    80 - ochenta 
+    80 - ochenta
 
-    90 - noventa 
+    90 - noventa
 
     100 - cien
 
@@ -150,9 +150,9 @@ In Spanish, we use *tener* for age:
 
 ## Conversación
 
-DAMIÁN: ¿Cuántos años tiene tu hermana?
+Damián: ¿Cuántos años tiene tu hermana?
 
-PEDRO: Mi hermana tiene veinte años.
+Pedro: Mi hermana tiene veinte años.
 
 D: ¿Cuántos años tienes tú?
 
@@ -172,15 +172,19 @@ The easiest way to tell time is to say:
 
     Son las X y Y (where X = hour, Y = minutes).
 
-Examples
+## Examples
 
     9:17 Son las nueve y diecisiete.
 
     3:35 Son las tres y treinta y cinco.
 
-For half and quarter we have the option of saying *media* and *cuarto* respectively.
+For half and quarter we have the option of saying *media* and *cuarto* respectively:
 
-We don't use AM or PM. We address the time frame using time expressions with the preposition *de: 
+    2:30 Son las dos y media.
+
+    7:15 Son las siete y cuarto.
+
+We don't use *am* or *pm.* We indicate the time of day using expressions with the preposition *de:
 las tres de la tarde, las ocho de la noche,* etc.
 
 # Homework
@@ -267,7 +271,7 @@ las tres de la tarde, las ocho de la noche,* etc.
    79
 
    72
-   
+
 ## 5. ¿Qué hora es?
 
 2:45
@@ -284,11 +288,11 @@ las tres de la tarde, las ocho de la noche,* etc.
 
 8:58
 
-10:00 PM
+10:00 pm
 
-10:00 AM
+10:00 am
 
-1:17 AM
+1:17 am
 
 1:59
 
@@ -296,10 +300,10 @@ las tres de la tarde, las ocho de la noche,* etc.
 
 2:08
 
-6:10 AM
+6:10 am
 
-6:50 AM
+6:50 am
 
-1:44 PM
+1:44 pm
 
 2:30

@@ -1,6 +1,6 @@
 # Doing things at a certain time
 
-It is different saying *it's two o'clock* than saying *I have breakfast at two o'clock.*
+Saying *it's two o'clock* is different from saying *I have breakfast at two o'clock.*
 
 In Spanish, we say it this way:
 
@@ -20,8 +20,8 @@ la mañana.*
 
 ## Reflexive verbs
 
-These are verbs in which the subject and the object are the same person. In other words, 
-the person does the action “to himself or herself.”
+These are verbs in which the subject and the object are the same person. In other words,
+the person does the action "to himself or herself."
 
 The infinitive of these verbs is like a standard Spanish verb, but with *-se* at the end:
 
@@ -29,19 +29,19 @@ The infinitive of these verbs is like a standard Spanish verb, but with *-se* at
 
     mirarse - to look at yourself
 
-In order to conjugate *mirarse*, we will “borrow” the conjugation from *mirar*, and add the reflexive pronouns:
+In order to conjugate *mirarse,* we will "borrow" the conjugation from *mirar,* and add the reflexive pronouns:
 
     yo me (I, to myself)
 
     tú te (you, to yourself)
 
-    él se / ella se (he, to himself / she, to herself)
+    él se / ella se / usted se (he, to himself / she, to herself / you, to yourself)
 
     nosotros nos / nosotras nos (we, to ourselves)
 
     (vosotros os / vosotras os) (you all, to yourselves)
 
-    ellos se / ellas se (they, to themselves)
+    ellos se / ellas se / ustedes se (they, to themselves / you all, to yourselves)
 
 Here is *mirar* (to watch / to look):
 
@@ -73,7 +73,7 @@ And here is *mirarse* (to look at yourself):
 
 Here are some common reflexive verbs:
 
-    acostarse* - to go to bed / to lie down
+    acostarse - to go to bed / to lie down
 
     afeitarse - to shave (yourself)
 
@@ -81,7 +81,7 @@ Here are some common reflexive verbs:
 
     depilarse - to remove hair from your own body
 
-    dormirse* - to fall asleep
+    dormirse - to fall asleep
 
     ducharse / bañarse - to take a shower
 
@@ -89,7 +89,7 @@ Here are some common reflexive verbs:
 
     levantarse - to get up
 
-    llamarse - to “be named”
+    llamarse - to "be named"
 
     maquillarse - to put on makeup
 
@@ -97,21 +97,21 @@ Here are some common reflexive verbs:
 
     peinarse - to comb your hair
 
-    ponerse el sombrero* - to put on your hat
+    ponerse el sombrero - to put on your hat
 
     quitarse el sombrero - to take your hat off
 
-    vestirse* - to get dressed
+    vestirse - to get dressed
 
-> *Irregular verb. See below.
+> *Acostarse, dormirse, ponerse* and *vestirse* are irregular. See below.
 
 ## Reflexive and non-reflexive meaning
 
-Many verbs in Spanish have a reflexive and a non-reflexive version. And, many times, 
-they have different meanings. For example, *levantar* means *to lift*, while *levantarse* means 
-*to get up; dormirse* means *to fall asleep*, while *dormir* means *to sleep.* 
-In some cases, the meaning is very close: *peinar* means *to comb someone's hair,* while *peinarse* 
-means *to comb your own hair.* We need to treat all reflexive verbs as independent verbs with 
+Many verbs in Spanish have a reflexive and a non-reflexive version. And, many times,
+they have different meanings. For example, *levantar* means *to lift,* while *levantarse* means
+*to get up*; *dormirse* means *to fall asleep,* while *dormir* means *to sleep.*
+In some cases, the meaning is very close: *peinar* means *to comb someone's hair,* while *peinarse*
+means *to comb your own hair.* We need to treat all reflexive verbs as independent verbs with
 their own specific meaning.
 
     Yo levanto mucho peso. (I lift a lot of weight.)
@@ -124,15 +124,21 @@ their own specific meaning.
 
     Yo peino a mi amiga. (I comb my friend's hair.)
 
-    Yo me peino cada mañana. (I comb my hair every morning. Lit. I comb myself.)  
+    Yo me peino cada mañana. (I comb my hair every morning. Lit. I comb myself.)
 
 To make a sentence negative, we just place the word *no* right before the reflexive pronoun:
 
     Yo no me ducho por la mañana.
 
+> A note for the curious: strictly speaking, a verb is only reflexive when the subject really does the action
+> to himself or herself, as in *mirarse* or *lavarse la cara.* In verbs like *dormirse* or *llamarse,* the pronoun
+> does not mean *myself* or *yourself*; it is simply part of the verb. Grammarians call these *pronominal verbs.*
+> For practical purposes the distinction does not matter: they are all conjugated exactly the same way, so in
+> this book we call all of them reflexive.
+
 ## Stem-changing reflexive verbs
 
-*Acostarse* and *dormirse* are “stem-changing” verbs (O becomes UE in all persons except *nosotros* and *vosotros*):
+*Acostarse* and *dormirse* are "stem-changing" verbs (O becomes UE in all persons except *nosotros* and *vosotros*):
 
 ### Acostarse (to go to bed)
 
@@ -164,7 +170,7 @@ To make a sentence negative, we just place the word *no* right before the reflex
 
 ## Vestirse and ponerse
 
-*Vestirse* and *ponerse* are irregular verbs: 
+*Vestirse* and *ponerse* are irregular verbs:
 
 ### Vestirse (to get dressed)
 
@@ -196,9 +202,9 @@ To make a sentence negative, we just place the word *no* right before the reflex
 
 ## Conversación
 
-Pérez: Hola Silvia. ¿A qué hora te levantas cada día?
+Pérez: Hola, Silvia. ¿A qué hora te levantas cada día?
 
-Silvia: Hola Pérez. Me levanto a las siete de la mañana cada día.
+Silvia: Hola, Pérez. Me levanto a las siete de la mañana cada día.
 
 P: ¿Te lavas la cara cada mañana?
 
@@ -210,7 +216,7 @@ S: Tomo el metro a las nueve de la mañana. Tomo el tren G.
 
 P: ¿Te maquillas cada día?
 
-S: No, me maquillo los sábados cuando voy al club.
+S: No, me maquillo los sábados por la noche.
 
 P: ¿A qué hora te acuestas cada día?
 
@@ -220,11 +226,11 @@ P: Yo me acuesto a las once y media.
 
 ## Laura y yo
 
-Laura y yo nos levantamos a las siete de la mañana cada día. Nos lavamos la cara, nos cepillamos los dientes 
-y desayunamos. A las ocho de la mañana nos duchamos, y Laura se depila en la ducha (the shower). Entonces, 
-yo me afeito, y Laura se maquilla y se peina. Yo nunca me peino. A las nueve nos vestimos. Yo me pongo 
-mi sombrero. Laura siempre se mira en el espejo. Vamos al trabajo de diez de la mañana a seis de la tarde. 
-A las seis y cuarto vamos a casa. Entonces, vamos al gimnasio, miramos la televisión y cenamos. 
+Laura y yo nos levantamos a las siete de la mañana cada día. Nos lavamos la cara, nos cepillamos los dientes
+y desayunamos. A las ocho de la mañana nos duchamos, y Laura se depila en la ducha (the shower). Entonces,
+yo me afeito, y Laura se maquilla y se peina. Yo nunca me peino. A las nueve nos vestimos. Yo me pongo
+el sombrero. Laura siempre se mira en el espejo. Vamos al trabajo de diez de la mañana a seis de la tarde.
+A las seis y cuarto vamos a casa. Entonces, vamos al gimnasio, miramos la televisión y cenamos.
 Normalmente nos acostamos a las diez de la noche.
 
 # Homework
@@ -235,11 +241,11 @@ Normalmente nos acostamos a las diez de la noche.
 2. His head is small but his nose is big.
 3. What time do you have dinner?
 4. I have two blue eyes.
-5. I go to the gym at 7 PM every day.
+5. I go to the gym at 7 pm every day.
 6. Our ears are big and our mouths are red.
 7. Her hair is black.
 8. My teeth are white and big.
-9. I usually have breakfast at 8:20 AM.
+9. I usually have breakfast at 8:20 am.
 
 ## 2. Answer the questions
 
@@ -260,7 +266,7 @@ Normalmente nos acostamos a las diez de la noche.
 5. Usted a veces _____________________________ (maquillarse) por la mañana.
 6. Ellos _____________________________ (acostarse) a las nueve de la noche.
 7. Él _____________________________ (mirarse) mucho en el espejo.
-8. Yo nunca _____________________________ (peinarse) por la mañana
+8. Yo nunca _____________________________ (peinarse) por la mañana.
 9. A veces yo _____________________________ (ducharse) por la noche.
 10. Mi primo _____________________________ (llamarse) Manolo.
 11. Nosotros _____________________________ (vestirse) a las 8 de la mañana.
@@ -274,13 +280,13 @@ Normalmente nos acostamos a las diez de la noche.
 
 ## 4. Translate
 
-1. I get up at 6 AM.
-2. I brush my teeth at 7 AM.
-3. I go to work at 8 AM.
-4. He goes to bed at 10 PM.
+1. I get up at 6 am.
+2. I brush my teeth at 7 am.
+3. I go to work at 8 am.
+4. He goes to bed at 10 pm.
 5. You (form., sing.) never comb your hair.
-6. My sister always goes to bed at 9 PM.
-7. We always eat at 7 PM.
+6. My sister always goes to bed at 9 pm.
+7. We always eat at 7 pm.
 8. You (form., pl.) take a shower.
 9. They (f) brush their teeth every morning.
 10. She gets dressed at 8 every morning.

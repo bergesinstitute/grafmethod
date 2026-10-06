@@ -2,7 +2,7 @@
 
 Here is a vocab list for reference. No need to memorize everything at this point.
 
-    los cereales - the cereals
+    los cereales - the grains / the cereals
 
     el arroz - the rice
 
@@ -50,7 +50,7 @@ Here is a vocab list for reference. No need to memorize everything at this point
 
     la ternera - the beef
 
-    el puerco - the pork
+    el cerdo / el puerco - the pork
 
     el pescado - the fish
 
@@ -72,15 +72,15 @@ Here is a vocab list for reference. No need to memorize everything at this point
 
     la hamburguesa - the hamburger
 
-    las patatas/papas fritas - the fries
+    las patatas fritas / las papas fritas - the fries
 
     la pizza - the pizza
 
     el pan - the bread
 
-    el sandwich - the sandwich
+    el sándwich - the sandwich
 
-    el helado - the ice cream 
+    el helado - the ice cream
 
     los vegetales / las verduras - the vegetables
 
@@ -122,7 +122,7 @@ Here is a vocab list for reference. No need to memorize everything at this point
 
     la calabaza - the squash
 
-    la oliva - the olive
+    la aceituna / la oliva - the olive
 
     la sal - the salt
 
@@ -164,9 +164,22 @@ Here is a vocab list for reference. No need to memorize everything at this point
 
 # Ordering food at a restaurant
 
-The most common way is saying what you want and *por favor* after it.
+The most common way is to say what you want, followed by *por favor*:
 
     Unas ostras y un agua, por favor.
+
+# Encantar (to love something)
+
+*Encantar* works exactly like *gustar,* and it means *to like a lot*:
+
+    Me encanta la pizza. (I love pizza.)
+
+    Me encantan las ostras. (I love oysters.)
+
+    A mi hermana le encanta cocinar. (My sister loves cooking.)
+
+> *Gustar* and *encantar* can also be used with other persons, not only the third person. The subject can be any person:
+> *Me encantas.* (I really like you. Lit. You charm me.) *¿Te gusto?* (Do you like me? Lit. Do I please you?)
 
 # Homework
 

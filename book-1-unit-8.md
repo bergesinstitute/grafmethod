@@ -40,7 +40,7 @@
 
 ## Meaning
 
-*Por* and *para* are a little confusing because they both can be translated as *for.* But they have different uses. 
+*Por* and *para* are a little confusing because they both can be translated as *for.* But they have different uses.
 Here are some basic ones:
 
 ## Para
@@ -49,7 +49,7 @@ We use it for purpose / destination / goal:
 
     La falda es para María. (The skirt is for María.)
 
-    Tengo un presente para Pedro. (I have a present for Pedro.) 
+    Tengo un regalo para Pedro. (I have a gift for Pedro.)
 
     Voy a la escuela para aprender. (I go to school in order to learn. In this case it means in order to.)
 
@@ -75,7 +75,7 @@ All the other persons remain the same. This is the equivalent of *for me, for hi
 
     Tengo una carta para ti. (I have a letter for you.)
 
-    ¿La bufanda es para mí? (Is the scarf for me?) 
+    ¿La bufanda es para mí? (Is the scarf for me?)
 
     Juan tiene un libro para nosotros. (Juan has a book for us.)
 
@@ -85,7 +85,7 @@ All the other persons remain the same. This is the equivalent of *for me, for hi
 
 ## How it works
 
-In Spanish, when we express the idea of liking things, we are not doing the action; we are receiving it 
+In Spanish, when we express the idea of liking things, we are not doing the action; we are receiving it
 from whatever is being liked. This is easier to see if we think of the verb *to please:*
 
     I like NYC. Subject: I. Object: NYC.
@@ -94,12 +94,12 @@ from whatever is being liked. This is easier to see if we think of the verb *to 
 
 In Spanish, we follow the second example:
 
-    Me gusta NYC. Subject: NYC. Object: Yo.
+    Me gusta NYC. Subject: NYC. Object: me.
 
-We don't use the subject pronoun (*yo, tú*) when using *gustar.* If we want to use a pronoun, 
-we need to use the personal A in front of it (since the object, the one being pleased, is a person) 
-and thus use the pronouns we use after a preposition. We will say *a mí, a ti, a él, 
-a nosotros, a vosotros,* or *a ellos.* 
+The person who likes something is not the subject of *gustar,* so we don't use *yo* or *tú* for that person.
+If we want to add a pronoun for that person (for emphasis or clarity), we put the preposition *a* in front of it
+and use the pronouns we use after a preposition: *a mí, a ti, a él,
+a nosotros, a vosotros,* or *a ellos.*
 
 We are also going to use a new set of pronouns (they are very similar to the reflexive pronouns):
 
@@ -117,31 +117,31 @@ We are also going to use a new set of pronouns (they are very similar to the ref
 
 ## Examples
 
-    Me gustan las manzanas.* (I like apples.) or (Apples please me.)
+    Me gustan las manzanas. (I like apples.) or (Apples please me.)
 
     Le gusta Laura. (He/she likes Laura.) or (Laura pleases him/her.)
 
     Nos gusta mucho la comida. (We like food a lot.) or (Food pleases us a lot.)
 
-> We are not required to use the pronouns a *mí, a ti,* etc. unless we want to emphasize the person: 
+> We are not required to use the pronouns *a mí, a ti,* etc. unless we want to emphasize the person:
 > *Me gustan las manzanas. Juan, ¿a ti te gustan las manzanas?*
 
-When we use a noun, we must use the preposition *a* in front of it: 
+When we use a noun, we must use the preposition *a* in front of it:
 
-    A Pedro le gustan las manzanas. 
+    A Pedro le gustan las manzanas.
 
     A mi hermano no le gusta la pizza.
 
-When we want to say activities we like, we use the infinitive of the verb:
+When we want to say which activities we like, we use the infinitive of the verb:
 
-    Me gusta cantar. A mi hermano no le gusta trabajar. 
+    Me gusta cantar. A mi hermano no le gusta trabajar.
 
-*Important: when using generic/uncountable nouns with gustar we must always use a definite article 
+Important: when using generic/uncountable nouns with *gustar,* we must always use a definite article
 (*el, la, los, las*):
 
-    Me gusta la piña (I like pineapple). 
+    Me gusta la piña. (I like pineapple.)
 
-    Me gustan los gatos (I like cats).
+    Me gustan los gatos. (I like cats.)
 
 # Homework
 

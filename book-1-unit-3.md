@@ -86,9 +86,9 @@ Tengo una gata. - I have a (female) cat.
 
     el fin de semana - the weekend
 
-In Spanish, days of the week are not capitalized: *lunes, martes, etc.* All of them are masculine. 
-In order to make them plural, we just use the plural article (*el martes, los martes*), 
-except for *sábado* and *domingo*: *el sábado, los sábados; el domingo, los domingos*.
+In Spanish, days of the week are not capitalized: *lunes, martes, etc.* All of them are masculine.
+In order to make them plural, we just use the plural article (*el martes, los martes*),
+except for *sábado* and *domingo*: *el sábado, los sábados; el domingo, los domingos.*
 
 # Lugares (places)
 
@@ -100,7 +100,7 @@ except for *sábado* and *domingo*: *el sábado, los sábados; el domingo, los d
 
     el cine - the movie theater
 
-    el teatro - the theatre
+    el teatro - the theater
 
     el concierto - the concert
 
@@ -136,7 +136,7 @@ When we use our preposition *a* together with the masculine singular article *el
 
 # Going to places in Spanish
 
-We use the present tense (the only tense we've seen for now) for expressing habits. Here is an example 
+We use the present tense (the only tense we've seen for now) for expressing habits. Here is an example
 using the present tense for describing activities we usually do during the week:
 
     Los lunes voy al gimnasio.
@@ -153,14 +153,14 @@ using the present tense for describing activities we usually do during the week:
 
     Los domingos voy al cine.
 
-Note how, instead of saying *on Mondays,* we say *los lunes* (lit. “the Mondays”). We do the same 
+Note how, instead of saying *on Mondays,* we say *los lunes* (lit. "the Mondays"). We do the same
 thing with all the other days.
 
-Also note how *a* + *el* becomes *al*.
+Also note how *a* + *el* becomes *al.*
 
 # Some words we use all the time in Spanish
 
-    vale / dale / bien / bueno / listo / claro - ok
+    vale / dale / bien / bueno / listo / claro - OK
 
     entonces - so / then
 
@@ -172,7 +172,7 @@ Also note how *a* + *el* becomes *al*.
 
     por la noche - at night
 
-> In some countries, people say *en*  instead of *por: en la mañana, en la tarde,* etc.
+> In some countries, people say *en* instead of *por: en la mañana, en la tarde,* etc.
 
 # Numbers 6 through 10 in Spanish
 
@@ -188,9 +188,9 @@ Also note how *a* + *el* becomes *al*.
 
 # Conversación
 
-Ana: Hola Victoria, ¿cómo estás?
+Ana: Hola, Victoria, ¿cómo estás?
 
-Victoria: Hola Ana, estoy muy bien (I'm very well), gracias. ¿Tú cómo estás?
+Victoria: Hola, Ana, estoy muy bien (I'm very well), gracias. ¿Tú cómo estás?
 
 A: Muy bien, gracias. ¿Cuál es tu libro favorito?
 
@@ -244,11 +244,11 @@ In questions, we usually place the verb before the pronoun.
 1. ¿Dónde _________ tú los lunes? Los lunes yo ________ al supermercado.
 2. ¿Dónde _________ ellos los miércoles? Ellos ________ al parque.
 3. ¿Dónde _________ tu abuela los domingos? Mi abuela ______ a la iglesia.
-4. ¿Dónde _________ ustedes los jueves? Los jueves nosotros________ al club.
-5. ¿Dónde _________ ella los viernes? Ella_____ al gimnasio.
+4. ¿Dónde _________ ustedes los jueves? Los jueves nosotros ________ al club.
+5. ¿Dónde _________ ella los viernes? Ella ________ al gimnasio.
 
-> *Adónde*  and  *a dónde*  are often used instead of *dónde*  when using the verb *ir: 
-> ¿Dónde vas los lunes? ¿Adónde vas los lunes? ¿A dónde vas los lunes?* (The meaning is the 
+> *Adónde* and *a dónde* are often used instead of *dónde* when using the verb *ir:
+> ¿Dónde vas los lunes? ¿Adónde vas los lunes? ¿A dónde vas los lunes?* (The meaning is the
 > same in all three examples.)
 
 ## 3. Complete using hacer in the question and ir in the answer
@@ -273,19 +273,19 @@ In questions, we usually place the verb before the pronoun.
 
 ## 5. Complete the conversation
 
-Hola, ¿de dónde eres?
+—Hola, ¿de dónde eres?
 
-Yo ___________. ¿y tú de dónde eres?
+—Yo ___________. ¿Y tú de dónde eres?
 
-Yo soy de Galicia.
+—Yo soy de Galicia.
 
-¿Y dónde ___________ Galicia?
+—¿Y dónde ___________ Galicia?
 
-Galicia ___________ en España.
+—Galicia ___________ en España.
 
-¿___________ hermanos?
+—¿___________ hermanos?
 
-Sí, tengo una hermana.
+—Sí, tengo una hermana.
 
 ## 6. Complete the sentences using ir
 
@@ -308,4 +308,4 @@ Sí, tengo una hermana.
 7. My niece has a dog (f) and a cat (f). They are friends but they do not go to the park.
 8. On Friday nights we are happy but you are sad.
 9. On Monday nights your (form., sing.) sister goes to the restaurant.
-10. On Friday nights we go to the club
+10. On Friday nights we go to the club.

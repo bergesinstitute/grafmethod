@@ -1,8 +1,8 @@
-# Answer key — Book 1, Unit 5
+# Answer key - Book 1, Unit 5
 
 ## 1. Translate
 
-1. Mi padre canta en Blue Note los sábados.
+1. Mi padre canta en un club los sábados.
 2. Camino en el parque cada día.
 3. Tú bailas con Rita.
 4. Trabajamos en una tienda.
@@ -13,24 +13,24 @@
 9. Yo trabajo en una tienda y mi hermana trabaja en una oficina.
 10. ¿Trabajas en un restaurante?
 11. A veces trabajo con Peter, a veces con Maria.
-12. Siempre canto y bailo en mi cuarto. 
+12. Siempre canto y bailo en mi cuarto.
 13. Siempre cocino pasta en mi apartamento los viernes por la noche.
 
 ## 2. Write a conversation using regular -ar verbs
 
 This is an open-ended exercise. A model conversation:
 
-> ANA: Hola Luis. ¿Dónde trabajas?
+> Ana: Hola, Luis. ¿Dónde trabajas?
 >
-> LUIS: Hola Ana. Trabajo en una tienda en Brooklyn. ¿Y tú?
+> Luis: Hola, Ana. Trabajo en una tienda en Brooklyn. ¿Y tú?
 >
-> ANA: Yo estudio en la escuela y trabajo en una cafetería.
+> Ana: Yo estudio en la escuela y trabajo en una cafetería.
 >
-> LUIS: ¿Cocinas mucho en tu casa?
+> Luis: ¿Cocinas mucho en tu casa?
 >
-> ANA: Sí, cocino cada noche. ¿Tú bailas los sábados?
+> Ana: Sí, cocino cada noche. ¿Tú bailas los sábados?
 >
-> LUIS: A veces bailo en un club con mis amigos. Y siempre canto en mi apartamento.
+> Luis: A veces bailo en un club con mis amigos. Y siempre canto en mi apartamento.
 
 ## 3. Translate
 
@@ -38,7 +38,7 @@ This is an open-ended exercise. A model conversation:
 2. Mi amigo nunca bebe agua.
 3. Siempre como pizza en Arturo's.
 4. A veces leo el New Yorker.
-5. No comprendo a Peter. *(personal* a *because the object is a person)*
+5. No comprendo a Peter. (Personal *a*, because the object is a person.)
 6. No venden guitarras pero venden pianos.
 7. Hay muchas personas en Times Square los domingos.
 8. Hay pocas personas en Macy's los martes por la mañana.
@@ -47,11 +47,11 @@ This is an open-ended exercise. A model conversation:
 
 Sample answers.
 
-1. Sí, bebo mucha Coca Cola.
+1. Sí, bebo mucha Coca-Cola.
 2. No, no como pizza casi cada día. Como pizza los viernes.
 3. Sí, a veces como en McDonald's.
 4. Sí, comprendo español.
-5. No, no leo People o Life cada semana.
+5. No, no leo People o Time cada semana.
 6. No, no leo Vogue.
 7. Sí, escribo mucho en mi computadora.
 8. Sí, a veces hablo por teléfono con mi amiga.
@@ -140,15 +140,15 @@ Open-ended. A model answer:
 
 Open-ended. Model set:
 
-1. ¿Tú cantas en la ducha? — Sí, canto en la ducha cada mañana.
-2. ¿Dónde estudias español? — Estudio español en mi casa.
-3. ¿Comes pasta los viernes? — Sí, como pasta los viernes por la noche.
-4. ¿Vives en Manhattan? — No, vivo en Brooklyn.
-5. ¿Escribes muchos emails? — Sí, escribo muchos emails cada día.
+1. ¿Tú cantas en tu cuarto? - Sí, canto en mi cuarto cada mañana.
+2. ¿Dónde estudias español? - Estudio español en mi casa.
+3. ¿Comes pasta los viernes? - Sí, como pasta los viernes por la noche.
+4. ¿Vives en Manhattan? - No, vivo en Brooklyn.
+5. ¿Escribes muchos emails? - Sí, escribo muchos emails cada día.
 
 ## 8. Mucho or poco
 
-When *mucho/poco* qualifies a noun it is an adjective and matches gender + number; when it qualifies a verb it is an adverb and stays invariable.
+When *mucho/poco* goes before a noun it is a determiner and matches gender and number. When it modifies a verb it is an adverb and stays invariable.
 
 1. María tiene **muchos** zapatos.
 2. Javier tiene **pocas** computadoras.

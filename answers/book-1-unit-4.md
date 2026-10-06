@@ -1,4 +1,4 @@
-# Answer key — Book 1, Unit 4
+# Answer key - Book 1, Unit 4
 
 ## 1. Translate
 
@@ -24,7 +24,7 @@
 
 This is an open-ended writing exercise. A model answer:
 
-> En mi casa hay dos cuartos, tres ventanas, una televisión, una sala pequeña, una cocina blanca, una mesa marrón, cuatro sillas negras, un sofá verde y muchos libros. No tengo un piano, pero tengo una guitarra.
+> En mi casa hay dos cuartos, tres ventanas, una televisión, una sala pequeña, una cocina blanca, una mesa marrón, cuatro sillas negras, un sofá verde y dos libros. No tengo un piano, pero tengo una guitarra.
 
 ## 3. Translate
 

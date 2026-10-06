@@ -28,15 +28,15 @@
 
 # There is / there are
 
-In Spanish, we use *hay* to express either *there is* or *there are*. It doesn't matter if it's masculine, 
+In Spanish, we use *hay* to express either *there is* or *there are.* It doesn't matter if it's masculine,
 feminine, singular, or plural:
 
     Hay un piano. (There is a piano.)
-    
+
     Hay una guitarra. (There is a guitar.)
-    
+
     Hay unos pianos. (There are some pianos.)
-    
+
     Hay unas guitarras. (There are some guitars.)
 
 To make a sentence negative, we just place the word *no* right before *hay*:
@@ -53,11 +53,11 @@ Option 3: *Mi apartamento tiene una cocina grande.* (My apartment has a large ki
 
 # Conversación
 
-JOHN: ¿Cuántas sillas hay en tu sala?*
+John: ¿Cuántas sillas hay en tu sala?[1]
 
-ISABEL: En mi sala hay tres sillas.
+Isabel: En mi sala hay tres sillas.
 
-J: ¿De qué color son tus sillas?**
+J: ¿De qué color son tus sillas?[2]
 
 I: Mis sillas son negras.
 
@@ -73,16 +73,16 @@ J: ¿Tu apartamento tiene armarios?
 
 I: Mi cuarto es un armario.
 
-> *We must match *cuánto* in gender and number when using it with countable nouns (as in *how many*).
-> 
-> **It is an idiomatic expression (lit. “Of what color are your chairs?”)
+[1] We must match *cuánto* in gender and number when using it with countable nouns (as in *how many*).
+
+[2] It is an idiomatic expression (lit. "Of what color are your chairs?").
 
 # Spanish regular verbs ending in -ar
 
 ## Categories
 
-Regular verbs are divided into 3 categories based on their ending: *-ar, -er* and *-ir*. 
-We are going to use *cantar* (to sing), *comer* (to eat) and *vivir* (to live) as models. 
+Regular verbs are divided into 3 categories based on their ending: *-ar, -er* and *-ir.*
+We are going to use *cantar* (to sing), *comer* (to eat) and *vivir* (to live) as models.
 
 ## Cantar (to sing), present tense
 
@@ -97,6 +97,20 @@ We are going to use *cantar* (to sing), *comer* (to eat) and *vivir* (to live) a
     (vosotros / vosotras cantáis)
 
     ellos / ellas / ustedes cantan
+
+## Endings for -ar verbs
+
+    -o
+
+    -as
+
+    -a
+
+    -amos
+
+    (-áis)
+
+    -an
 
 ## List of common -ar verbs
 
@@ -152,7 +166,7 @@ For example:
 
     él trabaj + a = él trabaja
 
-    Etc. 
+    Etc.
 
 # Homework
 
@@ -178,7 +192,7 @@ For example:
 
 ## 2. Your house
 
-En mi casa hay dos cuartos, cinco ventanas, una televisión, una sala, una cocina grande y 
+En mi casa hay dos cuartos, cinco ventanas, una televisión, una sala, una cocina grande y
 blanca, una mesa roja, dos sillas negras, un piano, dos guitarras y una computadora (a computer).
 
 ¿Qué hay en tu casa?
@@ -207,10 +221,10 @@ blanca, una mesa roja, dos sillas negras, un piano, dos guitarras y una computad
 ## 4. Conjugate
 
 - Hablar (to talk)
-- Cocinar (to cook) 
-- Caminar (to walk) 
+- Cocinar (to cook)
+- Caminar (to walk)
 - Amar (to love)
-- Estudiar (to study) 
-- Bailar (to dance) 
+- Estudiar (to study)
+- Bailar (to dance)
 - Trabajar (to work)
 - Comprar (to buy)

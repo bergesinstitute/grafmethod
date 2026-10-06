@@ -1,4 +1,4 @@
-# Answer key — Book 1, Unit 2
+# Answer key - Book 1, Unit 2
 
 ## 1. Translate
 

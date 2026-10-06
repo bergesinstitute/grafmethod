@@ -1,4 +1,4 @@
-# Answer key — Book 1, Unit 1
+# Answer key - Book 1, Unit 1
 
 The unit 1 homework is a memorization exercise. The reference answers below are what you should be able to recite from memory.
 

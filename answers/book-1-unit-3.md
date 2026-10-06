@@ -1,4 +1,4 @@
-# Answer key — Book 1, Unit 3
+# Answer key - Book 1, Unit 3
 
 ## 1. Complete using tener
 
@@ -45,19 +45,19 @@ The destinations are sample answers.
 
 The first blank is a sample answer; the rest are fixed.
 
-— Hola, ¿de dónde eres?
+—Hola, ¿de dónde eres?
 
-— Yo **soy de Nueva York**. ¿Y tú de dónde eres?
+—Yo **soy de Nueva York**. ¿Y tú de dónde eres?
 
-— Yo soy de Galicia.
+—Yo soy de Galicia.
 
-— ¿Y dónde **está** Galicia?
+—¿Y dónde **está** Galicia?
 
-— Galicia **está** en España.
+—Galicia **está** en España.
 
-— ¿**Tienes** hermanos?
+—¿**Tienes** hermanos?
 
-— Sí, tengo una hermana.
+—Sí, tengo una hermana.
 
 ## 6. Complete the sentences using ir
 
