@@ -180,17 +180,3 @@ The most common way is to say what you want, followed by *por favor*:
 
 > *Gustar* and *encantar* can also be used with other persons, not only the third person. The subject can be any person:
 > *Me encantas.* (I really like you. Lit. You charm me.) *¿Te gusto?* (Do you like me? Lit. Do I please you?)
-
-# Homework
-
-Go to https://www.bergesinstitutespanish.com/spanish-verb-conjugations
-and memorize/review the present tense conjugations for the following verbs:
-
-- Cantar
-- Comer
-- Vivir
-- Ser
-- Estar
-- Ir
-- Tener
-- Hacer
