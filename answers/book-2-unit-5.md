@@ -1,11 +1,11 @@
-# Answer key — Book 2, Unit 5
+# Answer key - Book 2, Unit 5
 
 ## 1. Fill in the blanks using querer in the present tense
 
 1. Yo nunca **quiero** cantar.
 2. Tú siempre **quieres** bailar.
 3. Nosotros **queremos** cocinar.
-4. Ellos **quieren** visitar a Maria.
+4. Ellos **quieren** visitar a María.
 5. Ella **quiere** mirar el programa.
 
 ## 2. Answer the questions
@@ -28,7 +28,7 @@ Open-ended. Sample answers:
 1. El lunes pasado, yo **quise** cantar.
 2. El martes, tú **quisiste** bailar.
 3. Nosotros **quisimos** cocinar.
-4. El jueves, ellos **quisieron** visitar a Maria.
+4. El jueves, ellos **quisieron** visitar a María.
 5. El veinte de enero, ella **quiso** mirar el programa.
 
 ## 4. Answer the questions
@@ -43,7 +43,7 @@ Open-ended. Sample answers:
 6. No, no tuve que tomar el metro el domingo pasado.
 7. Sí, pude hacer la tarea de español.
 8. No, no quise tomar un taxi el sábado pasado. Caminé.
-9. No, no necesité llamar al doctor.
+9. No, no necesité llamar al médico.
 10. Sí, pude ir al gimnasio esta mañana.
 
 ## 5. Yo puedo / yo no puedo

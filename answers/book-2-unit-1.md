@@ -1,4 +1,4 @@
-# Answer key — Book 2, Unit 1
+# Answer key - Book 2, Unit 1
 
 ## 1. Translate
 
@@ -18,7 +18,7 @@ Use *ser* with professions and don't use the article *un/una* with them.
 12. Los políticos hablan mucho.
 13. ¿Ella es profesora en Columbia University?
 14. Mi padre es taxista en Bogotá.
-15. James es enfermero y su esposa Norah es doctora.
+15. James es enfermero y su esposa Norah es médica / doctora.
 16. Los recepcionistas en mi oficina siempre están muy felices.
 17. A mi perro Milú le gusta mucho su veterinario. / Mi perro Milú ama a su veterinario.
 18. ¿Ella es piloto, modelo, arquitecta o científica?
@@ -44,9 +44,9 @@ Open-ended. A model answer about a sister:
 6. Mi hermana está en Corea.
 7. Yo soy abogado.
 8. Yo estoy muy preocupado.
-9. Los ojos de Juan son azules. 
-10. El pelo de Maria es largo.
-11. Maria tiene el pelo largo.
+9. Los ojos de Juan son azules.
+10. El pelo de María es largo.
+11. María tiene el pelo largo.
 
 ## 4. Fill in the blanks using ser or estar
 
@@ -73,16 +73,16 @@ Open-ended. Sample answers:
 4. Los jueves yo estoy muy **nervioso** porque **voy a la escuela**.
 5. Los viernes yo estoy muy **feliz** porque **voy al club**.
 6. Los sábados yo estoy muy **relajado** porque **descanso en mi casa**.
-7. Los domingos yo estoy un poco **aburrido** porque **estoy en mi casa y no trabajo**.
-8. Yo soy muy **alto** y muy **simpático** y un poco **tímido**.
+7. Los domingos yo estoy muy **aburrido** porque **estoy en mi casa y no trabajo**.
+8. Yo soy muy **alto** y muy **simpático** y un poco **tonto**.
 
 ## 6. Write a conversation using the present tense
 
 Open-ended. A model conversation:
 
-> ANA: Hola Carlos, ¿cómo estás?
+> Ana: Hola, Carlos, ¿cómo estás?
 >
-> CARLOS: Hola Ana, estoy muy bien, gracias. ¿Tú cómo estás?
+> Carlos: Hola, Ana, estoy muy bien, gracias. ¿Tú cómo estás?
 >
 > A: Estoy un poco cansada porque trabajo mucho. ¿Tú dónde trabajas?
 >

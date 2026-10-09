@@ -2,8 +2,8 @@
 
 ## Time ago
 
-When expressing “time ago,” we use the impersonal form — the verb, conjugated in the third-person singular, 
-with no subject — of *hacer:*
+When expressing "time ago," we use the impersonal form (the verb, conjugated in the third person singular,
+with no subject) of *hacer:*
 
     hace una hora - one hour ago
 
@@ -13,12 +13,12 @@ with no subject — of *hacer:*
 
     hace trescientos años - three hundred years ago
 
-Literal translation would be something like “it makes four months.”
+The literal translation would be something like "it makes four months."
 
 ## El tiempo (the weather)
 
-For the weather, we also use the impersonal form of *hacer.* Again, the impersonal form is built by 
-using the third-person singular, but without a subject: *Hace.*
+For the weather, we also use the impersonal form of *hacer.* Again, the impersonal form is built by
+using the third person singular, but without a subject: *Hace.*
 
     hace calor - it's hot (lit. It makes heat)
 
@@ -46,21 +46,21 @@ using the third-person singular, but without a subject: *Hace.*
 
 ## El presente progresivo
 
-For actions that are currently happening, in English we use *to be* + verb-*ing* 
+For actions that are currently happening, in English we use *to be* + verb-*ing*
 (*it is raining, Juan is eating, I am writing a book...*).
 
-In Spanish, we always use *estar* for progressive tenses, followed by the *gerundio,* 
+In Spanish, we always use *estar* for progressive tenses, followed by the *gerundio,*
 our equivalent of the English *-ing* form, which is built by adding:
 
     -ando to the root of -ar verbs
 
 *Yo estoy cantando. Juan está llamando a su madre.*
 
-    -iendo to the root of -er and -ir verbs 
+    -iendo to the root of -er and -ir verbs
 
 *Nosotros estamos bebiendo agua. Usted está escribiendo.*
 
-This tense is commonly used with adverbs *ahora* (now) and *hoy* (today).
+This tense is commonly used with the adverbs *ahora* (now) and *hoy* (today).
 
 ## It's raining, it's snowing
 
@@ -68,16 +68,16 @@ This tense is commonly used with adverbs *ahora* (now) and *hoy* (today).
 
     nevar - to snow
 
-When we want to say it's raining or snowing, we have to use the progressive tense in the third-person singular, 
+When we want to say it's raining or snowing, we have to use the progressive tense in the third person singular,
 since *llover* and *nevar* are impersonal verbs:
 
     está lloviendo - it's raining
 
     está nevando - it's snowing
 
-When we conjugate them in the present tense (for habits or facts), we need to keep in mind that 
-*nevar* and *llover* are stem-changing verbs. But since *nevar* and *llover* are also impersonal verbs, we only conjugate 
-them in the third-person singular:
+When we conjugate them in the present tense (for habits or facts), we need to keep in mind that
+*nevar* and *llover* are stem-changing verbs. But since *nevar* and *llover* are also impersonal verbs, we only conjugate
+them in the third person singular:
 
     llueve - it rains
 
@@ -89,9 +89,9 @@ them in the third-person singular:
 
 ## Conversación
 
-Victor: Hola Pamela, ¿qué estás haciendo?
+Victor: Hola, Pamela, ¿qué estás haciendo?
 
-Pamela: Hola Victor. Estoy mirando la televisión y respondiendo emails de mis amigas. 
+Pamela: Hola, Victor. Estoy mirando la televisión y respondiendo emails de mis amigas.
 También estoy cocinando una sopa (soup) de pollo. Hoy hace mucho frío, ¿no?
 
 V: Sí, un poco, está nevando.
@@ -100,13 +100,13 @@ P: Sí. Me gusta el invierno. ¿Qué estás haciendo?
 
 V: Estoy escribiendo un artículo y lavando mi ropa. Mi perro está comiendo.
 
-P: Muy bien. 
+P: Muy bien.
 
 # Spanish reflexive verbs in the preterite
 
 ## How it works
 
-We conjugate reflexive verbs in the preterite tense in the same way we do in the present tense 
+We conjugate reflexive verbs in the preterite tense in the same way we do in the present tense
 (we first use the reflexive pronoun, and then we conjugate the verb, ignoring *se*).
 
 Here is *levantarse* (to get up) in the pretérito perfecto tense:
@@ -141,18 +141,18 @@ Here are some common reflexive verbs that are regular in the past tense:
 
 ## Un ejemplo
 
-El día 5 de enero me levanté a las siete de la mañana. Desayuné, me lavé la cara, me duché, me peiné, 
-me maquillé y fui al trabajo. Trabajé por ocho horas. Después de trabajar, fui al gimnasio. 
-Después del gimnasio, compré comida en el supermercado. Llegué a casa las ocho de la noche. 
-Cociné y miré la televisión. Me acosté las once de la noche. Fue un día casi perfecto.
+El día 5 de enero me levanté a las siete de la mañana. Desayuné, me lavé la cara, me duché, me peiné,
+me maquillé y fui al trabajo. Trabajé por ocho horas. Después de trabajar, fui al gimnasio.
+Después del gimnasio, compré comida en el supermercado. Llegué a casa a las ocho de la noche.
+Cociné y miré la televisión. Me acosté a las once de la noche. Fue un día casi perfecto.
 
 # Ir vs. irse
 
 ## How it works
 
-Sometimes, when we take a verb and make it reflexive, the meaning completely changes. 
-Something similar happens in English when we add certain prepositions to certain verbs: 
-*to look*, for example, is different from *to look after*.
+Sometimes, when we take a verb and make it reflexive, the meaning completely changes.
+Something similar happens in English when we add certain prepositions to certain verbs:
+*to look,* for example, is different from *to look after.*
 
 A very distinct case in Spanish would be the following:
 
@@ -170,15 +170,15 @@ We use them with these prepositions:
 
 In the present tense:
 
-*Yo voy a la fiesta.* I go to the party.
+*Yo voy a la fiesta.* (I go to the party.)
 
-*Yo me voy de la fiesta.* I leave ("from") the party.
+*Yo me voy de la fiesta.* (I leave "from" the party.)
 
 In the preterite tense:
 
-*Yo fui a una fiesta ayer a las cinco.* I went to a party yesterday at five.
+*Yo fui a una fiesta ayer a las cinco.* (I went to a party yesterday at five.)
 
-*Yo me fui de la fiesta ayer a las ocho.* I left ("from") the party yesterday at eight.
+*Yo me fui de la fiesta ayer a las ocho.* (I left "from" the party yesterday at eight.)
 
 ## Conversación
 
@@ -194,14 +194,14 @@ I: Me fui de mi trabajo a las seis de la tarde.
 
 ## 1. Momentos importantes en mi vida
 
-Yo nací en Rusia el 5 de septiembre de 1982. Viví en Siberia de 1982 a 2003. En junio de 2003 me mudé a San 
-Petersburgo. Estudié allí por 4 años. Trabajé por un año en un restaurante. En 2008, llegué a Estados Unidos. 
-Estudié en la universidad en Nueva York. En 2013 compré una casa en Queens. Ahora vivo en mi casa 
+Yo nací en Rusia el 5 de septiembre de 1982. Viví en Siberia de 1982 a 2003. En junio de 2003 me mudé a San
+Petersburgo. Estudié allí por cuatro años. Trabajé por un año en un restaurante. En 2008, llegué a Estados Unidos.
+Estudié en la universidad en Nueva York. En 2013 compré una casa en Queens. Ahora vivo en mi casa
 con mi perro Manolo y mi gata Verónica.
 
-Verbos importantes: Nacer (to be born), llegar (to arrive). Other verbs you can use: casarse (con) 
-(lit. to get married "with"), tener (for having kids), comprar (for buying a house, a car, etc), 
-mudarse (to move). Be careful with the reflexive ones!
+Verbos importantes: *nacer* (to be born), *llegar* (to arrive). Other verbs you can use: *casarse (con)*
+(lit. to get married "with"), *tener* (for having kids), *comprar* (for buying a house, a car, etc.),
+*mudarse* (to move). Be careful with the reflexive ones!
 
 Can you tell us about some important moments in your life?
 
@@ -213,7 +213,7 @@ Can you tell us about some important moments in your life?
 4. It is cold in NYC during the winter.
 5. It's hot today.
 6. Three days ago, I went to Boston.
-7. Three years ago, I arrived in NYC. (Use the preposition *a* with llegar.)
+7. Three years ago, I arrived in NYC. (Use the preposition *a* with *llegar.*)
 8. Eight months ago, I was in Madrid.
 9. Right now (ahora mismo), I am speaking Spanish.
 10. I am always helping my friends.
@@ -236,9 +236,9 @@ Can you tell us about some important moments in your life?
 
 ## 4. El tiempo en mi ciudad
 
-En Madrid, normalmente, hace calor en verano. En invierno, hace frío y hace viento, pero no llueve mucho. 
-En primavera, hace calor, y los árboles (the trees) están muy hermosos. Me gusta el tiempo en Madrid. 
-El invierno es suave (soft), nunca nieva, llueve poco, y hace sol muchos días por año.
+En Madrid, normalmente, hace calor en verano. En invierno, hace frío y hace viento, pero no llueve mucho.
+En primavera, hace calor, y los árboles (the trees) están muy hermosos. Me gusta el tiempo en Madrid.
+El invierno es suave (mild), casi nunca nieva, llueve poco, y hace sol muchos días por año.
 
 Can you describe the weather in your hometown?
 
@@ -247,10 +247,12 @@ Can you describe the weather in your hometown?
 1. Yo estoy escribiendo y Juan está llamando.
 2. Javier está caminando en Manhattan.
 3. Nosotros estamos comprando los regalos.
-4. El profesor está hablando a sus estudiantes.
+4. El profesor está hablando con sus estudiantes.
 5. El escritor está terminando su libro.
 6. Ellos están mirando la televisión.
 7. Ustedes están desayunando en la cafetería.
 8. Yo estoy descansando en el sofá.
 
 ## 6. Write five sentences using the Spanish present progressive
+
+Example: *Mi hermana está cocinando.*

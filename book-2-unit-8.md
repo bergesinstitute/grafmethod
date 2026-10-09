@@ -28,7 +28,7 @@
 
     saben
 
-Both verbs are irregular in the first-person singular.
+Both verbs are irregular in the first person singular.
 
 ## Conocer, pretérito perfecto
 
@@ -40,7 +40,7 @@ Both verbs are irregular in the first-person singular.
 
     conocimos
 
-    (conocisteis) 
+    (conocisteis)
 
     conocieron
 
@@ -58,7 +58,7 @@ Both verbs are irregular in the first-person singular.
 
     supieron
 
-In the preterite tense, *conocer* is regular, *saber* is irregular.
+In the preterite tense, *conocer* is regular and *saber* is irregular.
 
 ## Usage
 
@@ -74,7 +74,7 @@ We use it as *to be familiar with* and for *meeting someone for the first time.*
 
 - For places
 
-*Yo no conozco Venecia.* (I have never been to Venice. Lit. “I don't know Venice.”)
+*Yo no conozco Venecia.* (I have never been to Venice. Lit. "I don't know Venice.")
 
 - For cultural items (*movies, books, etc.*)
 
@@ -100,22 +100,22 @@ We use it for skills (knowing how to do something) or for information. Here are 
 
 *¿Sabes dónde vive Juan?* (Do you know where Juan lives?)
 
-> In the *pretérito perfecto* tense, we use *conocer* more frequently than *saber,* 
-and most of the time for meeting someone for the first time. For most other situations, 
-we use the present tense, since both verbs usually refer to facts (skills you have, 
-people or places you know, etc.)
+> In the *pretérito perfecto* tense, we use *conocer* more frequently than *saber,*
+> and most of the time for meeting someone for the first time. For most other situations,
+> we use the present tense, since both verbs usually refer to facts (skills you have,
+> people or places you know, etc.).
 
-When we use *saber* with “information,” most of the time we are really using it with subordinate clauses, 
-which have a subject and a verb of their own. (*I know that Mary is tall. She knows that we live here. 
+When we use *saber* with "information," most of the time we are really using it with subordinate clauses,
+which have a subject and a verb of their own. (*I know that Mary is tall. She knows that we live here.
 Yo sé que Mary es alta. Ella sabe que nosotros vivimos aquí.*)
 
 ## Subordinate clauses in Spanish
 
 With the verb *saber,* we often use subordinate clauses that are preceded by the word *que:*
 
-    Yo sé que tu hermana es muy simpática. I know (that) your sister is very nice.
+    Yo sé que tu hermana es muy simpática. (I know that your sister is very nice.)
 
-    Yo sé que tú vives en Brooklyn. I know (that) you live in Brooklyn.
+    Yo sé que tú vives en Brooklyn. (I know that you live in Brooklyn.)
 
 In Spanish, we must use the word *que* whenever the concept we know about is a full sentence with its own verb:
 
@@ -149,7 +149,7 @@ J: No conozco Madrid, pero quiero ir.
 
 L: Sí, yo también.
 
-# Something, nothing, somebody, nobody, in Spanish
+# Something, nothing, somebody, nobody in Spanish
 
     algo - something
 
@@ -165,7 +165,7 @@ L: Sí, yo también.
 
 In English, we cannot use double negatives:
 
-We say either *I have nothing* or *I don't have anything.* (We use *anything* instead of *nothing* 
+We say either *I have nothing* or *I don't have anything.* (We use *anything* instead of *nothing*
 in negative sentences.)
 
 In Spanish, we must use double negatives:
@@ -176,20 +176,20 @@ In Spanish, we must use double negatives:
 
 We cannot use *nada* or *nadie* in affirmative sentences.
 
-*I have nothing* and *I don't have anything* can only be translated into *yo no tengo nada.*
+*I have nothing* and *I don't have anything* can only be translated as *yo no tengo nada.*
 
-*I know nobody* and *I don't know anybody* can only be translated into *yo no conozco a nadie.*
+*I know nobody* and *I don't know anybody* can only be translated as *yo no conozco a nadie.*
 
 # Adverbs también and tampoco
 
     también - also
 
-    tampoco - don't (...) either 
+    tampoco - not (...) either
 
 *Mi amigo Pedro tiene un perro. Yo también tengo un perro.* (My friend Pedro has a dog. I also have a dog.)
 
-*Mi amigo Pedro no tiene un perro. Yo tampoco tengo un perro.* (My friend Pedro doesn't have a dog. 
-I don't have a dog either.) 
+*Mi amigo Pedro no tiene un perro. Yo tampoco tengo un perro.* (My friend Pedro doesn't have a dog.
+I don't have a dog either.)
 
 # Homework
 
@@ -210,18 +210,20 @@ Ayer...
 
 ## 2. Write five sentences using reflexive verbs in the pretérito perfecto tense
 
+Example: *Ayer me levanté a las siete.*
+
 ## 3. Translate
 
 Yesterday...
 
 1. I got up at seven.
-2. I washed my hands at 8 AM.
+2. I washed my hands at 8 am.
 3. She combed her hair at 9.
 4. They looked at themselves in the mirror.
-5. You (form., pl.) went to bed at 10 PM.
+5. You (form., pl.) went to bed at 10 pm.
 6. She washed her face in the morning.
 7. Mario took a shower and went to the restaurant.
-8. You (form., sing.) got up at 1 PM.
+8. You (form., sing.) got up at 1 pm.
 
 ## 4. Answer the questions
 
@@ -236,7 +238,7 @@ Yesterday...
 
 1. I don't know your sister.
 2. I know (that) Ana is from California, but I don't know Ana.
-3. I know (that) Pedro is very nice. 
+3. I know (that) Pedro is very nice.
 4. Do you know Stephen King?
 5. I know his mother, but I don't know his sister.
 6. I know (that) she lives in Kentucky.
@@ -263,11 +265,13 @@ En pasado...
 
 ## 7. Write three sentences using conocer and three using saber
 
+Example: *Conozco a tu hermano.*
+
 ## 8. Translate
 
 1. I don't know anybody in San Francisco.
 2. I know nobody.
-3. I don't know anything about that. (Use *saber. About = sobre*.)
+3. I don't know anything about that. (Use *saber.* About = *sobre.*)
 4. I know nothing about that. (Use *saber.*)
 5. We have something.
 6. You (form., sing.) have nothing.

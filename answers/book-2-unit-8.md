@@ -1,4 +1,4 @@
-# Answer key — Book 2, Unit 8
+# Answer key - Book 2, Unit 8
 
 ## 1. Fill in the blanks, using pretérito perfecto
 
@@ -106,12 +106,12 @@ Open-ended. Model sentences:
 
 ## 9. Answer using yo también or yo tampoco
 
-1. Yo no tengo un perro azul. — **Yo tampoco tengo un perro azul.**
-2. Pedro no come en su cama. — **Yo tampoco como en mi cama.**
-3. Yo no fui a la Luna. — **Yo tampoco fui a la Luna.**
-4. María bebe agua cada día. — **Yo también bebo agua cada día.**
-5. Juan necesita comer cada día. — **Yo también necesito comer cada día.**
-6. Mi prima tiene una computadora. — **Yo también tengo una computadora.**
-7. Ella se ducha cada día. — **Yo también me ducho cada día.**
-8. Yo no puedo correr 30 millas. — **Yo tampoco puedo correr 30 millas.**
-9. Él no tiene una casa en Vermont. — **Yo tampoco tengo una casa en Vermont.**
+1. Yo no tengo un perro azul. - **Yo tampoco tengo un perro azul.**
+2. Pedro no come en su cama. - **Yo tampoco como en mi cama.**
+3. Yo no fui a la Luna. - **Yo tampoco fui a la Luna.**
+4. María bebe agua cada día. - **Yo también bebo agua cada día.**
+5. Juan necesita comer cada día. - **Yo también necesito comer cada día.**
+6. Mi prima tiene una computadora. - **Yo también tengo una computadora.**
+7. Ella se ducha cada día. - **Yo también me ducho cada día.**
+8. Yo no puedo correr 30 millas. - **Yo tampoco puedo correr 30 millas.**
+9. Él no tiene una casa en Vermont. - **Yo tampoco tengo una casa en Vermont.**

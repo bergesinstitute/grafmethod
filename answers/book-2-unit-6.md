@@ -1,4 +1,4 @@
-# Answer key — Book 2, Unit 6
+# Answer key - Book 2, Unit 6
 
 ## 1. Write a short story using the pretérito perfecto tense
 
@@ -26,27 +26,27 @@ Open-ended. A model story:
 
 ## 4. Spell the numbers
 
-1. 203 — doscientos tres
-2. 100 — cien
-3. 101 — ciento uno
-4. 459 — cuatrocientos cincuenta y nueve
-5. 523 — quinientos veintitrés
-6. 333 — trescientos treinta y tres
-7. 999 — novecientos noventa y nueve
-8. 2.456 — dos mil cuatrocientos cincuenta y seis
-9. 3.521 — tres mil quinientos veintiuno
-10. 5.001 — cinco mil uno
-11. 6.023 — seis mil veintitrés
-12. 10.000 — diez mil
-13. 1834 — mil ochocientos treinta y cuatro
-14. 1743 — mil setecientos cuarenta y tres
-15. 1999 — mil novecientos noventa y nueve
-16. 2004 — dos mil cuatro
-17. 2013 — dos mil trece
-18. 1200 — mil doscientos
-19. 1131 — mil ciento treinta y uno
-20. 688 — seiscientos ochenta y ocho
-21. 792 — setecientos noventa y dos
+    203 - doscientos tres
+    100 - cien
+    101 - ciento uno
+    459 - cuatrocientos cincuenta y nueve
+    523 - quinientos veintitrés
+    333 - trescientos treinta y tres
+    999 - novecientos noventa y nueve
+    2.456 - dos mil cuatrocientos cincuenta y seis
+    3.521 - tres mil quinientos veintiuno
+    5.001 - cinco mil uno
+    6.023 - seis mil veintitrés
+    10.000 - diez mil
+    1834 - mil ochocientos treinta y cuatro
+    1743 - mil setecientos cuarenta y tres
+    1999 - mil novecientos noventa y nueve
+    2004 - dos mil cuatro
+    2013 - dos mil trece
+    1200 - mil doscientos
+    1131 - mil ciento treinta y uno
+    688 - seiscientos ochenta y ocho
+    792 - setecientos noventa y dos
 
 ## 5. Personas famosas en la historia
 

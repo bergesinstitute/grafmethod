@@ -1,10 +1,10 @@
-# Answer key — Book 2, Unit 7
+# Answer key - Book 2, Unit 7
 
 ## 1. Momentos importantes en mi vida
 
 Open-ended. A model answer:
 
-> Yo nací en Boston el 12 de marzo de 1985. Viví en Boston de 1985 a 2007. En 2007 me mudé a Nueva York para estudiar en la universidad. Estudié allí por cuatro años. En 2011 conocí a mi esposa María. Nos casamos en 2014. En 2016 compramos una casa en Brooklyn. En 2018 tuvimos un hijo. Ahora vivo en Brooklyn con mi esposa, mi hijo y nuestro perro Max.
+> Yo nací en Boston el 12 de marzo de 1985. Viví en Boston de 1985 a 2007. En 2007 me mudé a Nueva York para estudiar en la universidad. Estudié allí por cuatro años. En 2014 me casé con María. En 2016 compramos una casa en Brooklyn. En 2018 tuvimos un hijo. Ahora vivo en Brooklyn con mi esposa, mi hijo y nuestro perro Max.
 
 ## 2. Translate
 
@@ -60,6 +60,6 @@ Open-ended. Model sentences:
 
 1. Ahora estoy estudiando español en mi casa.
 2. Mi hermana está cocinando pasta en la cocina.
-3. Los niños están jugando en el parque.
+3. Los niños están corriendo en el parque.
 4. Estamos mirando una película en el sofá.
 5. ¿Estás escribiendo un email a tu jefe?

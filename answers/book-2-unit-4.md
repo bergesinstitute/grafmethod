@@ -1,4 +1,4 @@
-# Answer key — Book 2, Unit 4
+# Answer key - Book 2, Unit 4
 
 ## 1. Conjugate (in pretérito perfecto)
 
@@ -87,13 +87,13 @@ Open-ended. Model sentences:
 
 ## 3. Write a short essay
 
-Open-ended. A model answer using *antes* and *después*:
+Open-ended. A model answer using *antes* and *después:*
 
-> El sábado pasado, antes de desayunar, me duché. Desayuné un café y unas tostadas. Después del desayuno, fui al supermercado. Después de ir al supermercado, cociné pollo con verduras. Después de comer, descansé en el sofá. Por la noche fui a un restaurante con mi amigo Carlos. Después de cenar, fuimos a un bar.
+> El sábado pasado, antes de desayunar, corrí en el parque. Desayuné un café y unas tostadas. Después del desayuno, fui al supermercado. Después de ir al supermercado, cociné pollo con verduras. Después de comer, descansé en el sofá. Por la noche fui a un restaurante con mi amigo Carlos. Después de cenar, fuimos a un bar.
 
-## 3 (translate). Translate
+## 4. Translate
 
-For *that*, either *ese* or *aquel* is acceptable.
+For *that,* either *ese* or *aquel* is acceptable.
 
 1. Me gustan estas manzanas.
 2. ¿Fuiste a ese teatro con Mary?

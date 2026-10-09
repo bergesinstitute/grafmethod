@@ -12,11 +12,11 @@ m = male. f = female. N = Neutral: same for male and female.
 
     bombero - firefighter
 
-    camarero / mesero - waiter 
+    camarero / mesero - waiter
 
     cantante (N) - singer
 
-    cartero - mailman
+    cartero - mail carrier
 
     científico - scientist
 
@@ -25,8 +25,6 @@ m = male. f = female. N = Neutral: same for male and female.
     contable (N) - accountant
 
     dependiente - salesperson at a store
-
-    doctor - doctor
 
     economista (N) - economist
 
@@ -40,6 +38,8 @@ m = male. f = female. N = Neutral: same for male and female.
 
     juez - judge
 
+    médico / doctor - doctor
+
     modelo (N) - model
 
     periodista (N) - journalist
@@ -50,7 +50,7 @@ m = male. f = female. N = Neutral: same for male and female.
 
     político - politician
 
-    policía (N) - policeman
+    policía (N) - police officer
 
     profesor - teacher / instructor / professor
 
@@ -66,17 +66,15 @@ m = male. f = female. N = Neutral: same for male and female.
 
     veterinario - vet
 
-> For nouns ending in R, we add an A at the end to build the feminine: *doctor, doctora, profesor, profesora,* etc. 
-> For nouns ending in O, we change O for A: *enfermera, cocinera,* etc. For *juez*, both *juez* and *jueza* are 
+> For nouns ending in R, we add an A at the end to build the feminine: *doctor, doctora, profesor, profesora,* etc.
+> For nouns ending in O, we change O for A: *enfermera, cocinera,* etc. For *juez,* both *juez* and *jueza* are
 > used as the female version.
 
-For professions, we always use *ser*.
+For professions, we use *ser:* they are part of our identity, even if they change.
 
-*Juan es científico, María es cantante, yo soy dependiente, nosotros somos policías, mi hijo es estudiante* 
-(notice how we use *ser* for estudiante, even if we are not usually students permanently).
+*Juan es científico, María es cantante, yo soy dependiente, nosotros somos policías.*
 
-> It is not recommended to use the article *un/una* with professions: saying *yo soy un doctor* is 
-> considered an anglicism. Say *yo soy doctor* instead.
+We don't use *un/una* with professions. *Yo soy un profesor* is an anglicism: say *yo soy profesor.*
 
 # Spanish adjectives for physical appearance
 
@@ -90,7 +88,7 @@ N = Neutral
 
     delgado - slim
 
-    fuerte (N) - strong 
+    fuerte (N) - strong
 
     débil (N) - weak
 
@@ -129,25 +127,25 @@ For physical characteristics, we usually use *ser* (even if they change sometime
 N = Neutral
 
     simpático - nice
-    
+
     antipático - unfriendly
-    
+
     inteligente (N) - smart
-    
+
     tonto - dumb
-    
+
     rico - rich
-    
+
     pobre (N) - poor
-    
+
     alegre (N) - joyful
-    
+
     culto - educated / cultivated
-    
+
     elegante (N) - elegant / refined
-    
+
     educado - polite / well-mannered
-    
+
     maleducado - rude / bad-mannered
 
 For personality traits, we usually use *ser* (even if they change sometimes).
@@ -164,14 +162,14 @@ For personality traits, we usually use *ser* (even if they change sometimes).
 
 ## We use tener
 
-To talk about our skin, hair, and eyes, we use *tener* (Juan has blue eyes, Marta has fair skin, 
+To talk about our skin, hair, and eyes, we use *tener* (Juan has blue eyes, Marta has fair skin,
 etc.). Here are some adjectives we can use for each:
 
 ## La piel (skin)
 
     morena - dark
 
-    clara - fair 
+    clara - fair
 
 ## El pelo (hair)
 
@@ -193,9 +191,9 @@ We can also use colors: *marrón, negro, azul, etc.*
 
     calvo - bald
 
-We use *ser* for calvo: *Pedro es calvo.*
+We use *ser* for *calvo:* *Pedro es calvo.*
 
-> *Pelirrojo* (redhead), *moreno* and *rubio* can be used with *ser: María es pelirroja, 
+> *Pelirrojo* (redhead), *moreno* and *rubio* can be used with *ser: María es pelirroja,
 > Sara es rubia, Diego es moreno.*
 
 ## Los ojos (eyes)
@@ -212,8 +210,7 @@ We use colors: *negros, azules, verdes, marrones...*
 
 *Sara es rubia y tiene los ojos grises.*
 
-> Using the article (*María tiene el pelo largo*) in these types of sentences is not mandatory, 
-> but it is commonly done. The sentence would also be perfectly correct without it: *María tiene pelo largo.*
+> The article is optional in these sentences, but common: *María tiene el pelo largo* or *María tiene pelo largo.*
 
 # Feelings and physical states in Spanish
 
@@ -251,44 +248,39 @@ We use *estar* with these.
 
 # Talking about people using ser and estar: an example
 
-Mi amigo Juan es cartero. Él trabaja de lunes a viernes en la ciudad (city). Juan es alto y 
-muy fuerte, porque él va al gimnasio casi cada día. Él es joven, guapo y muy educado, pero él no es rico. 
-Él vive en Brooklyn con su esposa y sus hijos. Juan tiene la piel morena y el pelo moreno, corto y rizado. 
-Su esposa es policía. Ella tiene la piel clara y el pelo rubio y largo. Ella es baja y delgada. 
-Normalmente Juan y su esposa están felices, pero cuando trabajan están nerviosos y preocupados. 
-Por la noche están muy cansados. Los sábados están muy relajados en su casa. Los domingos, 
-ellos hacen una barbacoa (barbecue) en su patio. Entonces, sus hijos están muy emocionados porque 
+Mi amigo Juan es cartero. Él trabaja de lunes a viernes en la ciudad (city). Juan es alto y
+muy fuerte, porque él va al gimnasio casi cada día. Él es joven, guapo y muy educado, pero él no es rico.
+Él vive en Brooklyn con su esposa y sus hijos. Juan tiene la piel morena y el pelo moreno, corto y rizado.
+Su esposa es policía. Ella tiene la piel clara y el pelo rubio y largo. Ella es baja y delgada.
+Normalmente Juan y su esposa están felices, pero cuando trabajan están nerviosos y preocupados.
+Por la noche están muy cansados. Los sábados están muy relajados en su casa. Los domingos,
+ellos hacen una barbacoa (barbecue) en su patio. Entonces, sus hijos están muy emocionados porque
 a ellos les gustan mucho las hamburguesas con queso.
 
-# Ser & estar beyond permanent vs. temporary
+# Ser & estar: identity and state
 
-## Identity and status / condition / location
+## Review
 
-We could say that we use *ser* with permanent attributes and professions and *estar* with non-permanent 
-attributes and location, but it would be better to say that *ser* implies identity, while *estar* implies status, 
-condition, or location.
-
-Here is how it works:
+*Ser* expresses identity, while *estar* expresses state, condition or location. Here is how it works in more detail:
 
 ## Ser
 
-- For personal characteristics (physical or non-physical) and defining characteristics of things or people, 
+- For personal characteristics (physical or non-physical) and defining characteristics of things or people,
 we generally use *ser:*
 
 *El perro es grande. Tu tío es muy alto. La casa es roja. Mi hija es muy simpática.*
 
-- For professions, we generally use *ser*. Even if they may not always be permanent, 
-professions are considered to be part of people's identity.
+- For professions, we use *ser.* They can change, but we consider them part of people's identity.
 
-*Pedro es dependiente. Mi hermano es estudiante en NYU. Yo no soy cocinero, soy cantante.*
+*Pedro es dependiente. Yo no soy cocinero, soy cantante.*
 
 ## Estar
 
-- For people's feelings, or for condition/status of things or people, we generally use *estar:*
+- For people's feelings, or for the state or condition of things or people, we generally use *estar:*
 
 *Mi padre está muy cansado. Ella está triste. Estoy preocupado.*
 
-- For location, we always use *estar* (even if it's a permanent location):
+- For location, we always use *estar,* even for places that never move:
 
 *Yo estoy en Nueva York. Mi tío siempre está en su casa. La Casa Blanca está en Washington DC.*
 
@@ -296,22 +288,22 @@ professions are considered to be part of people's identity.
 
 With some specific attributes, we can choose to use either *ser* or *estar,* depending on what we mean:
 
-*María está feliz* means she is happy now; it is her “current condition.”
+*María está feliz* means she is happy now; it is her current state.
 
 *María es feliz* means being happy is part of her identity; we are making it a defining trait.
 
-This is commonly done with *feliz, guapo, hermoso, gordo, delgado, fuerte, débil, viejo, 
-alegre,* and *nervioso.* A special case would be *aburrido:* *estar aburrido* means being bored, 
+This is commonly done with *feliz, guapo, hermoso, gordo, delgado, fuerte, débil, viejo,
+alegre,* and *nervioso.* A special case would be *aburrido:* *estar aburrido* means being bored,
 while *ser aburrido* means being boring.
 
-Unfortunately, there is no specific or logical rule that tells us which adjectives can work 
+Unfortunately, there is no specific or logical rule that tells us which adjectives can work
 with both *ser* and *estar.*
 
 # Homework
 
 ## 1. Translate
 
-Remember we must use the article for generic nouns: los profesores trabajan mucho, los pilotos son altos, etc.
+Remember we must use the article for generic nouns: *los profesores trabajan mucho, los pilotos son altos,* etc.
 
 1. Lawyers work a lot and earn (ganar) a lot of money.
 2. Firefighters and police officers are tall and strong.
@@ -333,13 +325,13 @@ Remember we must use the article for generic nouns: los profesores trabajan much
 18. Is she a pilot, a model, an architect, or a scientist?
 19. Salvador Dalí is my favorite painter from Spain, and Frida Kahlo is my favorite painter from Mexico.
 20. Your friend Peter is a chef at a restaurant in Brooklyn.
-21. In the US, mailmen work on Saturdays.
+21. In the US, mail carriers work on Saturdays.
 22. The psychiatrist (f) and the secretary (m) are from Lima.
 23. Her sister is a writer.
 
 ## 2. Write a short essay
 
-Choose a. your brother/sister, b. your best friend, or c. your significant other and tell us everything about him/her: 
+Choose a. your brother/sister, b. your best friend, or c. your significant other and tell us everything about him/her:
 where does he/she live, what does he/she do, physical characteristics, personality, etc.
 
 ## 3. Translate
@@ -353,8 +345,8 @@ where does he/she live, what does he/she do, physical characteristics, personali
 7. I am a lawyer.
 8. I am very worried.
 9. Juan's eyes are blue.
-10. Maria's hair is long.
-11. Maria has long hair.
+10. María's hair is long.
+11. María has long hair.
 
 ## 4. Fill in the blanks using ser or estar
 
