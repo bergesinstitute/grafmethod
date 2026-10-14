@@ -1,4 +1,4 @@
-# Answer key — Book 3, Unit 5
+# Answer key - Book 3, Unit 5
 
 ## 1. Traducir
 
@@ -11,11 +11,11 @@
 7. Usted se siente triste.
 8. Anoche, ellos quisieron/querían ir al cine.
 9. ¿Ustedes prefieren té o café?
-10. No comprendo a James.
+10. No entiendo a James. (*or* No comprendo a James.)
 11. Ana normalmente se va de su oficina a las siete de la tarde.
 12. Los estudiantes siempre mienten al profesor.
 13. Siempre encuentro cosas hermosas en esa tienda.
-14. Los domingos, siempre comemos en el mismo restaurante.
+14. Los domingos, siempre almorzamos en el mismo restaurante. (*or* comemos)
 15. Nuestra madre prefiere quedarse en casa.
 16. Perdiste tu chaqueta el domingo.
 17. Pienso que tienes que estudiar más.
@@ -61,17 +61,17 @@ Open-ended exaggeration exercise. A model answer:
 
 ## 5. Números ordinales
 
-- 5th — quinto / quinta
-- 9th — noveno / novena
-- 1st — primero / primera *(primer before a masculine singular noun)*
-- 3rd — tercero / tercera *(tercer before a masculine singular noun)*
-- 10th — décimo / décima
-- second — segundo / segunda
-- fourth — cuarto / cuarta
-- 7th — séptimo / séptima
-- sixth — sexto / sexta
+- 5th - quinto / quinta
+- 9th - noveno / novena
+- 1st - primero / primera *(primer before a masculine singular noun)*
+- 3rd - tercero / tercera *(tercer before a masculine singular noun)*
+- 10th - décimo / décima
+- second - segundo / segunda
+- fourth - cuarto / cuarta
+- 7th - séptimo / séptima
+- sixth - sexto / sexta
 
-## 6. Comentario de texto — Mis abuelos
+## 6. Comentario de texto - Mis abuelos
 
 1. El abuelo se levantaba a las cuatro de la mañana.
 2. Se levantaba tan temprano para ir a regar las tierras, porque el suministro de agua era limitado y la Diputación de Guipúzcoa solo abría el canal un par de horas cada mañana.

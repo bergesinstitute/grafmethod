@@ -1,9 +1,9 @@
-# Answer key — Book 3, Unit 6
+# Answer key - Book 3, Unit 6
 
 ## 1. Traducir
 
 1. Me enamoro muy fácilmente.
-2. Ella conduce rápidamente.
+2. Ella conduce rápidamente. (*or* maneja)
 3. Pienso lentamente.
 4. Afortunadamente, no trabajo los domingos.
 5. Desafortunadamente, no tengo mucho dinero.
@@ -26,7 +26,7 @@ Next week...
 
 1. Voy a estar nervioso.
 2. Voy a ir a la iglesia.
-3. Ella va a volar a Los Angeles.
+3. Ella va a volar a Los Ángeles.
 4. Vas a cantar con Mary en el estudio.
 5. Vamos a mirar la televisión todo el día.
 6. Usted va a pagar todas las comidas.
@@ -34,7 +34,7 @@ Next week...
 8. Voy a comprar un tenedor para comer arroz.
 9. Él va a llevar una camisa negra.
 10. Ella va a comprar un carro nuevo.
-11. Julia se va a levantar a las siete cada día. (*or* Julia va a levantarse…)
+11. Julia se va a levantar a las siete de la mañana cada día. (*or* Julia va a levantarse…)
 12. Voy a lavarme las manos. (*or* Me voy a lavar las manos.)
 13. Peter se va a duchar esta noche. (*or* Peter va a ducharse esta noche.)
 
@@ -74,13 +74,13 @@ Open-ended. Sample answers:
 3. No se quieren duchar. / No quieren ducharse.
 4. Nos tenemos que ir de la fiesta a las diez de la noche. / Tenemos que irnos de la fiesta a las diez de la noche.
 5. Ustedes se necesitan maquillar por la mañana. / Ustedes necesitan maquillarse por la mañana.
-6. Ella se quiere acostar a las diez. / Ella quiere acostarse a las diez.
+6. Ella se quiere acostar a las diez de la noche. / Ella quiere acostarse a las diez de la noche.
 
-## 7. Comentario de texto — Cuando vivía en Madrid
+## 7. Comentario de texto - Cuando vivía en Madrid
 
 1. En Madrid no trabajaba. Estudiaba. No tenía mucho dinero, pero tampoco tenía las responsabilidades que tiene ahora. La vida era muy diferente de la vida en Estados Unidos.
 2. Iban a bares baratos porque no tenían dinero para ir a restaurantes finos y elegantes.
 3. No, tenía clase de lunes a jueves; los viernes nunca tenía clase.
-4. En casa de Jaime se reunían con amigos y jugaban en la Play Station. Su videojuego favorito era Crash Bandicoot.
+4. En casa de Jaime se reunían con amigos y jugaban en la PlayStation. Su videojuego favorito era Crash Bandicoot.
 5. Sí, tocaba el bajo eléctrico en una banda de post punk. Ensayaban en un estudio en Atocha cada domingo y a veces tocaban en bares y clubs del barrio de Tribunal.
 6. Elena vivía en la Plaza de Lavapiés con otras dos amigas y estudiaba filología inglesa en la misma universidad que la persona del texto.

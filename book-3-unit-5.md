@@ -10,10 +10,10 @@
 
 ## Y => E
 
-Cuando una palabra está después de la conjunción *y* y empieza por la letra I necesitamos cambiar la
-conjunción por *e.* 
+Cuando una palabra está después de la conjunción *y* y empieza por la letra I (también HI: *padres e hijos*), necesitamos
+cambiar la conjunción por *e.*
 
-💂 When a word is after the conjunction *y* and starts with the letter I we need to change 
+💂 When a word is after the conjunction *y* and starts with the letter I (also HI: *padres e hijos*), we need to change
 the conjunction to *e.*
 
 *Pedro y Javier están en mi casa.*
@@ -22,10 +22,10 @@ the conjunction to *e.*
 
 ## O => U
 
-Cuando una palabra está después de la conjunción *o* y empieza por la letra O necesitamos cambiar la
-conjunción por *u.* 
+Cuando una palabra está después de la conjunción *o* y empieza por la letra O (también HO: *mujeres u hombres*), necesitamos
+cambiar la conjunción por *u.*
 
-💂 When a word is after the conjunction *o* and starts with the letter O we need to change
+💂 When a word is after the conjunction *o* and starts with the letter O (also HO: *mujeres u hombres*), we need to change
 the conjunction to *u.*
 
 *¿Quieres queso o cacahuetes?*
@@ -86,16 +86,16 @@ the conjunction to *u.*
 
     séptimo/a (7º / 7ª) - seventh
 
-    octavo/a (8º / 8ª) - eight
+    octavo/a (8º / 8ª) - eighth
 
     noveno/a (9º / 9ª) - ninth
 
     décimo/a (10º / 10ª) - tenth
 
-> *Primero* y *tercero* pasan a ser *primer* y *tercer* respectivamente cuando van antes 
-de un sustantivo masculino: *el primer día, el tercer lugar,* etc.
+> *Primero* y *tercero* pasan a ser *primer* y *tercer* respectivamente cuando van antes
+de un sustantivo masculino singular: *el primer día, el tercer lugar,* etc.
 
-> 💂 *Primero* and *tercero* become *primer* and *tercer* respectively when they go before a masculine noun: 
+> 💂 *Primero* and *tercero* become *primer* and *tercer* respectively when they go before a masculine singular noun:
 *el primer día, el tercer lugar,* etc.
 
     vigésimo/a (20º / 20ª) - twentieth
@@ -120,34 +120,34 @@ de un sustantivo masculino: *el primer día, el tercer lugar,* etc.
 
 ## Ejemplos
 
-Eleventh - Décimo/a primero/a (11º / 11ª)*
+Eleventh - Décimo/a primero/a (11º / 11ª)
 
-Twelfth - Décimo/a segundo/a (12º / 12ª)*
+Twelfth - Décimo/a segundo/a (12º / 12ª)
 
 Thirteenth - Décimo/a tercero/a (13º / 13ª)
 
 Twenty-first - Vigésimo/a primero/a (21º / 21ª)
 
-A hundred and first - Centésimo primero (101º / 101ª)
+A hundred and first - Centésimo/a primero/a (101º / 101ª)
 
-A hundred and twenty second - Centésimo/a vigésimo/a segundo/a (122º / 122ª)
+A hundred and twenty-second - Centésimo/a vigésimo/a segundo/a (122º / 122ª)
 
-> *Eleventh and twelfth have an alternate version: *undécimo, duodécimo.*
+> Eleventh and twelfth also have an alternate version: *undécimo, duodécimo.*
 
 ## Consideraciones
 
-- Los números ordinales son adjetivos, pero normalmente van antes del sustantivo. 
+- Los números ordinales son adjetivos, pero normalmente van antes del sustantivo.
 
 💂 Ordinal numbers are adjectives, but they usually go before the noun.
 
 *Mi apartamento está en el sexto piso.* (My apartment is on the sixth floor.)
 
 *Prefiero la primera opción.* (I prefer the first option.)
- 
+
 - Para calles, avenidas, pisos, etc. usamos normalmente números ordinales del 1 al 10, pero después del
   10 usamos números cardinales (que, como sabemos, van después del sustantivo).
 
-💂 For streets, avenues, floors, etc. we normally use ordinal numbers from 1 to 10, but after 10 we use 
+💂 For streets, avenues, floors, etc. we normally use ordinal numbers from 1 to 10, but after 10 we use
 cardinal numbers (which, as we know, go after the noun).
 
 *Vivo en el cuarto piso.* (I live on the fourth floor.)
@@ -155,9 +155,9 @@ cardinal numbers (which, as we know, go after the noun).
 *Vivo en el piso diecisiete.* (Lit. I live on floor seventeen.)
 
 *La pizzería está en la calle cincuenta y ocho con la Tercera Avenida.*
-(Lit. The pizzeria is on street fifty eight and Third Avenue.)
+(Lit. The pizzeria is on street fifty-eight and Third Avenue.)
 
-> Since we switch to cardinal numbers after 10, there's no point in memorizing ordinal numbers higher than that. 
+> Since we switch to cardinal numbers after 10, there's no point in memorizing ordinal numbers higher than that.
 
 ## Conversación
 
@@ -181,17 +181,17 @@ J: En la calle ochenta y ocho con la Novena.
 2. They always fall asleep in the subway.
 3. I don't remember where my keys are.
 4. Javier comes to the city every week.
-5. Yesterday, our brother slept for 10 hours.
+5. Yesterday, our brother slept for ten hours.
 6. She wants to travel to Uruguay.
 7. You (form., sing.) feel sad.
 8. Last night, they wanted to go to the movies.
 9. Do you (form., pl.) prefer tea or coffee?
 10. I do not understand James.
-11. Ana usually leaves her office at 7 PM.
+11. Ana usually leaves her office at 7 pm.
 12. The students lie to the teacher all the time.
 13. I always find beautiful things in that store.
 14. On Sundays, we always have lunch at the same restaurant.
-15. Our mother prefers to stay (at) home.
+15. Our mother prefers to stay (quedarse) at home.
 16. You lost your jacket on Sunday.
 17. I think (that) you have to study more.
 18. I always have fun on Saturday nights.
@@ -222,7 +222,7 @@ Choose a person. Describe this person in a very exaggerated manner, heavily usin
 4. At the party, there was a lot of food. Also, there were musicians playing music.
 5. There was a book on the table.
 6. There were two cats at Peter's apartment.
-7. There was music at the restaurant. At 6 PM, there was a magic show (espectáculo de magia).
+7. There was music at the restaurant. At 6 pm, there was a magic show (espectáculo de magia).
 8. I dance salsa perfectly.
 9. I run rapidly and Irene runs slowly.
 10. When I was living in Valencia, I used to go to the beach a lot.
@@ -234,21 +234,21 @@ Choose a person. Describe this person in a very exaggerated manner, heavily usin
 
 ## 5. Números ordinales
 
-5th 
+5th
 
 9th
 
 1st
 
-3rd 
+3rd
 
-10th 
+10th
 
-second 
+second
 
-fourth 
+fourth
 
-7th 
+7th
 
 sixth
 
@@ -266,16 +266,16 @@ había un piano —mi abuela tocaba el piano—.
 Recuerdo que mi abuela cocinaba muy bien. Cada viernes, ella preparaba habichuelas[5] con carne.
 Eran deliciosas, me gustaban muchísimo.
 
-Mi abuela no trabajaba. Ella se quedaba en la casa, limpiaba, lavaba la ropa, hablaba con
-otras vecinas... eran otros tiempos, ninguna[6] de sus amigas trabajaba tampoco
+Mi abuela no trabajaba. Ella se quedaba[6] en la casa, limpiaba, lavaba la ropa, hablaba con
+otras vecinas... eran otros tiempos, ninguna[7] de sus amigas trabajaba tampoco
 —a excepción de doña Matilde, que tenía una tienda y ahí trabajaba—.
 
 Mi abuelo y mi abuela eran muy religiosos —eran católicos—, e iban a la iglesia cada domingo.
-El cura[7] del pueblo se llamaba don Ramón, y era un hombre bueno y amable. A veces, él comía en casa
+El cura[8] del pueblo se llamaba don Ramón, y era un hombre bueno y amable. A veces, él comía en casa
 de mis abuelos los domingos, y yo también comía con ellos. Don Ramón contaba historias de cuando
 trabajaba en un hospital antes de ser cura.
 
-¡Pasaba muy buenos ratos[8] visitando a mis abuelos en el pueblo!
+¡Pasaba muy buenos ratos[9] visitando a mis abuelos en el pueblo!
 
 [1] Kind
 
@@ -287,11 +287,13 @@ trabajaba en un hospital antes de ser cura.
 
 [5] Beans
 
-[6] None
+[6] Quedarse - to stay
 
-[7] Priest
+[7] None
 
-[8] Pasar un buen rato - to have a good time
+[8] Priest
+
+[9] Pasar un buen rato - to have a good time
 
 ### Preguntas
 

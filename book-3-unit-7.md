@@ -22,7 +22,7 @@
 
     la estación de tren - the train station
 
-    la estación de autobús - the bus station 
+    la estación de autobús - the bus station
 
     el barco - the boat
 
@@ -40,10 +40,10 @@
 
     el centro - downtown
 
-## Verbo tomar (para transportes)
+## Verbo tomar para transportes (verb tomar for transportation)
 
 En países diferentes usamos verbos diferentes para los transportes. El verbo más típico e internacional
-es *tomar.* 
+es *tomar.*
 
 💂 In different countries we use different verbs for transportation. The most typical and international verb
 is *tomar.*
@@ -56,9 +56,9 @@ is *tomar.*
 
 *El metro no funcionaba, entonces tuve que tomar un taxi al aeropuerto.*
 
-## Verbo ir + preposición en (para transportes)
+## Verbo ir + preposición en para transportes (verb ir + preposition en for transportation)
 
-Siempre podemos usar también esta fórmula. 
+Siempre podemos usar también esta fórmula.
 
 💂 We can always use this formula as well.
 
@@ -72,20 +72,20 @@ Siempre podemos usar también esta fórmula.
 
 ## Conversación: antes del viaje
 
-Alicia: Hola Carlos, ¿ya tienes los pasajes para tu viaje a Europa?
+Alicia: Hola, Carlos, ¿ya tienes los pasajes para tu viaje a Europa?
 
-Carlos: Sí, ya tengo los pasajes y reservé el hotel. Estoy un poco nervioso porque no me gustan los aviones 
+Carlos: Sí, ya tengo los pasajes y reservé el hotel. Estoy un poco nervioso porque no me gustan los aviones
 y este vuelo es muy largo. Me gustan los trenes y los autobuses, pero no puedo ir en tren a España.
 
 A: ¿Y a qué aeropuerto vas a ir?
 
-C: Al aeropuerto de Madrid. De Madrid voy a ir en tren a Castellón. Las playas allí son muy bonitas. 
+C: Al aeropuerto de Madrid. De Madrid voy a ir en tren a Castellón. Las playas allí son muy bonitas.
 
 A: ¿Vas a visitar Barcelona?
 
 C: Sí. Me voy a quedar en un hotel, pero no tiene ascensor (elevator), y mi cuarto está en la quinta planta (floor).
 
-A: ¿Hablaste con recepción para cambiar (change/switch) tu cuarto y tener uno en la primera planta? 
+A: ¿Hablaste con recepción para cambiar (change/switch) tu cuarto y tener uno en la primera planta?
 
 C: Llamé a recepción pero no había nadie.
 
@@ -102,26 +102,26 @@ En español, usamos muchas expresiones con el verbo *tener.*
 💂 In Spanish, we use many expressions with the verb *tener.*
 
     tener hambre - to be hungry (lit. to have hunger)
-    
+
     tener sed - to be thirsty (lit. to have thirst)
-    
+
     tener sueño - to be sleepy (lit. to have sleepiness)
-    
-    tener prisa - to be in a hurry (lit. to “have hurry”)
-    
+
+    tener prisa - to be in a hurry (lit. to "have hurry")
+
     tener razón - to be right (lit. to have reason)
-    
-    tener miedo (de) - to be afraid (of) (lit. to have fear) 
-    
+
+    tener miedo (de) - to be afraid (of) (lit. to have fear)
+
     tener suerte - to be lucky (lit. to have luck)
-    
-    tener calor - to be hot (lit. to have heat) 
-    
+
+    tener calor - to be hot (lit. to have heat)
+
     tener frío - to be cold (lit. to have cold)
 
 ## Ejemplos
 
-*Los lunes por la mañana siempre tengo mucha prisa.* (I am always in a hurry on Monday mornings.) 
+*Los lunes por la mañana siempre tengo mucha prisa.* (I am always in a hurry on Monday mornings.)
 
 *Siempre tengo razón.* (I am always right.)
 
@@ -129,7 +129,7 @@ En español, usamos muchas expresiones con el verbo *tener.*
 
 *¿Tienes frío?* (Are you cold?)
 
-# Traer (to bring) vs llevar (to carry / to take)
+# Traer (to bring) vs. llevar (to carry / to take)
 
 ## Traer
 
@@ -139,79 +139,79 @@ El verbo *traer* es irregular en el presente y el pretérito perfecto.
 
 ### Presente
 
-    traigo 
-    
-    traes 
-    
-    trae 
-    
+    traigo
+
+    traes
+
+    trae
+
     traemos
-    
-    (traéis) 
-    
+
+    (traéis)
+
     traen
 
 ### Pretérito perfecto
 
-    traje 
-    
-    trajiste 
-    
-    trajo 
-    
-    trajimos 
-    
-    (trajisteis) 
-    
+    traje
+
+    trajiste
+
+    trajo
+
+    trajimos
+
+    (trajisteis)
+
     trajeron
 
 ### Pretérito imperfecto (es regular)
 
-    traía 
-    
-    traías 
-    
-    traía 
-    
-    traíamos 
-    
+    traía
+
+    traías
+
+    traía
+
+    traíamos
+
     (traíais)
-    
+
     traían
 
 ## Llevar
 
-*Llevar* es 100% regular. 
+*Llevar* es 100% regular.
 
 💂 *Llevar* is 100% regular.
 
 ## Usos
 
 *Traer:* Mover un objeto al lugar donde está el hablante. Es común usar este verbo con
-el adverbio *aquí.* 
+el adverbio *aquí.*
 
 💂 *Traer:* To move an object to the place where the speaker is. It is common to use this verb with
 the adverb *aquí.*
 
 *Llevar:* Mover un objeto a un lugar diferente de donde está el hablante. Es común
-usar este verbo con el adverbio *allí.* 
+usar este verbo con el adverbio *allí.*
 
 💂 *Llevar:* To move an object to a different location from where the speaker is. It is common
 to use this verb with the adverb *allí.*
 
 ## Ejemplo
 
-Juan está en su casa (his own house) y llama a Steve que está en la oficina.
+Juan está en su casa (his own house) y llama a Steve, que está en la oficina.
 
 Con traer:
 
-Juan: Hola Steve, ¿puedes traer una limonada a mi casa esta noche? 
+Juan: Hola, Steve, ¿puedes traer una limonada a mi casa esta noche?
 
 Steve: No hay problema.
 
 Con llevar:
 
-Juan: Hola Steve, ¿puedes llevar una limonada a casa de María esta noche?
+Juan: Hola, Steve, ¿puedes llevar una limonada a casa de María esta noche?
 
 Steve: No hay problema.
 
@@ -227,8 +227,8 @@ Steve: No hay problema.
 6. Last night, I stayed at a hostel.
 7. Tomorrow, I'm going to get up early in order to go to the bus station.
 8. A plane ticket is usually more expensive than a bus ticket, but you can't go to Europe on the bus.
-9. I never take taxis, I always prefer the train; it's cheaper.
-10. My flight departs (use salir) at 7 PM.
+9. I never take taxis. I always prefer the train; it's cheaper.
+10. My flight departs (use *salir*) at 7 pm.
 11. The best hotels are in Las Vegas. The worst hotels are in __________________.
 
 ## 2. Responder
@@ -257,7 +257,7 @@ Explica qué vas a hacer en tu próximo viaje. Puede ser un viaje real que tiene
 1. Cuando yo no como por diez horas, yo ______________________.
 2. Cuando yo estoy en el desierto por mucho tiempo y no tengo agua, yo ______________________.
 3. Cuando Juan ganó la lotería, él ______________________.
-4. Eran las 8 de la mañana y yo empezaba a trabajar a las 8.30. El metro no funcionaba, y yo
+4. Eran las 8 de la mañana y yo empezaba a trabajar a las 8:30. El metro no funcionaba, y yo
    ______________________. Yo estaba muy nervioso.
 5. Cuando era pequeño yo ______________________ de los payasos (clowns).
 6. Los políticos normalmente piensan que ellos siempre ______________________.

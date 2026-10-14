@@ -1,4 +1,4 @@
-# Answer key — Book 3, Unit 2
+# Answer key - Book 3, Unit 2
 
 ## 1. Traducir
 

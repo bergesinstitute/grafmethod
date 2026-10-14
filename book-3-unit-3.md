@@ -12,12 +12,12 @@ El pretérito imperfecto se puede traducir al inglés de cuatro maneras.
 
 *Cuando era pequeño tenía un perro.* (When I was little, I had a dog.)
 
-En inglés hay muchas construcciones para pasado. En español, sólo dos: cuando tenemos una acción que
+En inglés hay muchas construcciones para el pasado. En español, solo dos: cuando tenemos una acción que
 ocurre en un momento específico, siempre usamos pretérito perfecto. Cuando es un pasado habitual o
 descriptivo, siempre usamos pretérito imperfecto.
 
-💂 In English there are many past tense constructions. In Spanish, there are only two: 
-when we have an action that occurs at a specific time, we always use preterite. When it is a habitual or descriptive past, 
+💂 In English there are many past tense constructions. In Spanish, there are only two:
+when we have an action that occurs at a specific time, we always use the preterite. When it is a habitual or descriptive past,
 we always use the imperfect tense.
 
 # Una expresión común (a common expression)
@@ -31,9 +31,9 @@ day long.)
 
 # Conversación usando el pretérito imperfecto (conversation using the imperfect tense)
 
-Carlos: Hola Isabel, tú estudiaste en la universidad en Florida, ¿es correcto?
+Carlos: Hola, Isabel, tú estudiaste en la universidad en Florida, ¿es correcto?
 
-Isabel: Hola Carlos. Es correcto.
+Isabel: Hola, Carlos. Es correcto.
 
 C: ¿Cómo era la vida (life) en Florida?
 
@@ -63,7 +63,7 @@ pretérito perfecto. Normalmente usamos las preposiciones *entre* (between) o *d
 delimitar el periodo de tiempo.
 
 💂 When we talk about a period of time and we indicate when it started and when it ended, we use
-preterite. We usually use the prepositions *entre* (between) or *de/a* (from/to) to delimit the period of time.
+the preterite. We usually use the prepositions *entre* (between) or *de/a* (from/to) to delimit the period of time.
 
 *Entre 1999 y 2005 viví en Toronto.* (Between 1999 and 2005 I lived in Toronto.)
 
@@ -85,8 +85,8 @@ movie.)
 # Acción vs. descripción (action vs. description)
 
 Ciertos verbos tienen naturalmente un significado de acción: *llegar, escribir, comer...* Pero otros verbos
-tienen un significado más “descriptivo”: *tener* (for possession), *saber* (for knowledge), *creer* (for
-beliefs)... 
+tienen un significado más "descriptivo": *tener* (for possession), *saber* (for knowledge), *creer* (for
+beliefs)...
 
 💂 Certain verbs naturally have a meaning of action: *llegar, escribir, comer...* But other verbs
 have a more "descriptive" meaning: *tener* (for possession), *saber* (for knowledge), *creer* (for beliefs)...
@@ -101,7 +101,7 @@ Los verbos de acción van normalmente en pretérito perfecto.
 
 *Comí una manzana ayer a las cinco.* (I ate an apple yesterday at five.)
 
-Los verbos “descriptivos” van normalmente en imperfecto. 
+Los verbos "descriptivos" van normalmente en imperfecto.
 
 💂 "Descriptive" verbs are usually in the imperfect tense.
 
@@ -116,21 +116,21 @@ queremos transmitir.
 
 💂 In some cases, both options are correct; we use one or the other depending on the feeling we want to convey.
 
-*Estuve enfermo todo el día.* (I was sick all day.) — We are saying for how long that happened.
+*Estuve enfermo todo el día.* (I was sick all day.) - We are saying for how long that happened.
 
-*Estaba enfermo.* (I was sick.) — We are using it in a descriptive way.
+*Estaba enfermo.* (I was sick.) - We are using it in a descriptive way.
 
 *En ese momento, Pedro supo todo.* (At that moment, Pedro knew/found out everything.)
 
-*Pedro sabía todo.* (Pedro knew everything.) — He knew, in general.
+*Pedro sabía todo.* (Pedro knew everything.) - He knew, in general.
 
 # Cuadro explicativo (explanatory table): pretérito perfecto vs. pretérito imperfecto
 
 Como sabemos, para acciones que ocurrieron en un momento específico en el pasado, usamos siempre
-pretérito perfecto. 
+pretérito perfecto.
 
 💂 As we know, for actions that took place at a specific time in the past, we always use
-preterite.
+the preterite.
 
 *I bought a house last year. - Compré una casa el año pasado.*
 
@@ -141,9 +141,9 @@ preterite.
 *Did you go? - ¿Fuiste?*
 
 Para todo lo demás (incluyendo ciertos verbos que en inglés van en *past simple* pero que no indican
-acción), usamos generalmente imperfecto. 
+acción), usamos generalmente imperfecto.
 
-💂 For everything else (including certain verbs that in English 
+💂 For everything else (including certain verbs that in English
 go in past simple but do not indicate action), we generally use the imperfect.
 
 *I knew that.*
@@ -168,8 +168,8 @@ go in past simple but do not indicate action), we generally use the imperfect.
 
 *I used to go there all the time.*
 
-- We can translate it as: *Yo solía ir allá todo el rato.*
-- But it is better translated as: *Yo iba allá todo el rato.*
+- We can translate it as: *Yo solía ir allá todo el tiempo.*
+- But it is better translated as: *Yo iba allá todo el tiempo.*
 
 *My mom always used to/would always cook pasta on Fridays.*
 
@@ -181,7 +181,7 @@ go in past simple but do not indicate action), we generally use the imperfect.
 En general, usamos más las versiones en imperfecto (*era / estaba*) para *was / were,* porque normalmente
 hacemos un uso descriptivo de estos verbos.
 
-💂 In general, we use more the imperfect versions (*era / estaba*) for *was / were,* 
+💂 In general, we use the imperfect versions (*era / estaba*) more for *was / were,*
 because we normally use these verbs descriptively.
 
 *Yo antes era abogado.* (In the past, I was / used to be a lawyer.)
@@ -200,7 +200,7 @@ Pero podemos usar las versiones en pretérito perfecto cuando queremos hacer un 
 
 *No fui a trabajar porque estuve enfermo toda la mañana.* (I didn't go to work because I was sick all morning.)
 
-*Juan estuvo en la oficina de 9 de la mañana a 5 de la tarde.* (Juan was in the office from 9 AM to 5 PM.)
+*Juan estuvo en la oficina de 9 de la mañana a 5 de la tarde.* (Juan was in the office from 9 am to 5 pm.)
 
 # Homework
 
@@ -208,7 +208,7 @@ Pero podemos usar las versiones en pretérito perfecto cuando queremos hacer un 
 
 Cuando yo __________ (vivir) en Madrid, cada día __________ (aprender) mucho español. Por la mañana
 __________ (ir) a la escuela de español y __________ (conocer) a muchas personas de todas partes del mundo.
-Mi mejor amiga __________ (llamarse) Soyoung, y ella __________ (ser) de Korea. Cada día
+Mi mejor amiga __________ (llamarse) Soyoung, y ella __________ (ser) de Corea. Cada día
 __________ (practicar) español juntas en la hora del almuerzo. Los jueves por la noche me
 __________ (gustar) salir con mis amigos, y nosotros __________ (comer) tapas deliciosas. Los viernes por la mañana yo
 __________ (estar) muy cansada porque, después de comer tapas, nosotros __________ (bailar) hasta muy tarde.
@@ -216,8 +216,8 @@ Los viernes por la tarde nosotros __________ (caminar) al parque del Retiro, ___
 __________ (sentarse) en un banco.
 
 Los sábados Soyoung y yo __________ (comprar) muchas cosas en las tiendas del centro. Los domingos
-por la mañana yo __________ (tener) que hacer mi tarea de español, y por la tarde 
-__________ (ir) al cine a ver películas siempre en español. Mi director favorito 
+por la mañana yo __________ (tener) que hacer mi tarea de español, y por la tarde
+__________ (ir) al cine a ver películas siempre en español. Mi director favorito
 __________ (ser) Pedro Almodóvar.
 
     juntos/as - together
@@ -255,7 +255,7 @@ __________ (ser) Pedro Almodóvar.
 10. I like to walk. I love to walk.
 11. Last Tuesday, I went to Joe's Burgers. I used to like it more when Joe worked there.
 12. The party was boring. My friend Pedro was tired and my friend Mary was sick. We left at 8.
-13. On Mondays, María plays football in the park.
+13. On Mondays, María plays soccer in the park.
 14. When I was a kid, I used to play tennis.
 
 ## 4. Comentario de texto
@@ -281,7 +281,7 @@ cena para mi esposa María y para mis hijos. Los lunes, miércoles y viernes voy
 Por las noches me gusta mirar la televisión con mi esposa. Nuestra serie favorita es True
 Detective. Los domingos nos gusta mucho ir al cine, y mirar películas de acción y comedias.
 Normalmente comemos y cenamos en casa, pero a veces vamos a restaurantes en nuestro barrio.
-Nos gusta mucho Mafalda, un restaurante Argentino en el centro de la ciudad.
+Nos gusta mucho Mafalda, un restaurante argentino en el centro de la ciudad.
 
 Mis hijos estudian en la escuela. Tienen muchos amigos. A mis hijos les gusta mucho
 mirar la televisión también —películas y series para niños—, y a veces por la tarde van a casa de
@@ -295,11 +295,11 @@ recetas nuevas en YouTube.
 
 No tengo Facebook o Instagram, no me gustan las redes sociales.[1] Mi esposa sí tiene una
 cuenta[2] en Facebook, y cada día pone fotos de la comida que cocinamos, y normalmente recibe
-muchos “me gusta”. Mis hijos son muy pequeños, pero tienen un teléfono celular. Ellos son parte
+muchos "me gusta". Mis hijos son muy pequeños, pero tienen un teléfono celular. Ellos son parte
 de la generación tecnológica, supongo.[3]
 
 Mis padres viven en Montevideo, y los padres de María viven en Rosario, en Argentina.
-No tenemos familia en Mexico, aparte de nuestros hijos. Yo tengo dos hermanos, y ellos viven en
+No tenemos familia en México, aparte de nuestros hijos. Yo tengo dos hermanos, y ellos viven en
 España, en Barcelona.
 
 Los miércoles por la noche estudio inglés en la Escuela de Idiomas, en la Avenida Javier
@@ -309,7 +309,7 @@ música que yo escucho[5] —rock clásico, soul, blues, etc.— está casi siem
 me gustan algunos grupos de música de México: Maná es una banda muy interesante, y también
 me gusta mucho la cantante Julieta Venegas.
 
-Bueno, pues ésta es mi vida. ¡Muchas gracias por leer!
+Bueno, pues esta es mi vida. ¡Muchas gracias por leer!
 
 Un saludo,
 

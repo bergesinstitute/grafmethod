@@ -1,4 +1,4 @@
-# Answer key — Book 3, Unit 7
+# Answer key - Book 3, Unit 7
 
 ## 1. Traducir
 
@@ -6,11 +6,11 @@
 2. En el pasado, me gustaban los hoteles caros y elegantes.
 3. Mi aeropuerto favorito es O'Hare. Está en Chicago.
 4. Mi estación de tren favorita era Grand Central, pero ahora es Penn Station.
-5. Antes me gustaba San Francisco. Ahora prefiero Los Angeles.
+5. Antes me gustaba San Francisco. Ahora prefiero Los Ángeles.
 6. Anoche, me quedé en un hostal.
 7. Mañana, me voy a levantar temprano para ir a la estación de autobús.
 8. Un pasaje de avión normalmente es más caro que un pasaje de autobús, pero no puedes ir a Europa en autobús.
-9. Nunca tomo taxis, siempre prefiero el tren; es más barato.
+9. Nunca tomo taxis. Siempre prefiero el tren; es más barato.
 10. Mi vuelo sale a las siete de la tarde.
 11. Los mejores hoteles están en Las Vegas. Los peores hoteles están en Venecia.
 
@@ -42,7 +42,7 @@ Open-ended. A model essay:
 1. Cuando yo no como por diez horas, yo **tengo hambre**.
 2. Cuando yo estoy en el desierto por mucho tiempo y no tengo agua, yo **tengo sed**.
 3. Cuando Juan ganó la lotería, él **tuvo suerte**.
-4. Eran las 8 de la mañana y yo empezaba a trabajar a las 8.30. El metro no funcionaba, y yo **tenía prisa**. Yo estaba muy nervioso.
+4. Eran las 8 de la mañana y yo empezaba a trabajar a las 8:30. El metro no funcionaba, y yo **tenía prisa**. Yo estaba muy nervioso.
 5. Cuando era pequeño yo **tenía miedo** de los payasos.
 6. Los políticos normalmente piensan que ellos siempre **tienen razón**.
 7. Cuando yo viajo a Alaska, yo siempre **tengo frío**, pero cuando yo viajo a Texas, normalmente **tengo calor**.

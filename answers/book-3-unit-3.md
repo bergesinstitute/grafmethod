@@ -1,8 +1,8 @@
-# Answer key — Book 3, Unit 3
+# Answer key - Book 3, Unit 3
 
 ## 1. Completar, usando imperfecto
 
-> Cuando yo **vivía** en Madrid, cada día **aprendía** mucho español. Por la mañana **iba** a la escuela de español y **conocía** a muchas personas de todas partes del mundo. Mi mejor amiga **se llamaba** Soyoung, y ella **era** de Korea. Cada día **practicábamos** español juntas en la hora del almuerzo. Los jueves por la noche me **gustaba** salir con mis amigos, y nosotros **comíamos** tapas deliciosas. Los viernes por la mañana yo **estaba** muy cansada porque, después de comer tapas, nosotros **bailábamos** hasta muy tarde. Los viernes por la tarde nosotros **caminábamos** al parque del Retiro, **tomábamos** el sol y **nos sentábamos** en un banco.
+> Cuando yo **vivía** en Madrid, cada día **aprendía** mucho español. Por la mañana **iba** a la escuela de español y **conocía** a muchas personas de todas partes del mundo. Mi mejor amiga **se llamaba** Soyoung, y ella **era** de Corea. Cada día **practicábamos** español juntas en la hora del almuerzo. Los jueves por la noche me **gustaba** salir con mis amigos, y nosotros **comíamos** tapas deliciosas. Los viernes por la mañana yo **estaba** muy cansada porque, después de comer tapas, nosotros **bailábamos** hasta muy tarde. Los viernes por la tarde nosotros **caminábamos** al parque del Retiro, **tomábamos** el sol y **nos sentábamos** en un banco.
 >
 > Los sábados Soyoung y yo **comprábamos** muchas cosas en las tiendas del centro. Los domingos por la mañana yo **tenía** que hacer mi tarea de español, y por la tarde **iba** al cine a ver películas siempre en español. Mi director favorito **era** Pedro Almodóvar.
 
@@ -97,7 +97,7 @@
 13. Los lunes, María juega al fútbol en el parque.
 14. Cuando era niño, jugaba al tenis.
 
-## 4. Comentario de texto — Joaquín
+## 4. Comentario de texto - Joaquín
 
 1. Joaquín vive en la Ciudad de México (en la Avenida Miguel Hidalgo).
 2. Vive con su esposa María y sus dos hijos, Javier y Luis. También tienen dos perros: Pancho y Federico.

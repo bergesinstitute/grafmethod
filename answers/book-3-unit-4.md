@@ -1,4 +1,4 @@
-# Answer key — Book 3, Unit 4
+# Answer key - Book 3, Unit 4
 
 ## 1. Responder
 
@@ -15,39 +15,39 @@ Open-ended. Sample answers (full sentences):
 9. Sí, normalmente miro todo el menú antes de pedir.
 10. Sí, me gustan los platos especiales del día.
 11. Sí, los restaurantes más elegantes en mi ciudad tienen manteles.
-12. No, casi nunca pago con efectivo.
+12. No, casi nunca pago en efectivo.
 
 ## 2. Write a conversation at the restaurant
 
 Open-ended. A model conversation:
 
-> MESERO: Buenas noches. ¿Mesa para dos?
+> Mesero: Buenas noches. ¿Mesa para dos?
 >
-> ANA: Sí, gracias.
+> Ana: Sí, gracias.
 >
-> MESERO: Aquí tienen el menú. ¿Qué quieren beber?
+> Mesero: Aquí tienen el menú. ¿Qué quieren beber?
 >
-> ANA: Yo quiero un agua mineral, por favor.
+> Ana: Yo quiero un agua mineral, por favor.
 >
-> CARLOS: Y para mí una copa de vino tinto.
+> Carlos: Y para mí una copa de vino tinto.
 >
-> MESERO: Perfecto. ¿Saben qué quieren comer?
+> Mesero: Perfecto. ¿Saben qué quieren comer?
 >
-> ANA: Sí, yo voy a tomar la ensalada César de primer plato y el salmón de segundo.
+> Ana: Sí, yo voy a tomar la ensalada César de primer plato y el salmón de segundo.
 >
-> CARLOS: Para mí, la sopa del día y el bistec con papas fritas.
+> Carlos: Para mí, la sopa del día y el bistec con papas fritas.
 >
-> MESERO: Excelente. Muchas gracias.
+> Mesero: Excelente. Muchas gracias.
 >
 > *(Después de comer)*
 >
-> CARLOS: La cuenta, por favor.
+> Carlos: La cuenta, por favor.
 >
-> MESERO: Aquí está. ¿Van a pagar con tarjeta o efectivo?
+> Mesero: Aquí está. ¿Van a pagar con tarjeta o en efectivo?
 >
-> CARLOS: Con tarjeta, gracias.
+> Carlos: Con tarjeta, gracias.
 
-## 3. Completar
+## 3. Completar usando cerca o lejos
 
 Sample answers. Geography is what it is, but a few are debatable.
 
@@ -56,8 +56,8 @@ Sample answers. Geography is what it is, but a few are debatable.
 3. China está **cerca** de Rusia.
 4. Irán está **cerca** de Irak.
 5. España está **lejos** de Nueva York.
-6. New Jersey está **cerca** de Manhattan.
-7. Los Angeles está **lejos** de Montreal.
+6. Nueva Jersey está **cerca** de Manhattan.
+7. Los Ángeles está **lejos** de Montreal.
 
 ## 4. Escribir 4 oraciones usando cerca y lejos
 

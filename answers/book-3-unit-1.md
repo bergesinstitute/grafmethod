@@ -1,4 +1,4 @@
-# Answer key — Book 3, Unit 1
+# Answer key - Book 3, Unit 1
 
 ## 1. Traducir
 
@@ -64,7 +64,7 @@ Open-ended. A model answer:
 
 ## 5. Conjugar (en presente)
 
-### Dormir (O → UE)
+### Dormir (O => UE)
 
     yo duermo
     tú duermes
@@ -73,7 +73,7 @@ Open-ended. A model answer:
     (vosotros / vosotras dormís)
     ellos / ellas / ustedes duermen
 
-### Perder (E → IE)
+### Perder (E => IE)
 
     yo pierdo
     tú pierdes
@@ -82,7 +82,7 @@ Open-ended. A model answer:
     (vosotros / vosotras perdéis)
     ellos / ellas / ustedes pierden
 
-### Encontrar (O → UE)
+### Encontrar (O => UE)
 
     yo encuentro
     tú encuentras
@@ -91,7 +91,7 @@ Open-ended. A model answer:
     (vosotros / vosotras encontráis)
     ellos / ellas / ustedes encuentran
 
-### Sentarse (E → IE, reflexive)
+### Sentarse (E => IE, reflexive)
 
     yo me siento
     tú te sientas
@@ -100,7 +100,7 @@ Open-ended. A model answer:
     (vosotros / vosotras os sentáis)
     ellos / ellas / ustedes se sientan
 
-### Volar (O → UE)
+### Volar (O => UE)
 
     yo vuelo
     tú vuelas

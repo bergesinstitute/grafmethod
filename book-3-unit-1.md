@@ -52,7 +52,7 @@ B: Está en Manhattan.
 
 ## Pretérito perfecto (preterite)
 
-We use the *pretérito perfecto* tense for events that happened at a specific point in time in the past that 
+We use the *pretérito perfecto* tense for events that happened at a specific point in time in the past that
 we usually indicate by using a time expression.
 
 *Ayer comí pizza en Ray's.*
@@ -73,7 +73,7 @@ Here are some common specific time expressions:
 
     el viernes por la noche - on Friday night
 
-    El diecisiete de marzo - on March 17th
+    el diecisiete de marzo - on March 17th
 
 ### Conversación
 
@@ -87,36 +87,36 @@ en SoHo y el sábado dormí todo el día (all day).
 
 ## Presente progresivo (present progressive)
 
-For actions that are currently happening, in English we use *to be* + verb-*ing* (it is raining, 
+For actions that are currently happening, in English we use *to be* + verb-*ing* (it is raining,
 Juan is eating, I am writing a book...).
 
-In Spanish, we always use *estar* for progressive tenses, followed by the *gerundio,* our equivalent of the 
+In Spanish, we always use *estar* for progressive tenses, followed by the *gerundio,* our equivalent of the
 English *-ing* form, which is built by adding:
 
     -ando to the root of -ar verbs
 
 *Yo estoy cantando. Juan está llamando a su madre.*
 
-    -iendo to the root of -er and -ir verbs 
+    -iendo to the root of -er and -ir verbs
 
 *Nosotros estamos bebiendo agua. Usted está escribiendo.*
 
-This tense is commonly used with adverbs *ahora* (now) and *hoy* (today).
+This tense is commonly used with the adverbs *ahora* (now) and *hoy* (today).
 
 ### Conversación
 
-Mike: Hola Daisy, ¿qué estás haciendo?
+Mike: Hola, Daisy, ¿qué estás haciendo?
 
 Daisy: Estoy comiendo una pizza en un restaurante italiano y tomando un café. ¿Tú qué estás haciendo?
 
-MIKE: Yo estoy caminando en el parque y bebiendo mucha agua porque está haciendo mucho calor.
+M: Yo estoy caminando en el parque y bebiendo mucha agua porque está haciendo mucho calor.
 
 # Spanish stem-changing verbs
 
 ## How it works
 
-In the present tense, some verbs have a stem change: a letter in its root changes in some grammatical 
-persons. There are two types of stem changes:
+In the present tense, some verbs have a stem change: a vowel in their root changes in some grammatical
+persons. There are two main types of stem changes:
 
 ## E changes to IE
 
@@ -134,18 +134,18 @@ Here is *pensar* (to think), in the present tense:
 
     ellos / ellas / ustedes piensan
 
-This happens in many verbs; it doesn't matter if they are *-ar, -er* or *-ir.* Note that the E changes to IE in 
+This happens in many verbs; it doesn't matter if they are *-ar, -er* or *-ir.* Note that the E changes to IE in
 every person except *nosotros* and *vosotros.*
 
-Here are some common “E to IE” verbs:
+Here are some common "E to IE" verbs:
 
     cerrar - to close
 
     divertirse - to have fun
 
-    empezar* - to start / to begin
+    empezar[1] - to start / to begin
 
-    entender* - to understand
+    entender[1] - to understand
 
     mentir - to lie
 
@@ -153,7 +153,7 @@ Here are some common “E to IE” verbs:
 
     perder - to lose
 
-    preferir* - to prefer
+    preferir[1] - to prefer
 
     querer - to want / to love
 
@@ -163,7 +163,7 @@ Here are some common “E to IE” verbs:
 
     sentirse - to feel
 
-> *The stem change always happens in the strong syllable: *empiezo, entiendo, prefiero.*
+[1] The stem change always happens in the strong syllable: *empiezo, entiendo, prefiero.*
 
 ## O changes to UE
 
@@ -183,7 +183,7 @@ Here is *soñar* (to dream), in the present tense:
 
 Again, the O changes to UE in every person except *nosotros* and *vosotros.*
 
-Here are some common “O to UE” verbs:
+Here are some common "O to UE" verbs:
 
     acostarse - to go to bed / to lie down
 
@@ -219,7 +219,7 @@ Here are some common “O to UE” verbs:
 
 ## Stem-changing verbs in the preterite (pretérito perfecto)
 
-Stem-changing verbs do not change their stem in the *pretérito perfecto*.
+Stem-changing verbs do not change their stem in the *pretérito perfecto.*
 
 Here is *pensar* (to think), in the *pretérito perfecto* tense. As you can see, it is 100% regular.
 
@@ -249,7 +249,7 @@ Here is *soñar* (to dream), in the *pretérito perfecto* tense. Again, 100% reg
 
     ellos / ellas / ustedes soñaron
 
-> Verbs *divertirse, mentir, morir, preferir, querer, sentirse, dormir and poder* are irregular in 
+> Verbs *divertirse, mentir, morir, preferir, querer, sentirse, dormir* and *poder* are irregular in
 > the *pretérito perfecto* tense. Try to look up their conjugations and memorize them.
 
 # Homework
@@ -259,13 +259,13 @@ Here is *soñar* (to dream), in the *pretérito perfecto* tense. Again, 100% reg
 💂 Translate. You can use a dictionary to look up words you don't know.
 
 1. My mother sings very well, but she does not play an instrument.
-2. Their parents are in NYC for 5 days.
+2. Their parents are in NYC for five days.
 3. Juan's wife is an economist, and she works at an office.
 4. I cook pasta every Saturday.
 5. I am eating and watching TV.
 6. She is having dinner with her friend at Pio Pio.
 7. Sara bought a car a week ago.
-8. Did you (formal, singular) call the doctor yesterday?
+8. Did you (form., sing.) call the doctor yesterday?
 9. What time did they leave the party?
 10. My son has blue eyes.
 11. I do not run in the park every Monday.
@@ -275,7 +275,7 @@ Here is *soñar* (to dream), in the *pretérito perfecto* tense. Again, 100% reg
 15. I received a present from my mother-in-law (suegra).
 16. Pedro doesn't understand Spanish, but he speaks Italian.
 17. We wrote an email to Mary.
-18. You (form., plural) were in Brooklyn three days ago.
+18. You (form., pl.) were in Brooklyn three days ago.
 19. It rains a lot in Seattle.
 20. It is raining in Boston.
 
@@ -300,7 +300,7 @@ Presente:
 
 1. Yo __________ (pensar) que tú eres muy guapo.
 2. Tú __________ (pensar) mucho.
-3. Nosotros __________(querer) ir al US Open.
+3. Nosotros __________ (querer) ir al US Open.
 4. Ustedes nunca __________ (mentir).
 5. María siempre __________ (perder) sus llaves en el parque.
 6. Juan __________ (empezar) a trabajar a las 9 de la mañana cada día.
