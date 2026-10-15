@@ -4,15 +4,15 @@
 
 ### Uso
 
-Usamos el presente para hábitos o hechos. 
+Usamos el presente para hábitos o hechos.
 
 💂 We use the present tense for habits or facts.
 
-*Los martes voy al gimnasio.* 
+*Los martes voy al gimnasio.*
 
-*Siempre cocino los jueves.* 
+*Siempre cocino los jueves.*
 
-*Mi hermana toca la guitarra.* 
+*Mi hermana toca la guitarra.*
 
 *Mi tío es de California.*
 
@@ -20,29 +20,29 @@ Aquí tenemos algunas expresiones temporales que típicamente usamos con el pres
 
 💂 Here are some time expressions that we typically use with the present tense.
 
-    normalmente 
-    
+    normalmente
+
     siempre
-    
-    a veces 
-    
+
+    a veces
+
     nunca
-    
-    cada día 
-    
-    casi cada día 
-    
+
+    cada día
+
+    casi cada día
+
     cada martes
 
 ### Conversación
 
-Paloma: Hola Alfonso. Tú tienes dos hermanos, ¿correcto?
+Paloma: Hola, Alfonso. Tú tienes dos hermanos, ¿correcto?
 
-Alfonso: Hola Paloma, es correcto. Un hermano se llama Juan y el otro se llama Mario. Viven en Medellín, 
-en Colombia. Juan trabaja en una escuela —es profesor— y Mario está estudiando ciencias políticas. 
+Alfonso: Hola, Paloma, es correcto. Un hermano se llama Juan y el otro se llama Mario. Viven en Medellín,
+en Colombia. Juan trabaja en una escuela —es profesor— y Mario está estudiando ciencias políticas.
 Quiere ser político. Tú tienes una hermana, ¿es correcto?
 
-P: Sí, es correcto. Mi hermana se llama Ana, y vive en Buenos Aires, en Argentina. Tiene dos hijos, uno de 
+P: Sí, es correcto. Mi hermana se llama Ana, y vive en Buenos Aires, en Argentina. Tiene dos hijos, uno de
 ellos tiene ocho años y el otro tiene diez. Es abogada, y trabaja en una oficina en el centro de la ciudad.
 
 A: ¿Ves mucho a tu hermana?
@@ -74,33 +74,33 @@ Aquí tenemos algunas expresiones temporales que típicamente usamos con el pret
 💂 Here are some time expressions that we typically use with the preterite.
 
     ayer
-    
+
     el martes pasado
-    
+
     el martes
-    
+
     el viernes por la noche
-    
+
     el diecisiete de marzo
 
 ### Conversación
 
-Alfredo: Hola Verónica. ¿Cómo fue tu semana? 
+Alfredo: Hola, Verónica. ¿Cómo fue tu semana?
 
-Verónica: Fue muy bien. El lunes trabajé, pero desde el martes hasta ayer tuve vacaciones. 
-Estuve en Los Angeles toda la semana.
+Verónica: Fue muy bien. El lunes trabajé, pero desde el martes hasta ayer tuve vacaciones.
+Estuve en Los Ángeles toda la semana.
 
-A: Suena interesante. ¿Qué hiciste en Los Angeles?
+A: Suena interesante. ¿Qué hiciste en Los Ángeles?
 
 V: Hice muchas cosas diferentes. El martes por la noche fui a un restaurante en Sunset Boulevard. El
 miércoles por la mañana tomé un tren a Oxnard, y estuve allí todo el día. Por la noche volví a la ciudad,
-y fui a un concierto en Santa Monica. El jueves fui a la playa. El viernes visité a mi amiga Mary en
+y fui a un concierto en Santa Mónica. El jueves fui a la playa. El viernes visité a mi amiga Mary en
 Hollywood, y ayer volví a Washington DC. ¿Tú qué hiciste?
 
 A: Yo estuve aquí, en DC, toda la semana. Trabajé de lunes a viernes, pero por las noches hice muchas
-cosas, también: el lunes fui a un restaurante vegetariano nuevo en el centro. El martes estuve en casa, 
-y miré una película. El miércoles fui a cenar con mi amigo David. El jueves tuve un evento en mi trabajo, 
-y estuve allí hasta muy tarde. El viernes fui a un concierto de Norah Jones en el Club 9:30. Ayer no hice 
+cosas, también: el lunes fui a un restaurante vegetariano nuevo en el centro. El martes estuve en casa,
+y miré una película. El miércoles fui a cenar con mi amigo David. El jueves tuve un evento en mi trabajo,
+y estuve allí hasta muy tarde. El viernes fui a un concierto de Norah Jones en el Club 9:30. Ayer no hice
 nada, pero esta mañana desayuné en un restaurante con mi amiga Ann.
 
 ## Presente progresivo (present progressive)
@@ -125,22 +125,22 @@ Para construir el gerundio, en español, añadimos:
 
 *Nosotros estamos comiendo. Usted está abriendo la puerta.*
 
-Expresiones temporales típicas
+Expresiones temporales típicas:
 
 💂 Typical time expressions:
 
-    ahora 
-    
+    ahora
+
     hoy
 
 ### Conversación
 
 James: Lee, ¿qué está haciendo ahora tu hermano Antonio?
 
-Lee: Mi hermano Antonio está estudiando y trabajando en Baltimore. No está ganando mucho dinero en su trabajo, 
+Lee: Mi hermano Antonio está estudiando y trabajando en Baltimore. No está ganando mucho dinero en su trabajo,
 pero le gusta su universidad. ¿Qué está haciendo tu hermana Eliza?
 
-J: Eliza está viviendo en Vermont, con su esposo. Está trabajando en una oficina de abogados, y está 
+J: Eliza está viviendo en Vermont, con su esposo. Está trabajando en una oficina de abogados, y está
 bastante (quite) bien, en general.
 
 ## Pretérito imperfecto (imperfect)
@@ -160,11 +160,13 @@ más típicos.
 
 - Descripción (description):
 
-*En la fiesta, la gente bailaba y se divertía. Había mucha gente en la tienda.*
+*En la fiesta, la gente bailaba y se divertía.*
+
+*Había mucha gente en la tienda.*
 
 *El cielo estaba muy hermoso aquel día.*
 
-- Sentimientos, con el verbo *estar* (feelings, with the verb *estar*): 
+- Sentimientos, con el verbo *estar* (feelings, with the verb *estar*):
 
 *No fui porque estaba muy cansado.*
 
@@ -172,9 +174,9 @@ más típicos.
 
 ### Conversación
 
-Eduardo: Nuria, ¿dónde vivías antes de vivir en Seattle? 
+Eduardo: Nuria, ¿dónde vivías antes de vivir en Seattle?
 
-Nuria: Vivía en Portland, en Oregon. Me gustaba mucho. 
+Nuria: Vivía en Portland, en Oregón. Me gustaba mucho.
 
 E: ¿Qué hacías en Portland?
 
@@ -188,7 +190,7 @@ E: ¿Era muy caro tener un apartamento en Portland?
 
 N: No era barato, pero pienso que Seattle es más caro. ¿Dónde vivías tú antes, Eduardo?
 
-E: Yo vivía en Nueva York, y era carísimo. Vivía yo solo en un estudio, y pagaba más de dos mil dólares al mes. 
+E: Yo vivía en Nueva York, y era carísimo. Vivía yo solo en un estudio, y pagaba más de dos mil dólares al mes.
 Era ridículo.
 
 N: Es mucho. ¿Qué hacías en Nueva York?
@@ -213,59 +215,59 @@ la siguiente fórmula:
 💂 We use the future to express future actions. As we know, we can construct the future using
 the following formula:
 
-    Verbo ir (conjugado) + a + verbo de acción / Verb ir (conjugated) + a + action verb
+    Verbo ir (conjugado) + a + infinitivo / Verb ir (conjugated) + a + infinitive
 
-*Voy a mirar la televisión.* 
+*Voy a mirar la televisión.*
 
-*Juan va a ir a la cena.* 
+*Juan va a ir a la cena.*
 
-*Nosotros vamos a estudiar para el examen.* 
+*Nosotros vamos a estudiar para el examen.*
 
 Aquí tenemos algunas expresiones temporales que típicamente usamos con el futuro.
 
-💂 Here are some temporal expressions that we typically use with the future tense.
+💂 Here are some time expressions that we typically use with the future tense.
 
     mañana
-    
+
     esta noche
-    
+
     hoy (más tarde)
-    
-    el martes próximo 
-    
+
+    el martes próximo
+
     el martes que viene
 
 ### Conversación
 
-John: Hola Angie. ¿Qué vas a hacer el fin de semana que viene?
+John: Hola, Angie. ¿Qué vas a hacer el fin de semana que viene?
 
-Angie: Hola John. El viernes, después del trabajo, voy a ir al aeropuerto directamente para tomar un avión a Texas. 
+Angie: Hola, John. El viernes, después del trabajo, voy a ir al aeropuerto directamente para tomar un avión a Texas.
 Voy a visitar a mi tío, que vive en Fort Worth. ¿Tú qué vas a hacer?
 
-J: Yo voy a quedarme (to stay) en la ciudad. El viernes, probablemente voy a ir a un restaurante con Mike y Sara, 
-dos de mis compañeros de trabajo, y el sábado por la mañana voy a ir a una clase de yoga. ¿Qué actividades 
+J: Yo voy a quedarme (to stay) en la ciudad. El viernes, probablemente voy a ir a un restaurante con Mike y Sara,
+dos de mis compañeros de trabajo, y el sábado por la mañana voy a ir a una clase de yoga. ¿Qué actividades
 vas a hacer en Texas?
 
-A: El sábado por la mañana voy a ir a desayunar con mi tío, y voy a estar con él todo el día. Por la noche voy a 
-manejar a Dallas, quiero ver a mis amigos Adrián y Jimmy, que viven allá. Probablemente vamos a caminar por la 
-ciudad por un rato (a while) y, más tarde, vamos a ir a cenar al nuevo restaurante de Stephan Pyles, la gente 
+A: El sábado por la mañana voy a ir a desayunar con mi tío, y voy a estar con él todo el día. Por la noche voy a
+manejar (to drive) a Dallas, quiero ver a mis amigos Adrián y Jimmy, que viven allá. Probablemente vamos a caminar por la
+ciudad por un rato (a while) y, más tarde, vamos a ir a cenar al nuevo restaurante de Stephan Pyles, la gente
 dice (people say) que es muy bueno. ¿Qué vas a hacer tú el sábado por la noche?
 
-J: El sábado por la noche voy a ir a un evento de ping pong en el centro; va a ser divertido. Un sábado al mes, 
-varios amigos nos juntamos (get together) para jugar al ping pong en un club. Después de jugar, probablemente 
+J: El sábado por la noche voy a ir a un evento de ping-pong en el centro; va a ser divertido. Un sábado al mes,
+varios amigos nos juntamos (get together) para jugar al ping-pong en un club. Después de jugar, probablemente
 vamos a ir a cenar a un restaurante italiano que hay muy cerca de allí. ¿A qué hora vas a volver a la ciudad el domingo?
 
-A: Mi avión aterriza (lands) a las siete de la tarde.*
+A: Mi avión aterriza (lands) a las siete de la tarde.
 
-> *Igual que en inglés, es común en español usar el presente con valor de futuro. *María llega a las siete* (mañana). 
-*Juan está aquí desde el martes hasta el domingo* (próximos). Hacemos esto, tanto en inglés como en español, 
-cuando queremos enfatizar la información más que la acción: *El restaurante abre a las 8* (esta noche). 
-*Mi tren sale a las 3* (esta tarde).
+> Igual que en inglés, es común en español usar el presente con valor de futuro. *María llega a las siete* (mañana).
+> *Juan está aquí desde el martes hasta el domingo* (próximos). Hacemos esto, tanto en inglés como en español,
+> cuando queremos enfatizar la información más que la acción: *El restaurante abre a las 8* (esta noche).
+> *Mi tren sale a las 3* (esta tarde).
 
-> *💂 As in English, it is common in Spanish to use the present tense with a future value. *María llega a las siete* (tomorrow).
-*Juan está aquí desde el martes hasta el domingo* (next Tuesday through next Sunday). We do this in both English and Spanish
-when we want to emphasize the information rather than the action: *The restaurant opens at 8* (tonight). 
-*My train leaves at 3* (this afternoon).
+> 💂 As in English, it is common in Spanish to use the present tense with a future value. *María llega a las siete* (tomorrow).
+> *Juan está aquí desde el martes hasta el domingo* (next Tuesday through next Sunday). We do this in both English and Spanish
+> when we want to emphasize the information rather than the action: *The restaurant opens at 8* (tonight).
+> *My train leaves at 3* (this afternoon).
 
 # Homework
 

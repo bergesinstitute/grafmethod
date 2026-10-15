@@ -1,4 +1,4 @@
-# Answer key — Book 4, Unit 2
+# Answer key - Book 4, Unit 2
 
 ## 1. Objeto directo (de cosa)
 
@@ -55,7 +55,7 @@
 2. Le regalé un libro.
 3. Me hicieron una pregunta.
 4. Les mostré el apartamento.
-5. Ella me lo contó.
+5. Ella me contó eso.
 6. ¿Les enseñamos los nuevos conceptos?
 7. Me explicaron el plan.
 8. Sarah les vendió un carro.
@@ -65,16 +65,16 @@
 
 ## 5. Explicar en español qué es un objeto directo y qué es un objeto indirecto
 
-Un **objeto directo** es la persona o cosa que recibe la acción del verbo directamente. Un **objeto indirecto** es la persona que recibe la acción del verbo indirectamente.
+Un objeto directo es la persona o cosa que recibe la acción del verbo directamente. Un objeto indirecto es la persona que recibe la acción del verbo indirectamente.
 
-**Verbos que no admiten objeto** (intransitivos): *dormir, ir, nadar, correr, llegar, trabajar.* No podemos "dormir una manzana" o "ir una manzana." La oración tiene un sentido completo sin objeto.
+Verbos que no admiten objeto (intransitivos): *dormir, ir, nadar, correr, llegar, trabajar.* No podemos *dormir una manzana* o *ir una manzana.* La oración tiene un sentido completo sin objeto.
 
 > Ejemplo: *Yo duermo. Voy al parque. María nada cada día.*
 
-**Verbos que admiten objeto directo** (transitivos): *comprar, comer, llamar, visitar, lavar, llevar, mirar, conocer, ayudar.* Estos verbos necesitan (o aceptan) un objeto que recibe directamente la acción.
+Verbos que admiten objeto directo (transitivos): *comprar, comer, llamar, visitar, lavar, llevar, mirar, conocer, ayudar.* Estos verbos necesitan (o aceptan) un objeto que recibe directamente la acción.
 
 > Ejemplos: *Compro un libro* (OD: un libro). *Llamo a María* (OD: María, persona, lleva la *a* personal).
 
-**Verbos que admiten objeto directo y objeto indirecto:** *dar, regalar, decir, contar, enviar, explicar, mostrar, enseñar, preguntar, pedir.* Estos verbos tienen una cosa que recibe la acción directamente y una persona que la recibe indirectamente.
+Verbos que admiten objeto directo y objeto indirecto: *dar, regalar, decir, contar, enviar, explicar, mostrar, enseñar, preguntar, pedir.* Estos verbos tienen una cosa que recibe la acción directamente y una persona que la recibe indirectamente.
 
 > Ejemplos: *Doy un libro a María* (OD: un libro; OI: a María). *Explico el problema a mi hermano* (OD: el problema; OI: a mi hermano).

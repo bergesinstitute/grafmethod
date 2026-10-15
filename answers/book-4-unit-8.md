@@ -1,4 +1,4 @@
-# Answer key — Book 4, Unit 8
+# Answer key - Book 4, Unit 8
 
 ## 1. Traducir
 
@@ -29,7 +29,7 @@ The verb *pedir* never uses a preposition.
 1. Yo te quiero **pedir** un favor.
 2. ¿Te envié los documentos que me **pediste**?
 3. Cuando me **preguntas** sobre mi amiga, me pongo nervioso.
-4. Juan **pidió** pizza en el restaurante Pakistaní.
+4. Juan **pidió** pizza en el restaurante pakistaní.
 
 ## 4. Dos oraciones con pedir y dos con preguntar
 
@@ -78,11 +78,11 @@ Open-ended. Model sentences:
 10. Juan **le** regaló un libro. Juan **se** **lo** regaló.
 11. Alberto **le** contó la historia. Alberto **se** **la** contó.
 
-## 7. Comentario de texto — La almohada de plumas
+## 7. Comentario de texto - La almohada de plumas
 
 1. Alicia era tímida y rubia. Jordán tenía un carácter muy distante: no hablaba mucho, pero amaba profundamente a Alicia.
 2. No, el doctor no pudo ayudar a Alicia. Los doctores la examinaron muchas veces, concluyeron que tenía una anemia inexplicable y no encontraron explicación ni tratamiento.
-3. Una noche Alicia tuvo una alucinación de un antropoide en la alfombra del cuarto que la miraba fijamente.
+3. Un día Alicia tuvo una alucinación de un antropoide en la alfombra del cuarto que la miraba fijamente.
 4. Sí, había mucha luz en la casa. Las luces estaban siempre encendidas (fúnebremente encendidas) en el cuarto y en la sala.
 5. El animal de la almohada bebía la sangre de Alicia: cada noche aplicaba sigilosamente su boca al cuello de ella.
 6. La historia termina muy mal: Alicia muere, completamente sin sangre, por un parásito monstruoso que vivía dentro de su almohada de plumas.

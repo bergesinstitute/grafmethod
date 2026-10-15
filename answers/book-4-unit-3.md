@@ -1,41 +1,41 @@
-# Answer key — Book 4, Unit 3
+# Answer key - Book 4, Unit 3
 
 ## 1. Indicar qué tipo de objetos hay
 
 A. No hay objeto. B. Hay OD. C. Hay OD + OI.
 
-1. Yo corro en el parque. — **A**
-2. Tú me diste un libro en tu casa. — **C** *(OD: un libro; OI: me)*
-3. Sara nos llamó ayer a las 3 de la mañana. — **B** *(OD: nos)*
-4. Siempre canto una canción. — **B** *(OD: una canción)*
-5. No lo tengo. — **B** *(OD: lo)*
-6. No sé. — **A**
-7. No lo sé. — **B** *(OD: lo)*
-8. Siempre me dices la verdad. — **C** *(OD: la verdad; OI: me)*
-9. Nunca nos duchamos por la noche. — **B** *(OD: nos, reflexivo)*
-10. A veces Juan nos regalaba flores. — **C** *(OD: flores; OI: nos)*
-11. Caminé muy lentamente en la avenida. — **A**
+1. Yo corro en el parque. - **A**
+2. Tú me diste un libro en tu casa. - **C** *(OD: un libro; OI: me)*
+3. Sara nos llamó ayer a las 3 de la mañana. - **B** *(OD: nos)*
+4. Siempre canto una canción. - **B** *(OD: una canción)*
+5. No lo tengo. - **B** *(OD: lo)*
+6. No sé. - **A**
+7. No lo sé. - **B** *(OD: lo)*
+8. Siempre me dices la verdad. - **C** *(OD: la verdad; OI: me)*
+9. Nunca nos duchamos por la noche. - **B** *(OD: nos, reflexivo)*
+10. A veces Juan nos regalaba flores. - **C** *(OD: flores; OI: nos)*
+11. Caminé muy lentamente en la avenida. - **A**
 
 ## 2. Identificar OD y OI
 
-1. ¿**Me** llamaste ayer? — OD: me
-2. El martes **te** **lo** expliqué. — OD: lo; OI: te
-3. El matemático enseñó **a la clase** **la nueva fórmula**. — OD: la nueva fórmula; OI: a la clase
-4. Apple mostró **al público** **el nuevo teléfono inteligente**. — OD: el nuevo teléfono inteligente; OI: al público
-5. Ella **me** miraba fijamente. — OD: me
-6. Nosotros **lo** teníamos muy fácil. — OD: lo
-7. El artista nunca **le** dedicaba **las canciones**. — OD: las canciones; OI: le
-8. El compositor Max P **me** compuso **una cavatina** para mi debut en la ópera. — OD: una cavatina; OI: me
-9. ¿**Te** rompiste **una pierna** en la montaña? — OD: una pierna; OI: te (reflexivo)
-10. Perdimos **a nuestro compañero** en la expedición en la Antártida. — OD: a nuestro compañero
-11. Nunca **me** **lo** explicaste. — OD: lo; OI: me
+1. ¿**Me** llamaste ayer? - OD: me
+2. El martes **te** **lo** expliqué. - OD: lo; OI: te
+3. El matemático enseñó **a la clase** **la nueva fórmula**. - OD: la nueva fórmula; OI: a la clase
+4. Apple mostró **al público** **el nuevo teléfono inteligente**. - OD: el nuevo teléfono inteligente; OI: al público
+5. Ella **me** miraba fijamente. - OD: me
+6. Nosotros **lo** teníamos muy fácil. - OD: lo
+7. El artista nunca **le** dedicaba **las canciones**. - OD: las canciones; OI: le
+8. El compositor Max P **me** compuso **una cavatina** para mi debut en la ópera. - OD: una cavatina; OI: me
+9. ¿**Te** rompiste **una pierna** en la montaña? - OD: una pierna; OI: te (reflexivo)
+10. Perdimos **a nuestro compañero** en la expedición en la Antártida. - OD: a nuestro compañero
+11. Nunca **me** **lo** explicaste. - OD: lo; OI: me
 
 ## 3. Traducir
 
 1. Tú me enseñaste la lección. Tú me la enseñaste.
 2. Tú no les contaste el secreto. ¿Nos lo contaste?
 3. Le vendí una rosa. No se la di.
-4. Te voy a comprar una casa en South Carolina.
+4. Te voy a comprar una casa en Carolina del Sur.
 5. Los lunes me dices esto, los martes me dices eso.
 6. ¿Me lo puedes decir? (*or* ¿Puedes decírmelo?)
 7. Estoy enviando este paquete a Sarah. Se lo estoy enviando. (*or* Estoy enviándoselo.)

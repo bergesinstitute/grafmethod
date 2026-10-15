@@ -2,23 +2,23 @@
 
 ## Los pronombres dobles
 
-En las oraciones con objeto indirecto, muchas veces usamos pronombre doble (usamos el pronombre de objeto 
+En las oraciones con objeto indirecto, muchas veces usamos pronombre doble (usamos el pronombre de objeto
 directo y también el de objeto indirecto). En este caso tenemos dos reglas.
 
-💂 In sentences with indirect object, we often use a double pronoun 
+💂 In sentences with indirect object, we often use a double pronoun
 (we use the direct object pronoun and also the indirect object pronoun). In this case we have two rules.
 
 1. El pronombre de OI (la persona) siempre va primero. 💂 The IO pronoun (the person) always goes first.
-2. En la tercera persona, en lugar de *le/les* usamos *se*. 💂 In the third person, instead of *le/les* we use *se*.
+2. En la tercera persona, en lugar de *le/les* usamos *se.* 💂 In the third person, instead of *le/les* we use *se.*
 
-Los pronombres de OI, cuando usamos pronombre doble, son: 
+Los pronombres de OI, cuando usamos pronombre doble, son:
 
 💂 The IO pronouns, when using double pronoun, are:
 
     me
-    
+
     te
-    
+
     se
 
     nos
@@ -46,17 +46,17 @@ Formato: Sin pronombre de OD u OI. Con pronombre de OI. Con pronombre doble.
 ## Más ejemplos
 
 *Juan compra un carro rojo a Laura. Juan le compra un carro rojo. Juan se lo compra.*
-(Juan buys Laura a red car. Juan buys her a red car. Juan buys it to her.) OD: un carro rojo. OI: Laura.
+(Juan buys Laura a red car. Juan buys her a red car. Juan buys it for her. Lit. "Juan buys it to her.") OD: un carro rojo. OI: Laura.
 
 *Yo cuento una historia a mi hermana. Yo le cuento una historia. Yo se la cuento.*
 (I tell my sister a story. I tell her a story. "I tell it to her.") OD: una historia. OI: mi hermana.
 
-*Nosotros explicamos la lección a ellos. Nosotros les explicamos la lección. Nosotros se la explicamos.* 
-(We explain the lesson to them. “We explain them the lesson.” We explain it to them.) OD: la lección. OI: ellos.
+*Nosotros explicamos la lección a ellos. Nosotros les explicamos la lección. Nosotros se la explicamos.*
+(We explain the lesson to them. "We explain them the lesson." We explain it to them.) OD: la lección. OI: ellos.
 
 # Pronombres reflexivos en español (reflexive pronouns in Spanish)
 
-Los pronombres reflexivos son: 
+Los pronombres reflexivos son:
 
 💂 Reflexive pronouns are:
 
@@ -72,7 +72,7 @@ Los pronombres reflexivos son:
 
     se
 
-Cuando usamos verbos reflexivos, el sujeto y el objeto siempre son la misma persona. 
+Cuando usamos verbos reflexivos, el sujeto y el objeto siempre son la misma persona.
 El objeto puede ser directo (OD) o indirecto (OI), pero no nos importa. El pronombre siempre es el mismo.
 
 💂 When we use reflexive verbs, the subject and object are always the same person.
@@ -84,6 +84,16 @@ The object can be direct (DO) or indirect (IO), but we don't care. The pronoun i
 *Juan se compra 5 libros por Navidad.*
 (Juan buys himself 5 books for Christmas.) Sujeto: Juan. OD: 5 libros. OI: Juan.
 
+> En muchos verbos reflexivos, en realidad, el pronombre no tiene función sintáctica. En *nos vamos,*
+> *nos* no es un objeto: el pronombre es simplemente parte del verbo
+> (*irse*). Lo mismo pasa con *quedarse, dormirse* o *llamarse.* Los gramáticos llaman a estos verbos
+> *pronominales.* En la práctica, todos se conjugan igual, así que no es necesario distinguirlos.
+
+> 💂 In many reflexive verbs the pronoun actually has no syntactic function. In *nos vamos,* *nos* is not
+> an object: the pronoun is simply part of the verb (*irse*). The same
+> happens with *quedarse, dormirse* or *llamarse.* Grammarians call these verbs *pronominal.* In practice,
+> they are all conjugated the same way, so there is no need to tell them apart.
+
 # Pronombres con verbos en infinitivo y gerundio (pronouns with verbs in their infinitive or gerund form)
 
 ## Dos opciones
@@ -94,11 +104,11 @@ Tenemos dos opciones, con todos los pronombres: objeto directo (OD), objeto indi
 
 ### 1. Podemos poner el pronombre antes del verbo o de los verbos
 
-💂 We can place the pronoun before the first verb/verbs.
+💂 We can place the pronoun before the verb or verbs.
 
 *Yo no te puedo llamar.* (I cannot call you.)
 
-*Él se lo quiere regalar.* (He wants to give it to him.) 
+*Él se lo quiere regalar.* (He wants to give it to him.)
 
 *Nosotros lo estamos comprando.* (We are buying it.)
 
@@ -118,53 +128,53 @@ Tenemos dos opciones, con todos los pronombres: objeto directo (OD), objeto indi
 
 ### Presente
 
-    digo 
-    
-    dices 
-    
-    dice 
-    
-    decimos 
-    
-    (decís) 
-    
+    digo
+
+    dices
+
+    dice
+
+    decimos
+
+    (decís)
+
     dicen
 
 ### Pretérito perfecto
 
-    dije 
-    
-    dijiste 
-    
-    dijo 
-    
-    dijimos 
-    
-    (dijisteis) 
-    
+    dije
+
+    dijiste
+
+    dijo
+
+    dijimos
+
+    (dijisteis)
+
     dijeron
 
 ### Pretérito imperfecto (es regular)
 
     decía
-    
-    decías 
-    
-    decía 
-    
-    decíamos 
-    
-    (decíais) 
-    
+
+    decías
+
+    decía
+
+    decíamos
+
+    (decíais)
+
     decían
 
-Admite objeto directo e indirecto. 
+Admite objeto directo e indirecto.
 
-💂 Takes both direct and indirect object.
+💂 It takes both a direct and an indirect object.
 
 *Él lo dijo.* (He said it.)
 
-*Él se lo dijo. (He told him something.* Lit. “He said/told it to him.”)
+*Él se lo dijo.* (He told him something. Lit. "He said/told it to him.")
 
 *Yo te dije que tenía una casa grande.* (I told you/said to you that I had a big house.)
 
@@ -200,29 +210,29 @@ Admite objeto directo e indirecto.
 
 ### Pretérito imperfecto (es regular)
 
-    daba 
-    
-    dabas 
-    
-    daba 
-    
-    dábamos 
-    
-    (dabais) 
-    
+    daba
+
+    dabas
+
+    daba
+
+    dábamos
+
+    (dabais)
+
     daban
 
 Casi siempre tiene objeto directo y objeto indirecto (damos cosas, OD, a personas, OI).
 
 💂 It almost always has a direct object and an indirect object (we give things, DO, to people, IO).
 
-*Yo te doy el libro. Yo te lo doy.* 
+*Yo te doy el libro. Yo te lo doy.*
 (I give you the book. I give it to you.)
 
-*Tú le das el libro. Tú se lo das.* 
+*Tú le das el libro. Tú se lo das.*
 (You give him the book. You give it to him.)
 
-*Él me dio las llaves. Él me las dio.* 
+*Él me dio las llaves. Él me las dio.*
 (He gave me the keys. He gave them to me.)
 
 # Homework
@@ -231,7 +241,7 @@ Casi siempre tiene objeto directo y objeto indirecto (damos cosas, OD, a persona
 
 Hay tres posibilidades: A. No hay objeto. B. Hay objeto directo. C. Hay objeto directo y objeto indirecto.
 
-💂 There are three possibilities: A. There is no object. B. There is a direct object. 
+💂 There are three possibilities: A. There is no object. B. There is a direct object.
 C. There is a direct object and an indirect object.
 
 1. Yo corro en el parque.
@@ -262,17 +272,17 @@ C. There is a direct object and an indirect object.
 10. Perdimos a nuestro compañero en la expedición en la Antártida.
 11. Nunca me lo explicaste.
 
-## 3. Traducir (objeto indirecto, i.e. persona + objeto directo, i.e. cosa). Puedes usar un diccionario.
+## 3. Traducir (objeto indirecto, es decir, persona + objeto directo, es decir, cosa). Puedes usar un diccionario.
 
 1. You taught me the lesson. You "taught it to me".
-2. You did not tell them the secret. Did you "tell it to us"? (Use *contar*.)
-3. I sold her a rose. I did not give it to her. (Use *dar*.)
+2. You did not tell them the secret. Did you "tell it to us"? (Use *contar.*)
+3. I sold her a rose. I did not give it to her. (Use *dar.*)
 4. I will buy you a house in South Carolina.
-5. On Mondays you tell me this, on Tuesdays you tell me that. (Use *decir*.)
-6. Can you "tell it to me"? (Use *decir*.)
+5. On Mondays you tell me this, on Tuesdays you tell me that. (Use *decir.*)
+6. Can you "tell it to me"? (Use *decir.*)
 7. I am sending this package to Sarah. I am sending it to her.
-8. I will give it to you. (Use *dar*.)
-9. Can you give it to me? (Use *dar*.)
+8. I will give it to you. (Use *dar.*)
+9. Can you give it to me? (Use *dar.*)
 10. I promised (prometer) you a car. Do you want it?
 11. I asked her a question.
 
@@ -291,9 +301,9 @@ C. There is a direct object and an indirect object.
 11. They visited us last Friday. Ellos ____ visitaron el viernes pasado.
 12. Can you give it to me? ¿____ ____ puedes dar? ¿Puedes dár________?
 
-## 5. Escribir 5 oraciones con objeto directo y 5 con objeto directo e indirecto. Escribirlas con y sin pronombres.
+## 5. Escribir cinco oraciones con objeto directo y cinco con objeto directo e indirecto. Escribirlas con y sin pronombres.
 
-💂 Write 5 sentences with direct object and 5 sentences with direct and indirect object. 
+💂 Write 5 sentences with direct object and 5 sentences with direct and indirect object.
 Write them with and without pronouns.
 
 Ejemplos:

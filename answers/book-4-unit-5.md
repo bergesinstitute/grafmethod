@@ -1,10 +1,10 @@
-# Answer key — Book 4, Unit 5
+# Answer key - Book 4, Unit 5
 
 ## 1. Responder
 
 Open-ended. Sample answers:
 
-1. Necesito aproximadamente cuarenta horas para ir desde Nueva York hasta Ciudad de México en carro.
+1. Necesito aproximadamente cuarenta horas para ir desde Nueva York hasta la Ciudad de México en carro.
 2. **B**: Como en el restaurante. (En español usamos *en* para ubicación, no *a*. La opción A es incorrecta.)
 3. Prefiero usar palillos para comer sushi.
 4. No, casi nunca llego tarde a mi trabajo.
@@ -48,12 +48,12 @@ Open-ended. Sample answers:
 10. **Se** **la** enviarán mañana por la mañana.
 11. **Te** **lo** explicaré.
 
-## 4. Comentario de texto — El flautista de Hamelin
+## 4. Comentario de texto - El flautista de Hamelín
 
-1. Hamelin estaba en Alemania.
-2. El problema principal era que en Hamelin había muchísimas ratas.
-3. La reacción del alcalde no fue correcta: prometió diez mil florines al flautista pero después se negó a pagarle, ofreciéndole solamente veinte como máximo.
+1. Hamelín estaba en Alemania.
+2. El problema principal era que en Hamelín había muchísimas ratas.
+3. La reacción del alcalde no fue correcta: prometió diez mil florines al flautista, pero después se negó a pagarle, ofreciéndole solamente veinte como máximo.
 4. La reacción del flautista tampoco fue correcta. Llevarse a los niños inocentes de la ciudad como venganza fue una respuesta cruel y desproporcionada. Los niños no eran responsables de la decisión del alcalde.
 5. El flautista era muy alto y muy delgado. Llevaba ropa de muchos colores, una pluma marrón en su sombrero y una flauta.
-6. La historia termina mal: los niños de Hamelin desaparecieron y nadie supo nunca dónde fueron.
-7. Es muy importante cumplir las promesas, especialmente cuando alguien nos ha ayudado. Pero también pienso que la venganza del flautista fue excesiva. Castigó a personas inocentes por las decisiones de los líderes.
+6. La historia termina mal: los niños de Hamelín desaparecieron y nadie supo nunca dónde fueron.
+7. Es muy importante cumplir las promesas, especialmente cuando alguien nos ayuda. Pero también pienso que la venganza del flautista fue excesiva. Castigó a personas inocentes por las decisiones de los líderes.

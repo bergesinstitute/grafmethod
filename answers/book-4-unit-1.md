@@ -1,4 +1,4 @@
-# Answer key — Book 4, Unit 1
+# Answer key - Book 4, Unit 1
 
 ## 1. Completar, usando presente
 
@@ -21,7 +21,7 @@
 4. Puedo bailar muy bien.
 5. ¿Quieres llamar a Mary?
 6. Siempre visito a Phillip en Chicago.
-7. Mi amiga Sue es de Los Angeles.
+7. Mi amiga Sue es de Los Ángeles.
 8. A veces ella camina en el parque.
 
 ## 3. Completar, usando pretérito perfecto
