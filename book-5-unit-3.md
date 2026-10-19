@@ -245,28 +245,28 @@ Hay una excepción: los pretéritos irregulares con J (*dije, traje*) no añaden
 
 # Unas palabras de ánimo (a few words of encouragement)
 
-> Si todo esto te parece difícil, es normal. Solo dos ideas:
->
-> 1. El subjuntivo es una parte pequeña de la lengua: la gran mayoría de los verbos que usamos no están
-> en subjuntivo. Ni siquiera podemos practicar *hablar en subjuntivo,* como hacemos, por ejemplo, con el
-> pretérito perfecto, porque no es un tiempo: es un modo, una especie de forma alternativa del verbo que solo
-> usamos en ciertas construcciones.
->
-> 2. Muchas personas que hablan español a un nivel casi nativo todavía cometen errores con el subjuntivo.
->
-> Así que es importante aprender las conjugaciones y los usos, pero no es necesario obsesionarse con usarlo
-> siempre bien.
+Si todo esto te parece difícil, es normal. Solo dos ideas:
 
-> 💂 If all this feels daunting, that's normal. Just two thoughts:
->
-> 1. The subjunctive is a small part of the language: the vast majority of the verbs we use are not in the
-> subjunctive. We can't even practice *speaking in the subjunctive,* as we do with, say, the preterite,
-> because it is not a tense: it is a mood, a sort of alternate form of the verb that we only use in
-> certain constructions.
->
-> 2. Many people who speak Spanish at an almost native-like level still make mistakes with the subjunctive.
->
-> So, learn the conjugations and the uses, but don't obsess about always getting it right.
+1. El subjuntivo es una parte pequeña de la lengua: la gran mayoría de los verbos que usamos no están
+en subjuntivo. Ni siquiera podemos practicar *hablar en subjuntivo,* como hacemos, por ejemplo, con el
+pretérito perfecto, porque no es un tiempo: es un modo, una especie de forma alternativa del verbo que solo
+usamos en ciertas construcciones.
+
+2. Muchas personas que hablan español a un nivel casi nativo todavía cometen errores con el subjuntivo.
+
+Así que es importante aprender las conjugaciones y los usos, pero no es necesario obsesionarse con usarlo
+siempre bien.
+
+💂 If all this feels daunting, that's normal. Just two thoughts:
+
+1. The subjunctive is a small part of the language: the vast majority of the verbs we use are not in the
+subjunctive. We can't even practice *speaking in the subjunctive,* as we do with, say, the preterite,
+because it is not a tense: it is a mood, a sort of alternate form of the verb that we only use in
+certain constructions.
+
+2. Many people who speak Spanish at an almost native-like level still make mistakes with the subjunctive.
+
+So, learn the conjugations and the uses, but don't obsess about always getting it right.
 
 # Homework
 
