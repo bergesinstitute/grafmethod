@@ -53,33 +53,3 @@ Ejemplos en español: *sábado, esdrújula, película, estábamos.*
 Regla: siempre tienen acento.
 
 💂 Rule: they always have an accent mark.
-
-# Usos de se (uses of se)
-
-Estos son los principales:
-
-💂 These are the main ones:
-
-- *Le* o *les* pasa a ser *se* en los pronombres dobles.
-
-💂 *Le* or *les* becomes *se* in double pronouns.
-
-*Yo le doy un regalo. Yo se lo doy.*
-
-- *Se* impersonal.
-
-💂 Impersonal *se.*
-
-*¿Cómo se dice rata en inglés?*
-
-- *Se* reflexivo.
-
-💂 Reflexive *se.*
-
-*Juan se levanta a las diez.*
-
-Puede funcionar como pronombre recíproco.
-
-💂 It can work as a reciprocal pronoun.
-
-*Juan y Laura se besan.*
