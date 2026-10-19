@@ -1,4 +1,4 @@
-# Answer key — Book 5, Unit 7
+# Answer key - Book 5, Unit 7
 
 ## 1. Traducir
 
@@ -61,11 +61,11 @@ Open-ended. A model ad:
 5. No **vayan** a ese restaurante, la comida no es muy buena.
 6. No **tengan** miedo.
 
-## 6. Comentario de texto — Alí Babá y los cuarenta ladrones
+## 6. Comentario de texto - Alí Babá y los cuarenta ladrones
 
 1. Alí Babá era leñador, trabajador, bueno y honesto, pero pobre. Su hermano Kassim era deshonesto, perezoso y malo.
 2. Abrían y cerraban la entrada de la cueva con palabras mágicas: "Ábrete, Sésamo" para abrir la roca, "Ciérrate, Sésamo" para cerrarla.
-3. Kassim quedó atrapado dentro de la cueva porque olvidó la palabra "Sésamo".
+3. Kassim quedó atrapado dentro de la cueva porque olvidó la palabra "Sésamo". Los ladrones lo encontraron, lo asesinaron y cortaron su cuerpo en cuatro cuartos.
 4. Los ladrones descubrieron la dirección porque hablaron con Mustafá, el zapatero.
 5. El plan era que un ladrón se disfrazaría de comerciante de aceite y llegaría a la casa de Alí Babá con cuarenta barriles: uno con aceite y treinta y nueve con ladrones escondidos dentro. Por la noche, el ladrón disfrazado avisaría a los otros, que saldrían y asesinarían a Alí Babá.
 6. Morgiana, la criada, descubrió a los ladrones cuando fue a buscar aceite para una lámpara. Calentó el aceite del único barril que realmente tenía aceite y echó aceite hirviendo en los treinta y nueve barriles donde estaban escondidos los ladrones.

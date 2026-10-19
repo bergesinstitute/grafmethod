@@ -1,4 +1,4 @@
-# Answer key — Book 5, Unit 5
+# Answer key - Book 5, Unit 5
 
 ## 1. Traducir
 
@@ -13,9 +13,9 @@
 9. Iría a la fiesta, pero estoy realmente ocupado.
 10. Si tuviera una casa en la playa, iría allí cada fin de semana.
 11. Si mi hermana me visitara más a menudo, tendría una mejor relación con ella.
-12. No sé cómo sería mi vida si viviera en Los Angeles; probablemente sería muy diferente.
+12. No sé cómo sería mi vida si viviera en Los Ángeles; probablemente sería muy diferente.
 
-## 2. Si yo tuviera veinte millones de dólares…
+## 2. Si yo tuviera veinte millones de dólares...
 
 Open-ended. A model answer:
 
@@ -31,7 +31,7 @@ Open-ended. Sample answers:
 4. Sí, viviría en mi ciudad.
 5. Sí, me gustaría leer más libros.
 6. No, si pudiera ser un animal, sería un gato.
-7. No, si pudiera volver atrás en el tiempo, no habría elegido una carrera diferente.
+7. No, si pudiera volver atrás en el tiempo, no elegiría una carrera diferente.
 8. Si pudiera elegir, elegiría poder volar.
 9. Sí, me gustaría saber tocar la guitarra y el piano.
 10. Sí, estaría menos estresado si tomara menos café.

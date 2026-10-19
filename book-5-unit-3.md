@@ -4,179 +4,203 @@
 
 ### Cantar
 
-    cantara 
-    
-    cantaras 
-    
-    cantara 
-    
-    cantáramos 
-    
-    (cantarais) 
-    
+    cantara
+
+    cantaras
+
+    cantara
+
+    cantáramos
+
+    (cantarais)
+
     cantaran
+
+### Terminaciones de los verbos -ar (endings for -ar verbs)
+
+    -ara
+
+    -aras
+
+    -ara
+
+    -áramos
+
+    (-arais)
+
+    -aran
 
 ### Comer
 
-    comiera 
-    
-    comieras 
-    
-    comiera 
-    
-    comiéramos 
-    
-    (comierais) 
-    
+    comiera
+
+    comieras
+
+    comiera
+
+    comiéramos
+
+    (comierais)
+
     comieran
 
 ### Vivir
 
-    viviera 
-    
-    vivieras 
-    
-    viviera 
-    
-    viviéramos 
-    
-    (vivierais) 
-    
+    viviera
+
+    vivieras
+
+    viviera
+
+    viviéramos
+
+    (vivierais)
+
     vivieran
 
-> Los verbos *-er, -ir* usan los mismos sufijos.
+### Terminaciones de los verbos -er e -ir (endings for -er and -ir verbs)
 
-> 💂 Verbs *-er, -ir* use the same suffixes.
+    -iera
+
+    -ieras
+
+    -iera
+
+    -iéramos
+
+    (-ierais)
+
+    -ieran
 
 ## Verbos irregulares importantes (important irregular verbs)
 
 ### Ser
 
-    fuera 
-    
-    fueras 
-    
-    fuera 
-    
-    fuéramos 
-    
+    fuera
+
+    fueras
+
+    fuera
+
+    fuéramos
+
     (fuerais)
-    
+
     fueran
 
 ### Estar
 
-    estuviera 
-    
-    estuvieras 
-    
-    estuviera 
-    
-    estuviéramos 
-    
+    estuviera
+
+    estuvieras
+
+    estuviera
+
+    estuviéramos
+
     (estuvierais)
-    
+
     estuvieran
 
 ### Tener
 
-    tuviera 
-    
-    tuvieras 
-    
-    tuviera 
-    
-    tuviéramos 
-    
-    (tuvierais) 
-    
+    tuviera
+
+    tuvieras
+
+    tuviera
+
+    tuviéramos
+
+    (tuvierais)
+
     tuvieran
 
 ### Ir
 
-    fuera 
-    
-    fueras 
-    
-    fuera 
-    
-    fuéramos 
-    
+    fuera
+
+    fueras
+
+    fuera
+
+    fuéramos
+
     (fuerais)
-    
+
     fueran
 
 ### Hacer
 
-    hiciera 
-    
-    hicieras 
-    
-    hiciera 
-    
-    hiciéramos 
-    
+    hiciera
+
+    hicieras
+
+    hiciera
+
+    hiciéramos
+
     (hicierais)
-    
+
     hicieran
 
-Todos están formados a partir de la forma irregular del pretérito perfecto simple de indicativo:* *Hice => Hiciera. 
-Tuve => Tuviera.* Esto pasa con todos los verbos que son irregulares en pretérito perfecto: *Quiso => Quisiera. 
+Todos están formados a partir de la forma irregular del pretérito perfecto simple de indicativo: *Hice => Hiciera.
+Tuve => Tuviera.* Esto pasa con todos los verbos que son irregulares en pretérito perfecto: *Quiso => Quisiera.
 Pudimos => Pudiéramos. Dieron => Dieran.* Etc.
 
-💂 They are all formed from the irregular form of the *pretérito perfecto simple de indicativo:\* Hice => Hiciera.
+💂 They are all formed from the irregular form of the *pretérito perfecto simple de indicativo:* *Hice => Hiciera.
 Tuve => Tuviera.* This happens with all verbs that are irregular in the preterite: *Quiso => Quisiera.
 Pudimos => Pudiéramos. Dieron => Dieran.* Etc.
 
-> *Todo lo que no es subjuntivo se llama *indicativo*.
+> El modo estándar, el que usamos por defecto, se llama *indicativo.*
 
-> *💂 Everything that is not subjunctive is called *indicative*.
+> 💂 The standard mood, the one we use by default, is called *indicative.*
 
-> El imperfecto de subjuntivo tiene una forma alternativa que todavía está en uso: *cantase, cantases, 
-cantase, cantásemos, (cantaseis), cantasen. Comiese, comieses, comiese, comiésemos, (comieseis), comiesen.* 
-Es igual para los irregulares (*fuese, tuviese,* etc.)
+> El imperfecto de subjuntivo tiene una forma alternativa que todavía está en uso: *cantase, cantases,
+> cantase, cantásemos, (cantaseis), cantasen. Comiese, comieses, comiese, comiésemos, (comieseis), comiesen.*
+> Es igual para los irregulares (*fuese, tuviese,* etc.).
 
 > 💂 The imperfect subjunctive has an alternative form that is still in use: *cantase, cantases,
-cantase, cantásemos, (cantaseis), canten. Comiese, comieses, comiese, comiésemos, (comieseis), comiesen.*
-It is the same for irregulars verbs (*fuese, tuviese,* etc.).
+> cantase, cantásemos, (cantaseis), cantasen. Comiese, comieses, comiese, comiésemos, (comieseis), comiesen.*
+> It is the same for irregular verbs (*fuese, tuviese,* etc.).
 
 # Uso de los diferentes tiempos de subjuntivo (use of the different subjunctive tenses)
 
-El subjuntivo no es tan completo como el indicativo. Sólo tenemos dos tiempos: presente e imperfecto 
-(existen otros tiempos, pero están en desuso). Los usaremos de la siguiente manera:
+El subjuntivo no es tan completo como el indicativo. Solo tenemos dos tiempos simples: presente e imperfecto
+(el futuro de subjuntivo existe, pero está en desuso). Los usaremos de la siguiente manera:
 
-💂 The subjunctive is not as complete as the indicative. We only have two tenses: present and imperfect
-(there are other tenses, but they are in disuse). We will use them as follows:
+💂 The subjunctive is not as complete as the indicative. We only have two simple tenses: present and imperfect
+(the future subjunctive exists, but it has fallen out of use). We will use them as follows:
 
-- Para presente o futuro: Usaremos presente de subjuntivo.
+- Para presente o futuro: usaremos presente de subjuntivo.
 
-💂 For present or future: We will use the present subjunctive.
+💂 For present or future: we will use the present subjunctive.
 
 *Sé que Juan está en su casa. => Dudo que Juan esté en su casa.*
 
 *Sé que Juan estará en su casa mañana. => Dudo que Juan esté en su casa mañana.*
 
-- Para pasado (imperfecto o perfecto, no importa): Usaremos imperfecto de subjuntivo.
+- Para pasado (imperfecto o perfecto, no importa): usaremos imperfecto de subjuntivo.
 
-💂 For past (imperfect or perfect, it doesn't matter): We will use imperfect subjunctive.
+💂 For past (imperfect or perfect, it doesn't matter): we will use the imperfect subjunctive.
 
 *Sé que Juan estuvo en su casa ayer a las cinco. => Dudo que Juan estuviera en su casa ayer a las cinco.*
 
 *Sé que Juan antes siempre estaba en su casa. => Dudo que Juan antes siempre estuviera en su casa.*
 
-> El tiempo en que dudamos, deseamos, etc. no necesita corresponderse con el subjuntivo. En las oraciones 
-*deseo que mañana Juan llame* y *desearé que mañana Juan llame,* Juan estará igualmente llamando en el futuro, 
-no importa si yo lo deseo hoy o mañana.
+> El tiempo en que dudamos, deseamos, etc. no necesita corresponderse con el subjuntivo. En las oraciones
+> *deseo que mañana Juan llame* y *desearé que mañana Juan llame,* Juan estará igualmente llamando en el futuro,
+> no importa si yo lo deseo hoy o mañana.
 
 > 💂 The tense in which we doubt, wish, etc. need not correspond to the subjunctive one. In the sentences
-*deseo que mañana Juan llame* and *desearé que mañana Juan llame,* Juan will equally be calling in the future,
-it doesn't matter if I wish it today or tomorrow.
+> *deseo que mañana Juan llame* and *desearé que mañana Juan llame,* Juan will equally be calling in the future;
+> it doesn't matter whether I wish it today or tomorrow.
 
 # Verbos con modo subjuntivo irregular (verbs with irregular subjunctive mood)
 
 ## Cómo funciona (how it works)
 
-Generalmente, los verbos que son irregulares en el presente o en el pretérito perfecto lo son en el 
+Generalmente, los verbos que son irregulares en el presente o en el pretérito perfecto lo son en el
 modo subjuntivo de la misma manera:
 
 💂 Generally, verbs that are irregular in the present or preterite tense are irregular in the
@@ -188,42 +212,67 @@ Yo puedo => Yo pueda. Nosotros dimos => Nosotros diéramos. Yo supe => Yo supier
 ## Querer (presente de subjuntivo)
 
     quiera
-    
+
     quieras
-    
+
     quiera
-    
-    queramos 
-    
+
+    queramos
+
     (queráis)
-    
+
     quieran
 
 ## Querer (imperfecto de subjuntivo)
 
     quisiera
-    
+
     quisieras
-    
-    quisiera 
-    
-    quisiéramos 
-    
-    (quisierais) 
-    
+
+    quisiera
+
+    quisiéramos
+
+    (quisierais)
+
     quisieran
 
-Hay una excepción: 
+Hay una excepción: los pretéritos irregulares con J (*dije, traje*) no añaden I.
 
-💂 There is one exception:
+💂 There is one exception: irregular preterites with J (*dije, traje*) do not add I.
 
-*Dije => Dijera*
+*Dije => Dijera. Traje => Trajera.*
+
+# Unas palabras de ánimo (a few words of encouragement)
+
+> Si todo esto te parece difícil, es normal. Solo dos ideas:
+>
+> 1. El subjuntivo es una parte pequeña de la lengua: la gran mayoría de los verbos que usamos no están
+> en subjuntivo. Ni siquiera podemos practicar *hablar en subjuntivo,* como hacemos, por ejemplo, con el
+> pretérito perfecto, porque no es un tiempo: es un modo, una especie de forma alternativa del verbo que solo
+> usamos en ciertas construcciones.
+>
+> 2. Muchas personas que hablan español a un nivel casi nativo todavía cometen errores con el subjuntivo.
+>
+> Así que es importante aprender las conjugaciones y los usos, pero no es necesario obsesionarse con usarlo
+> siempre bien.
+
+> 💂 If all this feels daunting, that's normal. Just two thoughts:
+>
+> 1. The subjunctive is a small part of the language: the vast majority of the verbs we use are not in the
+> subjunctive. We can't even practice *speaking in the subjunctive,* as we do with, say, the preterite,
+> because it is not a tense: it is a mood, a sort of alternate form of the verb that we only use in
+> certain constructions.
+>
+> 2. Many people who speak Spanish at an almost native-like level still make mistakes with the subjunctive.
+>
+> So, learn the conjugations and the uses, but don't obsess about always getting it right.
 
 # Homework
 
-## 1. Completar, en imperfecto. No todas requieren subjuntivo.
+## 1. Completar, en pasado. No todas requieren subjuntivo.
 
-💂 Complete, in the imperfect tense. Not all require the subjunctive.
+💂 Complete, in the past tense. Not all require the subjunctive.
 
 1. Dudaba que Juan ___________ (llegar) a tiempo a la barbacoa.
 2. Le pedí que me ___________ (explicar) cómo ir al museo.
@@ -244,19 +293,23 @@ Hay una excepción:
 
 ## 2. Traducir
 
+💂 Translate.
+
 1. I hope my cousin will visit me next year.
 2. I hope they are fine.
 3. I doubt my sister is working right now.
 4. I knew she was cooking pasta.
-5. She wished he was nicer and more handsome.
+5. She wished he were nicer and more handsome.
 6. I always doubted that my cousin was a real lawyer.
-7. They asked me to help them with their problem. (Phrase it “They asked me that I help them.”)
+7. They asked me to help them with their problem. (Phrase it "They asked me that I help them.")
 8. They hope Madonna writes a new song.
 9. She believed he wasn't right (tener razón).
 10. She didn't believe they were here.
 11. I hope my shoes will arrive soon.
 
 ## 3. Conjugar (en imperfecto de subjuntivo)
+
+💂 Conjugate (in the imperfect subjunctive).
 
 - Desayunar
 - Hablar
@@ -271,7 +324,9 @@ Hay una excepción:
 - Subir
 - Recibir
 
-## 4. Escribir dos oraciones con “even though you (blank)" y dos con “even though you may (blank)”
+## 4. Escribir dos oraciones con "even though you (blank)" y dos con "even though you may (blank)"
+
+💂 Write two sentences with "even though you (blank)" and two with "even though you may (blank)."
 
 Ejemplos:
 
@@ -279,12 +334,18 @@ Ejemplos:
 
 *Aunque tú tengas una computadora, escribir a mano es siempre más hermoso.*
 
-> Most sentences with *aunque* can work with or without the subjunctive. It's really
+> La mayoría de las oraciones con *aunque* funcionan con o sin subjuntivo. Depende de ti decidir si quieres usarlo o no.
+
+> 💂 Most sentences with *aunque* can work with or without the subjunctive. It's really
 > up to you to decide if you want to use it or not.
 
 ## 5. Escribir tres oraciones con ojalá
 
+💂 Write three sentences with *ojalá.*
+
 ## 6. Completar (subjuntivos irregulares)
+
+💂 Complete (irregular subjunctives).
 
 1. Yo quise que tú me ___________ (querer).
 2. Deseaba que él me lo ___________ (decir).

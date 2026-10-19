@@ -1,4 +1,4 @@
-# Answer key — Book 5, Unit 1
+# Answer key - Book 5, Unit 1
 
 ## 1. Traducir, usando presente, pretérito perfecto y pretérito imperfecto
 
@@ -73,7 +73,7 @@ Open-ended. Model sentences:
 5. ¿Me invitaste a la cena de Frank?
 6. Ella me ayudó.
 
-## 5. Write a short essay
+## 5. Escribir una historia corta
 
 Open-ended. A model "mystery object" essay:
 

@@ -1,4 +1,4 @@
-# Answer key — Book 5, Unit 4
+# Answer key - Book 5, Unit 4
 
 ## 1. Tres oraciones con dudar, esperar y pedir en diferentes tiempos
 
@@ -61,20 +61,20 @@ Open-ended. Model sentences:
 
 ## 5. Reescribir las oraciones usando subjuntivo
 
-1. Yo sé que María ha estado en Ibiza. → **Yo dudo que María haya estado en Ibiza.**
-2. Juan piensa que Pedro ha estado en Hawaii. → **Juan no piensa que Pedro haya estado en Hawaii.**
-3. Creo que Karen ha escrito tres novelas. → **Dudo que Karen haya escrito tres novelas.**
-4. Ella sabía que yo ya me había ido. → **Ella dudaba que yo ya me hubiera ido.**
-5. Pienso que Ana ha vivido en la misma casa por treinta años. → **No pienso que Ana haya vivido en la misma casa por treinta años.**
-6. Elena sabe que Luis ha estado enfermo. → **Elena duda que Luis haya estado enfermo.**
-7. Creo que Javier me ha visitado. → **Dudo que Javier me haya visitado.**
+1. Yo sé que María ha estado en Ibiza. => **Yo dudo que María haya estado en Ibiza.**
+2. Juan piensa que Pedro ha estado en Hawái. => **Juan duda que Pedro haya estado en Hawái.**
+3. Creo que Karen ha escrito tres novelas. => **Dudo que Karen haya escrito tres novelas.**
+4. Ella sabía que yo ya me había ido. => **Ella dudaba que yo ya me hubiera ido.**
+5. Pienso que Ana ha vivido en la misma casa durante treinta años. => **Dudo que Ana haya vivido en la misma casa durante treinta años.**
+6. Elena sabe que Luis ha estado enfermo. => **Elena duda que Luis haya estado enfermo.**
+7. Creo que Javier me ha visitado. => **Dudo que Javier me haya visitado.**
 
-## 6. Comentario de texto — El rayo de luna
+## 6. Comentario de texto - El rayo de luna
 
 1. Manrique era un joven solitario, romántico y soñador. Amaba la soledad porque le permitía vivir en un mundo de fantasía.
 2. Manrique vio (o creyó ver) la tela blanca del vestido de una mujer misteriosa que se ocultaba en el castillo abandonado de los Templarios.
 3. No, Manrique nunca encontró a la mujer misteriosa, porque en realidad nunca existió.
-4. En el cuarto con la luz encendida estaba Don Alonso de Valdecuellos, un hombre que descansaba en la ciudad porque había sido herido en la guerra.
+4. En el cuarto con la luz encendida estaba don Alonso de Valdecuellos, un hombre que descansaba en la ciudad porque había sido herido en la guerra.
 5. Cuando Manrique volvió a los Templarios dos meses después, vio nuevamente la tela blanca, pero al acercarse descubrió que era solo un rayo de luna que entraba entre los árboles cuando el viento movía sus ramas.
 6. La historia termina mal. Años después, Manrique vive aislado en su castillo, deprimido y cínico.
 7. Pensaba que era la mujer de sus sueños porque la había imaginado completamente: era romántica, soñadora, amiga de la soledad y el misterio, alta, con ojos azules y pelo negro y liso.

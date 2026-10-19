@@ -1,18 +1,18 @@
 # El modo subjuntivo (the subjunctive mood)
 
-El subjuntivo es un modo que existe en las lenguas romance que denota un carácter irreal o hipotético. 
-En inglés existe un subjuntivo: a veces, podemos sustituir la primera persona del verbo *to be* en pasado,
-*I was,* por *I were,* cuando queremos expresar irrealidad.
+El subjuntivo es un modo que existe en las lenguas romances y que denota un carácter irreal o hipotético.
+En inglés existe un subjuntivo: a veces, podemos sustituir la primera y la tercera persona del singular del verbo
+*to be* en pasado, *I was* y *he was,* por *I were* y *he were,* cuando queremos expresar irrealidad.
 
-💂 The subjunctive is a mood that exists in Romance languages that denotes an unreal or hypothetical character.
-In English there is a subjunctive: sometimes, we can substitute the first person of the verb *to be* in the past tense,
-*I was,* for *I were,* when we want to express unreality.
+💂 The subjunctive is a mood that exists in Romance languages and that denotes an unreal or hypothetical character.
+In English there is a subjunctive: sometimes, we can replace the first and third person singular of the verb
+*to be* in the past tense, *I was* and *he was,* with *I were* and *he were,* when we want to express unreality.
 
 *If I were rich...*
 
 *I wish James were more friendly.*
 
-Estas son formas subjuntivas. Es incorrecto usar *I were* cuando hablamos de una situación real: 
+Estas son formas subjuntivas. Es incorrecto usar *I were* cuando hablamos de una situación real:
 *Last night I was at John's house.*
 
 💂 These are subjunctive forms. It is incorrect to use *I were* when we talk about a real situation:
@@ -22,7 +22,7 @@ Tenemos otro ejemplo de subjuntivo en inglés, cuando el verbo *to be* se encuen
 
 💂 We have another example of subjunctive in English, when the verb *to be* is in a subordinate clause:
 
-*They recommended that he be promoted.* 
+*They recommended that he be promoted.*
 
 *We ask that it be delivered to our office.*
 
@@ -30,15 +30,19 @@ Y aquí tenemos ejemplos con otros verbos:
 
 💂 And here we have examples with other verbs:
 
-*It is impossible that everyone do it.*
+*It is essential that everyone do it.*
 
 *I recommend that he eat more fruit.*
 
-En español usamos mucho el modo subjuntivo. En las secciones siguientes podemos ver las conjugaciones 
-de los dos tiempos de subjuntivo, el presente y el imperfecto, y también su uso.
+> Nota: en el inglés actual, muchos hablantes dicen *if I was rich* o *I recommend that he eats more fruit,* y gramáticos
+> modernos como Bas Aarts (*Oxford Modern English Grammar*) aceptan las dos opciones: el subjuntivo suena más formal,
+> pero el indicativo también es correcto. En español, en cambio, el subjuntivo no se puede sustituir por el indicativo
+> en estas construcciones.
 
-💂 In Spanish we use the subjunctive mood a lot. In the following sections we can see the conjugations
-of the two subjunctive tenses, the present and the imperfect, and also their use.
+> 💂 Note: in present-day English, many speakers say *if I was rich* or *I recommend that he eats more fruit,* and modern
+> grammarians such as Bas Aarts (*Oxford Modern English Grammar*) accept both options: the subjunctive sounds more formal,
+> but the indicative is also correct. In Spanish, by contrast, the subjunctive cannot be replaced by the indicative
+> in these constructions.
 
 # Presente de subjuntivo (present subjunctive)
 
@@ -60,148 +64,172 @@ of the two subjunctive tenses, the present and the imperfect, and also their use
 
 ### Cantar
 
-    cante 
-    
-    cantes 
-    
-    cante 
-    
-    cantemos 
-    
+    cante
+
+    cantes
+
+    cante
+
+    cantemos
+
     (cantéis)
-    
+
     canten
+
+### Terminaciones de los verbos -ar (endings for -ar verbs)
+
+    -e
+
+    -es
+
+    -e
+
+    -emos
+
+    (-éis)
+
+    -en
 
 ### Comer
 
-    coma 
-    
-    comas 
-    
-    coma 
-    
-    comamos 
-    
-    (comáis) 
-    
+    coma
+
+    comas
+
+    coma
+
+    comamos
+
+    (comáis)
+
     coman
 
 ### Vivir
 
-    viva 
-    
-    vivas 
-    
-    viva 
-    
-    vivamos 
-    
+    viva
+
+    vivas
+
+    viva
+
+    vivamos
+
     (viváis)
-    
+
     vivan
 
-> Los verbos *-er, -ir* usan los mismos sufijos.
+### Terminaciones de los verbos -er e -ir (endings for -er and -ir verbs)
 
-> 💂 Verbs *-er, -ir* use the same suffixes.
+    -a
+
+    -as
+
+    -a
+
+    -amos
+
+    (-áis)
+
+    -an
 
 ## Verbos irregulares importantes (important irregular verbs)
 
 ### Ser
 
     sea
-    
+
     seas
-    
+
     sea
-    
+
     seamos
-    
+
     (seáis)
-    
+
     sean
 
 ### Estar
 
     esté
-    
+
     estés
-    
+
     esté
-    
+
     estemos
-    
+
     (estéis)
-    
+
     estén
 
 ### Tener
 
-    tenga 
-    
-    tengas 
-    
-    tenga 
-    
-    tengamos 
-    
-    (tengáis) 
-    
+    tenga
+
+    tengas
+
+    tenga
+
+    tengamos
+
+    (tengáis)
+
     tengan
 
 ### Ir
 
-    vaya 
-    
-    vayas 
-    
-    vaya 
-    
-    vayamos 
-    
-    (vayáis) 
-    
+    vaya
+
+    vayas
+
+    vaya
+
+    vayamos
+
+    (vayáis)
+
     vayan
 
 ### Hacer
 
-    haga 
-    
-    hagas 
-    
-    haga 
-    
-    hagamos 
-    
+    haga
+
+    hagas
+
+    haga
+
+    hagamos
+
     (hagáis)
-    
+
     hagan
 
 # Seis usos del subjuntivo (six uses of the subjunctive)
 
-## Uso 1: Después de verbos que “disparan” el subjuntivo
+## Uso 1: Después de verbos que inducen el subjuntivo
 
-💂 Use 1: After verbs that "trigger" the subjunctive.
+💂 Use 1: After verbs that trigger the subjunctive.
 
-Generalmente, los verbos que implican deseo, duda o petición disparan automáticamente el subjuntivo. 
+Generalmente, los verbos que implican deseo, duda o petición inducen automáticamente el subjuntivo.
 
 💂 Generally, verbs implying desire, doubt or request automatically trigger the subjunctive.
 
 ### Duda (doubt)
 
     dudar - to doubt
-    
-    creer (sólo en negativo) - to believe (negative version only)
-    
-    pensar (sólo en negativo) - to think (negative version only)
+
+    creer (solo en negativo) - to believe (negative version only)
+
+    pensar (solo en negativo) - to think (negative version only)
 
 ### Deseo (desire)
 
     desear - to wish
-    
+
     esperar - to hope
-    
+
     preferir - to prefer
-    
+
     querer - to want
 
 ### Petición (request)
@@ -210,7 +238,7 @@ Generalmente, los verbos que implican deseo, duda o petición disparan automáti
 
 ### Estructura
 
-En estos casos, la estructura de la oración siempre es la misma: una persona A desea/duda/pide que otra 
+En estos casos, la estructura de la oración siempre es la misma: una persona A desea/duda/pide que otra
 persona B haga algo.
 
 💂 In these cases, the sentence structure is always the same: a person A wants/doubts/requests that another person B
@@ -222,105 +250,107 @@ persona B haga algo.
 
 *Te pido que lo hagas.* (I ask you to do it. Lit. I ask "that you do it".)
 
-Adicionalmente, los verbos *prohibir, recomendar* y *necesitar* también disparan el subjuntivo.
+Adicionalmente, los verbos *prohibir, recomendar* y *necesitar* también inducen el subjuntivo.
 
 💂 Additionally, the verbs *prohibir, recomendar* and *necesitar* also trigger the subjunctive.
 
 *¿Me recomiendas que vaya al restaurante de Laura?* (Lit. Do you recommend "me" that I go to Laura's restaurant?)
 
-*Necesito que seas más simpático con los clientes.* (I need you to be nicer to the customers. 
+*Necesito que seas más simpático con los clientes.* (I need you to be nicer to the customers.
 Lit. I need "that you are nicer" to the customers.)
 
-*La ley prohíbe que una persona trabaje más de 8 horas sin descanso.*
-(The law prohibits a person from working more than 8 hours without a break.)
-(Lit. The law prohibits "that a person works" more than 8 hours without a break.)
+*La ley prohíbe que una persona trabaje más de ocho horas sin descanso.*
+(The law prohibits a person from working more than eight hours without a break.)
+(Lit. The law prohibits "that a person works" more than eight hours without a break.)
 
-Consideración importante: cuando usamos estos verbos como *two-verb constructions,* no usamos subjuntivo, 
+Consideración importante: cuando usamos estos verbos en construcciones de dos verbos, no usamos subjuntivo,
 porque solamente el primer verbo va conjugado.
 
 💂 Important consideration: when we use these verbs as two-verb constructions, we do not use the subjunctive,
 because only the first verb is conjugated.
 
-Para usar subjuntivo siempre necesitamos oraciones en las que tengamos también una oración subordinada 
+Con estos verbos, para usar subjuntivo necesitamos oraciones en las que tengamos también una oración subordinada
 con sujeto diferente.
 
-💂 To use the subjunctive we always need sentences in which we also have a subordinate clause
+💂 With these verbs, to use the subjunctive we need sentences in which we also have a subordinate clause
 with a different subject.
 
-*Juan espera que yo vaya.* 
+*Juan espera que yo vaya.*
 (Main sentence: Juan hopes. Subordinate clause: that I go.)
 
-*Yo dudo que ellos estén en casa.* 
+*Yo dudo que ellos estén en casa.*
 (Main sentence: I doubt. Subordinate clause: that they are at home.)
 
 Cuando es la misma persona la que desea/duda/espera/etc., simplificamos con el infinitivo.
 
-💂 When it is the same person the one who wishes/doubts/hopes/expects/etc., we simplify with the infinitive.
+💂 When the same person is the one who wishes/doubts/hopes, etc., we simplify with the infinitive.
 
-Incorrecto: *Yo espero que yo gane la lotería.* 
+Incorrecto: *Yo espero que yo gane la lotería.*
 
 Correcto: *Yo espero ganar la lotería.*
 
-Nota sobre los verbos *querer, pedir, necesitar* y *prohibir:* en inglés usamos la siguiente construcción: 
+Nota sobre los verbos *querer, pedir, necesitar* y *prohibir:* en inglés usamos la siguiente construcción:
 
 💂 Note on the verbs *querer, pedir, necesitar* and *prohibir:* in English we use the following construction:
 
-*Juan wants me to go / asks me to go / needs me to go / prohibits me to go.* 
+*Juan wants me to go / asks me to go / needs me to go / forbids me to go.*
 
-En español diremos: 
+En español diremos:
 
 💂 In Spanish, we will say:
 
-*Juan quiere que yo vaya / me pide que yo vaya / necesita que yo vaya / me prohíbe que yo vaya* 
+*Juan quiere que yo vaya / me pide que yo vaya / necesita que yo vaya / me prohíbe que yo vaya.*
 
-Lit. Juan “wants that I go” / “asks me that I go” / “needs that I go” / “prohibits me that I go”. 
+Lit. Juan "wants that I go" / "asks me that I go" / "needs that I go" / "prohibits me that I go."
 
-> For asking people to do things we always use *pedir.*
+> Cuando *to ask* significa pedir a alguien que haga algo, usamos siempre *pedir* (no *preguntar*).
+
+> 💂 When *to ask* means asking someone to do something, we always use *pedir* (not *preguntar*).
 
 ## Uso 2: Expresiones impersonales (impersonal expressions)
 
-En español, las expresiones impersonales que van con oración subordinada necesitan subjuntivo. 
-Estas son algunas de las más comunes:
+En español, las expresiones impersonales que van con oración subordinada necesitan subjuntivo, excepto las que
+expresan certeza (*es verdad que, es evidente que, está claro que*), que van con indicativo. Estas son algunas de las más comunes:
 
-💂 In Spanish, impersonal expressions that go with a subordinate clause need the subjunctive.
-These are some of the most common ones:
+💂 In Spanish, impersonal expressions that go with a subordinate clause need the subjunctive, except those that
+express certainty (*es verdad que, es evidente que, está claro que*), which take the indicative. These are some of the most common ones:
 
-    Es probable que Juan llegue tarde. 
-    
+    Es probable que Juan llegue tarde.
+
     Es posible que Juan llegue tarde.
-    
-    Es imposible que Juan llegue tarde. 
-    
-    Es importante que Juan llegue tarde. 
-    
-    Es interesante que Juan llegue tarde. 
-    
-    Es increíble que Juan llegue tarde. 
-    
+
+    Es imposible que Juan llegue tarde.
+
+    Es importante que Juan llegue tarde.
+
+    Es interesante que Juan llegue tarde.
+
+    Es increíble que Juan llegue tarde.
+
     Es ridículo que Juan llegue tarde.
 
 ## Uso 3: Ojalá
 
-*Ojalá* es un adverbio que viene del árabe, y significa *may Allah wish.* No lo usamos con sentido
+*Ojalá* es una interjección que viene del árabe y significa, literalmente, *si Dios quiere.* No la usamos con sentido
 religioso, pero sí con sentido de deseo.
 
-💂 *Ojalá* is an adverb that comes from Arabic, and means *may Allah wish.* We do not use it with a
+💂 *Ojalá* is an interjection that comes from Arabic and literally means *God willing.* We do not use it with a
 religious sense, but we do use it with a "wishing" meaning.
 
-*Ojalá que tengas mucha suerte mañana en el examen.* 
+*Ojalá que tengas mucha suerte mañana en el examen.*
 
 *Ojalá que tengas un buen viaje.*
 
 ## Uso 4: Que tengas un buen día y otras expresiones similares
 
-Siempre usamos subjuntivo para expresar *have a good day,* pero normalmente omitimos el verbo o el
-adverbio que lo “dispara”. Decimos: 
+Siempre usamos subjuntivo para expresar *have a good day,* pero normalmente omitimos el verbo o la
+interjección que lo induce. Decimos:
 
 💂 We always use the subjunctive to express *have a good day,* but we usually omit the verb or the
-adverb that "triggers" it. We say:
+interjection that triggers it. We say:
 
     Que tengas un buen día. (Informal)
-    
+
     Que tenga un buen día. (Formal)
 
 El significado completo es:
@@ -329,17 +359,19 @@ El significado completo es:
 
 *(Yo espero) que tengas un buen día.*
 
-Or:
+O:
+
+💂 Or:
 
 *(Ojalá) que tengas un buen día.*
 
-Hay otras expresiones similares en las que omitimos el verbo o el adverbio que “dispara” el subjuntivo:
+Hay otras expresiones similares en las que omitimos el verbo o la interjección que induce el subjuntivo:
 
-💂 There are other similar expressions in which we omit the verb or adverb that "triggers" the subjunctive:
+💂 There are other similar expressions in which we omit the verb or interjection that triggers the subjunctive:
 
-*¡Que te mejores!* (I hope you get better!) 
+*¡Que te mejores!* (I hope you get better!)
 
-*¡Que te vaya bien!* (Hope it goes well!) 
+*¡Que te vaya bien!* (Hope it goes well!)
 
 *¡Que viva México!* (Long live Mexico!)
 
@@ -348,19 +380,19 @@ Hay otras expresiones similares en las que omitimos el verbo o el adverbio que �
 Usamos *cuando* con el subjuntivo siempre que hablamos de lo que haremos pero sin decir o conocer
 el tiempo exacto.
 
-💂 We use *when* with the subjunctive whenever we talk about what we will do but without saying or knowing the exact time.
+💂 We use *cuando* with the subjunctive whenever we talk about what we will do but without saying or knowing the exact time.
 
-*Cuando sea mayor voy a vivir en Long Island.* (When I am old, I will live in Long Island.)
+*Cuando sea mayor voy a vivir en Long Island.* (When I am old, I will live on Long Island.)
 
 *Cuando mañana Juan llegue, le haremos una fiesta.* (When Juan gets here tomorrow, we will throw a party for him.)
 
-*Tú estarás en la oficina cuando salga de mi casa.* (You will be at the office when I leave my house.) 
+*Tú estarás en la oficina cuando salga de mi casa.* (You will be at the office when I leave my house.)
 
-*Los congresistas votarán la nueva ley cuando el presidente la presente.* (Congressmen will vote the
+*Los congresistas votarán la nueva ley cuando el presidente la presente.* (Congressmen will vote on the
 new law when the president presents it.)
 
-*Cuando vaya a la biblioteca, buscaré un libro en español.* 
-(When I go to library, I will look for a book in Spanish.)
+*Cuando vaya a la biblioteca, buscaré un libro en español.*
+(When I go to the library, I will look for a book in Spanish.)
 
 ## Uso 6: Aunque (even though). ¡Es opcional!
 
@@ -370,29 +402,35 @@ new law when the president presents it.)
 
 *Aunque yo estoy cansado, voy a ir a la fiesta de Juan.* (Even though I'm tired, I'm still going to Juan's party.)
 
-In this example we know I am tired.
+En este ejemplo sabemos que estoy cansado.
 
-*Aunque yo esté cansado, voy a ir a la fiesta de Juan.* 
+💂 In this example we know I am tired.
+
+*Aunque yo esté cansado, voy a ir a la fiesta de Juan.*
 (Even though I may be tired, I still plan on going to Juan's party.)
 
-This example implies that I may or may not be tired now, but regardless, I'll still go to the party.
+Este ejemplo implica que puedo estar cansado o no, pero, en cualquier caso, voy a ir a la fiesta.
+
+💂 This example implies that I may or may not be tired now, but regardless, I'll still go to the party.
 
 ## Conversación
 
-Sara: Adiós Mario. Espero que tu fin de semana en la playa sea perfecto, que comas mucha paella, 
-que conozcas a muchas personas interesantes, y que no te quemes (to get burn). Nos vemos el lunes.
+Sara: Adiós, Mario. Espero que tu fin de semana en la playa sea perfecto, que comas mucha paella,
+que conozcas a muchas personas interesantes, y que no te quemes (to get sunburned). Nos vemos el lunes.
 
-Mario: Gracias Sara. Es imposible que me queme porque siempre uso protección. Espero que tú también 
-tengas un fin de semana fantástico y que todo vaya muy bien con tu familia. Cuando volvamos a la 
+Mario: Gracias, Sara. Es imposible que me queme porque siempre uso protección solar. Espero que tú también
+tengas un fin de semana fantástico y que todo vaya muy bien con tu familia. Cuando volvamos a la
 oficina podemos almorzar juntos.
 
-S: Perfecto. Aunque tenga mucho trabajo, normalmente tengo tiempo para almorzar. 
+S: Perfecto. Aunque tenga mucho trabajo, normalmente tengo tiempo para almorzar.
 
 M: Vale, nos vemos el lunes.
 
 # Homework
 
 ## 1. Traducir, usando pronombres de objeto indirecto. Puedes usar un diccionario.
+
+💂 Translate, using indirect object pronouns. You can use a dictionary.
 
 1. I explained the problem to her, but she didn't understand it.
 2. I gave her my keys.
@@ -406,6 +444,8 @@ M: Vale, nos vemos el lunes.
 
 ## 2. Responder
 
+💂 Answer.
+
 1. ¿Has estado en Australia?
 2. ¿Has escrito un libro?
 3. ¿Te han publicado un artículo en un periódico, una revista o un blog?
@@ -415,6 +455,8 @@ M: Vale, nos vemos el lunes.
 
 ## 3. Por / para. Seleccionar la opción correcta.
 
+💂 Por / para. Select the correct option.
+
 1. Este regalo es para/por ti.
 2. Estuve en Roma para/por dos días.
 3. Lo hice para/por amor.
@@ -422,7 +464,7 @@ M: Vale, nos vemos el lunes.
 5. Para/por ser un artista profesional, necesitas ser creativo y conocer a muchas personas.
 6. Cambié mi carro para/por una bicicleta y mi apartamento para/por una casa en el campo.
 7. No debes pagar más de veinte dólares para/por un sombrero mexicano.
-8. Vendí mi casa en Long Island para/por comprar otra más grande en New Jersey.
+8. Vendí mi casa en Long Island para/por comprar otra más grande en Nueva Jersey.
 9. El veinte para/por ciento de los americanos miran la televisión más de tres horas para/por día.
 
 ## 4. Completar, en presente. No todas requieren subjuntivo.
@@ -439,7 +481,7 @@ M: Vale, nos vemos el lunes.
 8. En verano siempre le pido a mi madre que _________ (cocinar) gazpacho.
 9. El doctor me pide que le _________ (enviar) mi historial médico.
 10. Dudo que Pedro _________ (estar) muy ocupado estos días.
-11. Deseo que todos nosotros _________ (ser) muy felices.
+11. Deseo que todos nosotros _________ (estar) muy felices.
 12. Espero que ella _________ (tener) un buen fin de semana.
 13. No pienso que tú _________ (deber) decírselo a Ana.
 14. A veces creo que Arturo _________ (ser) muy inteligente, a veces no.
@@ -450,28 +492,34 @@ M: Vale, nos vemos el lunes.
 
 ## 5. Responder. Puedes usar un diccionario.
 
+💂 Answer. You can use a dictionary.
+
 1. ¿Quieres que la Reserva Federal baje los tipos de interés?
 2. ¿Crees que las playas más hermosas del mundo están en los Estados Unidos?
 3. ¿Quieres que los Estados Unidos ganen la próxima Copa del Mundo de fútbol?
-4. ¿Quieres que el congreso legisle las leyes sobre armas?
+4. ¿Quieres que el Congreso cambie las leyes sobre armas?
 5. ¿A veces pides a tus vecinos que bajen el volumen de la música?
 
 ## 6. Conjugar, en presente de subjuntivo
 
-- Llamar 
+💂 Conjugate, in the present subjunctive.
+
+- Llamar
 - Terminar
 - Ganar
 - Bailar
-- Caminar 
+- Caminar
 - Desayunar
 - Cantar
 - Trabajar
 
 ## 7. Conjugar, en presente de subjuntivo
 
-- Vender 
+💂 Conjugate, in the present subjunctive.
+
+- Vender
 - Comprender
-- Abrir 
+- Abrir
 - Prohibir
 - Correr
 - Vivir

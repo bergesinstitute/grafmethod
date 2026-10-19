@@ -1,4 +1,4 @@
-# Answer key — Book 5, Unit 2
+# Answer key - Book 5, Unit 2
 
 ## 1. Traducir, usando pronombres de objeto indirecto
 
@@ -9,7 +9,7 @@
 5. Me dijiste que estabas enfermo.
 6. Me pidió un martillo, pero solo tenía un destornillador.
 7. Le mostré el apartamento.
-8. Mr. Parker me enseñó todo.
+8. El señor Parker me enseñó todo.
 9. Le enviamos la carta.
 
 ## 2. Responder
@@ -30,10 +30,10 @@ Open-ended. Sample answers:
 3. **por**
 4. **para**
 5. **Para**
-6. **por** … **por**
+6. **por** ... **por**
 7. **por**
 8. **para**
-9. **por** … **por**
+9. **por** ... **por**
 
 ## 4. Completar, en presente. No todas requieren subjuntivo.
 
@@ -47,13 +47,13 @@ Open-ended. Sample answers:
 8. En verano siempre le pido a mi madre que **cocine** gazpacho.
 9. El doctor me pide que le **envíe** mi historial médico.
 10. Dudo que Pedro **esté** muy ocupado estos días.
-11. Deseo que todos nosotros **seamos** muy felices.
+11. Deseo que todos nosotros **estemos** muy felices.
 12. Espero que ella **tenga** un buen fin de semana.
 13. No pienso que tú **debas** decírselo a Ana.
 14. A veces creo que Arturo **es** muy inteligente, a veces no.
 15. Dudo que Sara **lleve** su vestido rojo esta noche.
 16. Mi hermana **está** embarazada. Cuando **tenga** a su bebé, haremos una fiesta.
-17. Aunque yo **tenga** un carro, prefiero tomar el metro al trabajo. (Also acceptable: *tengo*, since *aunque* can take indicative or subjunctive.)
+17. Aunque yo **tenga** un carro, prefiero tomar el metro al trabajo. (Also acceptable: *tengo,* since *aunque* can take indicative or subjunctive.)
 18. Solo quiero que usted **hable** conmigo.
 
 ## 5. Responder
@@ -63,7 +63,7 @@ Open-ended. Sample answers:
 1. Sí, quiero que la Reserva Federal baje los tipos de interés.
 2. No, no creo que las playas más hermosas del mundo estén en los Estados Unidos. Las mejores están en el Caribe.
 3. Sí, quiero que los Estados Unidos ganen la próxima Copa del Mundo.
-4. Sí, quiero que el congreso legisle leyes más estrictas sobre armas.
+4. Sí, quiero que el Congreso cambie las leyes sobre armas.
 5. Sí, a veces (les) pido a mis vecinos que bajen el volumen.
 
 ## 6. Conjugar, en presente de subjuntivo (regulares -ar)

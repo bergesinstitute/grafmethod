@@ -1,4 +1,4 @@
-# The Graf Method for Spanish Language
+# The Graf Method for Spanish
 
 You can find the live version on our website:
 

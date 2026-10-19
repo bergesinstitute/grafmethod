@@ -2,67 +2,81 @@
 
 ## Un tiempo verbal
 
-El condicional, que en inglés se forma con *would,* es en español un tiempo verbal. Igual que en el futuro, 
-el sufijo de conjugación se pone después del infinitivo del verbo.
+El condicional, que en inglés se forma con *would,* es en español un tiempo verbal. Igual que en el futuro,
+la terminación se pone después del infinitivo del verbo.
 
 💂 The conditional, which in English is formed with *would,* is a verb tense in Spanish. As in the future,
-the conjugation suffix is placed after the infinitive form of the verb.
+the ending is placed after the infinitive form of the verb.
 
 ## Conjugación de verbos regulares (conjugation of regular verbs)
 
 ### Cantar
 
-    cantaría 
-    
-    cantarías 
-    
-    cantaría 
-    
-    cantaríamos 
-    
+    cantaría
+
+    cantarías
+
+    cantaría
+
+    cantaríamos
+
     (cantaríais)
-    
+
     cantarían
 
 ### Comer
 
-    comería 
-    
-    comerías 
-    
-    comería 
-    
-    comeríamos 
-    
+    comería
+
+    comerías
+
+    comería
+
+    comeríamos
+
     (comeríais)
-    
+
     comerían
 
 ### Vivir
 
-    viviría 
+    viviría
 
-    vivirías 
-    
-    viviría 
-    
-    viviríamos 
-    
-    (viviríais) 
-    
+    vivirías
+
+    viviría
+
+    viviríamos
+
+    (viviríais)
+
     vivirían
+
+### Terminaciones para los tres tipos de verbos (endings for all three types of verbs)
+
+    -ía
+
+    -ías
+
+    -ía
+
+    -íamos
+
+    (-íais)
+
+    -ían
 
 ### Ejemplos
 
-*Me gustaría estar en Madrid.* (I would like to be in Madrid. Lit. "It would please me to be in Madrid.") 
+*Me gustaría estar en Madrid.* (I would like to be in Madrid. Lit. "It would please me to be in Madrid.")
 
-*Yo nunca compraría este producto de nuevo.* (I would never buy this product again.) 
+*Yo nunca compraría este producto de nuevo.* (I would never buy this product again.)
 
 *Ella nunca me perdonaría.* (She would never forgive me.)
 
 ### Conversación 1
 
-Paula: Antonio, me gustaría ir a Cancún este verano. Todo el mundo (everyone) me recomienda constantemente 
+Paula: Antonio, me gustaría ir a Cancún este verano. Todo el mundo (everyone) me recomienda constantemente
 que vaya. Tú fuiste varias veces, ¿podrías recomendarme un buen hotel?
 
 Antonio: Sí, claro. Yo iría al hotel Las Palmeras. Yo diría que es el mejor de todo Cancún.
@@ -73,9 +87,9 @@ A: Tendrías que hacerlo rápido. Siempre está muy lleno. ¡Espero que te guste
 
 ### Conversación 2
 
-Miguel: Carmen, si no fueras (if you weren't) doctora, ¿qué serías? 
+Miguel: Carmen, si no fueras (if you weren't) doctora, ¿qué serías?
 
-Carmen: Creo que sería astronauta. Siempre me gustó la astrofísica. ¿Y tú? 
+Carmen: Creo que sería astronauta. Siempre me gustó la astrofísica. ¿Y tú?
 
 M: Sería detective. Siempre me gustaron las novelas negras.
 
@@ -91,77 +105,77 @@ Los verbos que son irregulares en el futuro lo son en el tiempo condicional de l
 
 ### Tener (futuro)
 
-    tendré 
-    
-    tendrás 
-    
-    tendrá 
-    
-    tendremos 
-    
-    (tendréis) 
-    
+    tendré
+
+    tendrás
+
+    tendrá
+
+    tendremos
+
+    (tendréis)
+
     tendrán
 
 ### Tener (condicional)
 
     tendría
-    
+
     tendrías
-    
+
     tendría
-    
+
     tendríamos
-    
-    (tendríais) 
-    
+
+    (tendríais)
+
     tendrían
 
 ### Ejemplos
 
-*Yo nunca tendría un carro rojo.* (I would never have/own a red car.) 
+*Yo nunca tendría un carro rojo.* (I would never have/own a red car.)
 
 *¿Qué harías por mí?* (What would you do for me?)
 
 *Siempre te diría todo.* (I would always tell you everything.)
 
-## El verbo haber, en condicional
+## El verbo haber, en condicional (the verb haber, in the conditional)
 
-    habría 
-    
-    habrías 
-    
-    habría 
-    
-    habríamos 
-    
-    (habríais) 
-    
+    habría
+
+    habrías
+
+    habría
+
+    habríamos
+
+    (habríais)
+
     habrían
 
 En inglés:
 
     I would have
-    
+
     you would have
-    
+
     he / she would have
-    
+
     we would have
-    
+
     you (pl.) would have
-    
+
     they would have
 
 *Yo habría llamado.* (I would have called.)
 
 *Ellos no habrían estudiado.* (They would not have studied.)
 
-Usamos el verbo *haber* en condicional para construir el condicional compuesto (lo veremos más adelante).
+Usamos el verbo *haber* en condicional para construir el condicional compuesto.
 
-💂 We use the verb *haber* in the conditional to build the compound conditional (we will see it later).
+💂 We use the verb *haber* in the conditional to build the compound conditional.
 
-## Construcciones condicionales
+## Construcciones condicionales (conditional constructions)
 
     si - if
 
@@ -183,9 +197,9 @@ Lo usamos para casos en los que el cumplimiento de la condición garantiza un re
 
 💂 Type 2: Imaginary supposition + conditional.
 
-La suposición siempre va en imperfecto de subjuntivo*.
+La suposición siempre va en imperfecto de subjuntivo.
 
-💂 The supposition is always in the imperfect subjunctive tense*.
+💂 The supposition is always in the imperfect subjunctive tense.
 
 *Si yo tuviera un millón de dólares, compraría una casa grande.* (If I had a million dollars, I would buy a
 large house.)
@@ -200,13 +214,17 @@ A veces usamos primero el condicional y después la suposición.
 
 *Le diría a María lo que pienso si llamara.* (I would tell María what I think if she called.)
 
-> *We “borrow” the *imperfecto de subjuntivo* tense to build the supposition part of a conditional sentence 
-the same way we “borrow” the past tense in English: *If I sang* = *Si yo cantara.* As we know, this is not the 
-standard use of the *imperfecto de subjuntivo* tense.
+> "Tomamos prestado" el imperfecto de subjuntivo para construir la suposición de una oración condicional, igual
+> que en inglés se "toma prestado" el pasado: *If I sang* = *Si yo cantara.* Como sabemos, este no es el uso
+> estándar del imperfecto de subjuntivo.
 
-### Tipo 3: What could have happened, but didn't happen
+> 💂 We "borrow" the *imperfecto de subjuntivo* tense to build the supposition part of a conditional sentence
+> the same way we "borrow" the past tense in English: *If I sang* = *Si yo cantara.* As we know, this is not the
+> standard use of the *imperfecto de subjuntivo* tense.
 
-Para este último tipo de construcción condicional necesitamos usar el pluscuamperfecto de subjuntivo (*hubiera*) 
+### Tipo 3: Lo que podría haber pasado, pero no pasó (what could have happened, but didn't)
+
+Para este último tipo de construcción condicional necesitamos usar el pluscuamperfecto de subjuntivo (*hubiera*)
 y el condicional compuesto (*habría*).
 
 💂 For this last type of conditional construction we need to use the *pluscuamperfecto de subjuntivo* tense (*hubiera*)
@@ -222,82 +240,82 @@ had not woken me up at five in the morning, I would not have been so tired all d
 #### Tipo 2
 
     If I had a better job => (then) I would be happier.
-    
+
     Si yo tuviera un trabajo mejor => (entonces) yo estaría más feliz.
 
-#### Tipo 2 (flipped version)
+#### Tipo 2, versión invertida (flipped version)
 
     I would be happier if I had a better job.
-    
+
     Yo estaría más feliz si yo tuviera un trabajo mejor.
 
 #### Tipo 3
 
     If I had driven faster => (then) I would have arrived earlier.
-    
+
     Si yo hubiera manejado más rápido => (entonces) yo habría llegado más temprano.
 
-#### Tipo 3 (flipped version)
+#### Tipo 3, versión invertida (flipped version)
 
     I would have arrived earlier if I had driven faster.
-    
+
     Yo habría llegado más temprano si yo hubiera manejado más rápido.
 
-La suposición y el condicional son independientes, no tienen que ir en el mismo tiempo (es decir, 
+La suposición y el condicional son independientes: no tienen que ir en el mismo tiempo (es decir,
 podemos combinar los tipos 2 y 3).
 
-💂 The supposition and the conditional are independent, they do not have to go in the same tense (i.e.,
+💂 The supposition and the conditional are independent: they do not have to go in the same tense (i.e.,
 we can combine types 2 and 3).
 
-*Si yo hubiera manejado más rápido, Sara no estaría enojada conmigo ahora.* 
+*Si yo hubiera manejado más rápido, Sara no estaría enojada conmigo ahora.*
 (If I had driven faster, Sara would not be mad at me now.)
 
-(Flipped version): *Sara no estaría enojada conmigo ahora si yo hubiera manejado más rápido.* 
+Versión invertida: *Sara no estaría enojada conmigo ahora si yo hubiera manejado más rápido.*
 (Sara would not be mad at me now if I had driven faster.)
 
-> Nota: en algunas regiones la gente usa la forma subjuntiva *hubiera* en lugar del condicional *habría: 
-Si yo hubiera manejado más rápido, yo hubiera llegado más temprano.* Es correcto, pero no recomendamos hacerlo.
+> Nota: es relativamente común usar la forma subjuntiva *hubiera* en lugar del condicional *habría:
+> Si yo hubiera manejado más rápido, yo hubiera llegado más temprano.* Es correcto, pero no recomendamos hacerlo.
 
-> 💂 Note: in some regions people use the subjunctive form *hubiera* instead of the conditional *habría:
-Si yo hubiera manejado más rápido, yo hubiera llegado más temprano.* It is correct, but we do not recommend doing so.
+> 💂 Note: it is relatively common to use the subjunctive form *hubiera* instead of the conditional *habría:
+> Si yo hubiera manejado más rápido, yo hubiera llegado más temprano.* It is correct, but we do not recommend doing so.
 
 ### Más ejemplos de condicionales de tipos 2 y 3 (more examples of type 2 and 3 conditionals)
 
 #### Tipo 2
 
-*Si comiera menos, estaría más delgado.* (If I ate less, I would be slimmer.) 
+*Si comiera menos, estaría más delgado.* (If I ate less, I would be slimmer.)
 
 *Estaría más delgado si comiera menos.* (I would be slimmer if I ate less.)
 
-*Si Juan estuviera aquí, tú no hablarías tanto.* (If Juan were here, you would talk less.) 
+*Si Juan estuviera aquí, tú no hablarías tanto.* (If Juan were here, you would talk less.)
 
 *Tú no hablarías tanto si Juan estuviera aquí.* (You would talk less if Juan were here.)
 
-*Si pudiera, te lo diría.* (If I could, I would tell you.) 
+*Si pudiera, te lo diría.* (If I could, I would tell you.)
 
 *Te lo diría si pudiera.* (I would tell you if I could.)
 
 #### Tipo 3
 
-*Si me lo hubieras dicho, lo habría sabido.* (If you had told me, I would have known.) 
+*Si me lo hubieras dicho, lo habría sabido.* (If you had told me, I would have known.)
 
 *Lo habría sabido si me lo hubieras dicho.* (I would have known if you had told me.)
 
-*Si yo lo hubiera sabido, no habría hecho esto.* (If I had known, I would have not done this.) 
+*Si yo lo hubiera sabido, no habría hecho esto.* (If I had known, I would not have done this.)
 
-*No habría hecho esto si lo hubiera sabido.* (I would have not done this if I had known.)
+*No habría hecho esto si lo hubiera sabido.* (I would not have done this if I had known.)
 
-*Si me hubieras llamado, te lo podría haber dado.* (If you had called me, I could* have given it to you.) 
+*Si me hubieras llamado, te lo podría haber dado.* (If you had called me, I could have given it to you.)
 
 *Te lo podría haber dado si me hubieras llamado.* (I could have given it to you if you had called me.)
 
-> *En inglés, el verbo modal *could* puede funcionar como condicional sin necesidad del verbo modal
-*would: I would give it to you, I would tell you, I would be able to do that, I could do that.*
-(*Yo te lo daría, yo te lo diría, yo podría hacer eso, yo podría hacer eso,* respectivamente).
+> En inglés, el verbo modal *could* puede funcionar como condicional sin necesidad del verbo modal
+> *would: I could do that* significa lo mismo que *I would be able to do that.* En español, las dos
+> oraciones se traducen con el condicional de *poder: yo podría hacer eso.*
 
 > 💂 In English, the modal verb *could* can function as a conditional without the need for the modal verb
-*would: I would give it to you, I would tell you, I would be able to do that, I could do that.*
-(*Yo te lo daría, yo te lo diría, yo podría hacer eso, yo podría hacer eso,* respectively).
+> *would: I could do that* means the same as *I would be able to do that.* In Spanish, both
+> sentences are translated with the conditional of *poder: yo podría hacer eso.*
 
 #### Combinando tipo 2 y tipo 3 (combining type 2 and type 3)
 
@@ -313,17 +331,19 @@ Como dijimos, no siempre necesitamos que la suposición y el condicional estén 
 
 *Hoy no estaría aquí si me hubieras llamado ayer.* (I would not be here today if you had called me yesterday.)
 
-> *Should,* que también tiene valor condicional en inglés sin necesidad de usar *would,* se traduce 
-siempre como *debería* (verbo *deber,* conjugado en condicional): *If you had a million dollars, 
-you should buy a large house. Si tuvieras un millón de dólares, deberías comprar una casa grande.*
+> *Should,* que también tiene valor condicional en inglés sin necesidad de usar *would,* se traduce
+> siempre como *debería* (verbo *deber,* conjugado en condicional): *If you had a million dollars,
+> you should buy a large house. Si tuvieras un millón de dólares, deberías comprar una casa grande.*
 
 > 💂 *Should,* which also has a conditional value in English without the need to use *would,* is always translated
-as *debería* (verb *deber,* conjugated in the conditional tense): *If you had a million dollars,
-you should buy a large house. Si tuvieras un millón de dólares, deberías comprar una casa grande.*
+> as *debería* (verb *deber,* conjugated in the conditional tense): *If you had a million dollars,
+> you should buy a large house. Si tuvieras un millón de dólares, deberías comprar una casa grande.*
 
 # Homework
 
 ## 1. Traducir. Puedes usar un diccionario.
+
+💂 Translate. You can use a dictionary.
 
 1. Mike doubts that the red car is mine.
 2. I know that house is hers.
@@ -338,7 +358,7 @@ you should buy a large house. Si tuvieras un millón de dólares, deberías comp
 11. If my sister visited me more often, I would have a better relationship with her.
 12. I don't know how my life would be if I lived in Los Angeles; it would probably be very different.
 
-## 2. Si yo tuviera veinte millones de dólares compraría una casa para mi madre
+## 2. Si yo tuviera veinte millones de dólares, compraría una casa para mi madre
 
 Explicar cinco cosas que harías si tuvieras veinte millones de dólares en el banco.
 
@@ -346,19 +366,23 @@ Explicar cinco cosas que harías si tuvieras veinte millones de dólares en el b
 
 ## 3. Responder. Puedes usar un diccionario.
 
+💂 Answer. You can use a dictionary.
+
 1. ¿Estarías más feliz si trabajaras menos horas al día?
 2. ¿Te gustaría ir más al gimnasio?
 3. ¿Piensas que Estados Unidos sería un país mejor si la universidad no fuera tan cara?
 4. Si pudieras elegir dónde vivir, ¿vivirías en la ciudad en la que vives ahora?
 5. ¿Te gustaría leer más libros?
 6. Si pudieras ser un animal, ¿serías un pájaro?
-7. Si pudieras volver atrás en el tiempo, ¿habrías elegido una carrera diferente?
+7. Si pudieras volver atrás en el tiempo, ¿elegirías una carrera diferente?
 8. Si pudieras elegir entre poder volar y ser invisible, ¿qué superpoder elegirías?
 9. ¿Te gustaría saber tocar la guitarra y el piano?
 10. ¿Estarías menos estresado/a si tomaras menos café?
-11. ¿Piensas que si los jugadores de béisbol profesionales no ganaran tanto dinero no jugarían tan bien?
+11. ¿Piensas que si los jugadores de béisbol profesionales no ganaran tanto dinero, no jugarían tan bien?
 
 ## 4. Traducir
+
+💂 Translate.
 
 1. If I had known, I would not be here.
 2. I would go to the movie theater tonight if I didn't have to work tomorrow.
@@ -366,6 +390,6 @@ Explicar cinco cosas que harías si tuvieras veinte millones de dólares en el b
 4. If my family lived in Asia, I would not visit them that much.
 5. If I had not been there that night, I would have never met you.
 6. If my dog were bigger, I would be afraid of him.
-7. If my city was less expensive, I would live in three-bedroom apartment.
+7. If my city were less expensive, I would live in a three-bedroom apartment.
 8. If I had studied medicine, I would be a doctor now.
 9. If Sara had a dog, I would go to her house with my chihuahua on Sundays.

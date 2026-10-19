@@ -1,6 +1,6 @@
-# Answer key — Book 5, Unit 3
+# Answer key - Book 5, Unit 3
 
-## 1. Completar, en imperfecto. No todas requieren subjuntivo.
+## 1. Completar, en pasado. No todas requieren subjuntivo.
 
 1. Dudaba que Juan **llegara** a tiempo a la barbacoa.
 2. Le pedí que me **explicara** cómo ir al museo.
@@ -27,7 +27,7 @@
 4. Sabía que ella estaba cocinando / cocinaba pasta.
 5. Ella deseaba que él fuera más simpático y más guapo.
 6. Siempre dudé que mi primo fuera abogado de verdad.
-7. Me pidieron que les ayudara con su problema.
+7. Me pidieron que los ayudara con su problema.
 8. Esperan que Madonna escriba una canción nueva.
 9. Ella creía que él no tenía razón.
 10. Ella no creía que estuvieran aquí.
